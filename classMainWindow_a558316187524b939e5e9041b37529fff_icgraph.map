@@ -1,0 +1,11 @@
+<map id="MainWindow::setTheme" name="MainWindow::setTheme">
+<area shape="rect" id="Node000001" title=" " alt="" coords="595,42,773,67"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a62bd18d91af048e4618dd482e73bce17" title=" " alt="" coords="325,5,547,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,45,547,41,547,36,581,40"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a3a304253c9e7caeef028f75358bf1fd5" title=" " alt="" coords="355,70,517,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="581,69,518,76,517,71,580,64"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,70,277,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,85,277,85,277,80,341,80"/>
+<area shape="rect" id="Node000005" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,70,60,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,85,60,85,60,80,94,80"/>
+</map>

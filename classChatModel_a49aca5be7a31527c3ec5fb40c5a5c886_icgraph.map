@@ -1,0 +1,15 @@
+<map id="ChatModel::sortChats" name="ChatModel::sortChats">
+<area shape="rect" id="Node000001" title="Сортування чатів" alt="" coords="1004,31,1167,56"/>
+<area shape="rect" id="Node000002" href="$classChatModel.html#acc1789815b2781d4ab1566d17f47aac8" title="Додавання чату" alt="" coords="779,5,933,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="990,35,933,29,934,24,990,30"/>
+<area shape="rect" id="Node000007" href="$classChatModel.html#ae2c7933b344dfe9c9edf599a583fcd5c" title="Оновлення інформації про чат" alt="" coords="756,55,956,80"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="990,56,957,60,956,54,990,51"/>
+<area shape="rect" id="Node000003" href="$classModel.html#a43ab33fc014403405f87512e2471f80e" title=" " alt="" coords="521,5,708,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,21,708,21,708,15,765,15"/>
+<area shape="rect" id="Node000004" href="$classPresenter.html#a0b73236d1ca41cfa9e6a04eccc6e642e" title=" " alt="" coords="325,5,473,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="508,21,474,21,474,15,508,15"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,5,277,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,21,278,21,278,15,311,15"/>
+<area shape="rect" id="Node000006" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

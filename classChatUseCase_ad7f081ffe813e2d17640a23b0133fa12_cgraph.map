@@ -1,0 +1,7 @@
+<map id="ChatUseCase::loadChatsAsync" name="ChatUseCase::loadChatsAsync">
+<area shape="rect" id="Node000001" title="Асинхронне завантаження чатів" alt="" coords="5,31,227,56"/>
+<area shape="rect" id="Node000002" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="275,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,29,261,26,261,31,227,35"/>
+<area shape="rect" id="Node000003" href="$classIChatDataManager.html#a53dd6f3f54815d405d77b46624b54fba" title=" " alt="" coords="275,55,457,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,51,261,55,261,60,227,57"/>
+</map>

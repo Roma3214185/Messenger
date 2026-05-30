@@ -1,0 +1,5 @@
+<map id="SocketUseCase::sendInSocket" name="SocketUseCase::sendInSocket">
+<area shape="rect" id="Node000001" title="Надсилання JSON у сокет" alt="" coords="5,5,221,31"/>
+<area shape="rect" id="Node000002" href="$classSocketUseCase.html#a47f62bbb2bfddaac2c9cc2341f1ea4c5" title="Надсилання сирого тексту в сокет" alt="" coords="269,5,485,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,15,256,15,256,21,221,21"/>
+</map>

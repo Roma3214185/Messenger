@@ -1,0 +1,29 @@
+<map id="GenericRepository::findByField" name="GenericRepository::findByField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="728,85,877,125"/>
+<area shape="rect" id="Node000002" href="$classAuthManager.html#a9a6d5ef14657935bf560fd3817215b33" title="Пошук користувачів за тегом" alt="" coords="449,5,667,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,80,679,46,634,33,636,28,681,41,757,76"/>
+<area shape="rect" id="Node000004" href="$classAuthManager.html#a3f0f4f30bf422855f730edef31f7fc8a" title="Перевірка унікальності тегу" alt="" coords="457,55,659,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="714,97,659,90,659,85,714,91"/>
+<area shape="rect" id="Node000007" href="$classChatManager.html#a3748bd107422af3f4e3d58f796217975" title="Отримання списку чатів користувача" alt="" coords="442,120,674,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="714,117,669,123,669,117,714,112"/>
+<area shape="rect" id="Node000009" href="$classChatManager.html#ad6dc11b4250dae386be7c24e92cf474c" title="Отримання списку ID учасників чату" alt="" coords="436,189,680,215"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="744,133,681,159,595,192,593,187,679,154,742,128"/>
+<area shape="rect" id="Node000003" href="$test__authmanager_8cpp.html#a1ff6b2bf2a84d39925972c800485823b" title=" " alt="" coords="221,5,315,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,21,315,21,315,15,436,15"/>
+<area shape="rect" id="Node000005" href="$classAuthManager.html#a887d2d9ecf87e203fb01176a2786f5e2" title="Реєстрація користувача" alt="" coords="169,63,367,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="443,78,367,78,367,73,443,73"/>
+<area shape="rect" id="Node000006" href="$test__authmanager_8cpp.html#aca396a3944f4c3bd93176c61453c3002" title=" " alt="" coords="5,63,100,88"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,78,100,78,100,73,156,73"/>
+<area shape="rect" id="Node000008" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#ae9f42c5fe75dd6c9d2d01dd71ad46e90" title=" " alt="" coords="221,116,315,141"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="428,134,315,132,315,127,428,128"/>
+<area shape="rect" id="Node000010" href="$classChatManager.html#adeff250a1fa040deb6710f3b7d6807cf" title="Кількість учасників у чаті" alt="" coords="149,165,387,191"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="422,193,387,190,387,185,422,188"/>
+<area shape="rect" id="Node000012" href="$classChatManager.html#adc497b74d78aa7594697735206694fad" title="Отримання другого учасника приватного чату" alt="" coords="148,215,388,240"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="422,217,389,219,388,214,422,211"/>
+<area shape="rect" id="Node000014" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#a54ddcf52ef74c3e1fdb28819dc32e4a6" title=" " alt="" coords="221,264,315,289"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="506,221,389,255,316,271,315,266,387,250,504,216"/>
+<area shape="rect" id="Node000011" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#a931e8af901f392ddaa16ba5835e25147" title=" " alt="" coords="5,165,100,191"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="135,181,100,181,100,175,135,175"/>
+<area shape="rect" id="Node000013" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#a247ceaaea291aeb17b3e1696a57dd305" title=" " alt="" coords="5,215,100,240"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="135,230,100,230,100,225,135,225"/>
+</map>

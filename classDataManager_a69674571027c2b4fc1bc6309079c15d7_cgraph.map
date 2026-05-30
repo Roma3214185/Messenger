@@ -1,0 +1,9 @@
+<map id="DataManager::clearAll" name="DataManager::clearAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,172,88"/>
+<area shape="rect" id="Node000002" href="$classDataManager.html#a91c6f8ea95d410f8196ef1f1f9dfed71" title=" " alt="" coords="231,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,60,219,41,261,31,262,36,221,46,141,65"/>
+<area shape="rect" id="Node000003" href="$classDataManager.html#ad210eca4a96da9e2ec845f48f0c120bb" title=" " alt="" coords="220,55,445,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,73,206,73,206,78,172,78"/>
+<area shape="rect" id="Node000004" href="$classDataManager.html#a631f1cbe862aaaa30cd788a93d1e16d3" title=" " alt="" coords="231,120,435,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,85,221,105,262,114,261,120,219,110,140,91"/>
+</map>

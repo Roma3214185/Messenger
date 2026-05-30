@@ -1,0 +1,20 @@
+<map id="Frontend/include/usecases/sessionusecase.h" name="Frontend/include/usecases/sessionusecase.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,409,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="333,240,408,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,44,349,66,362,92,372,128,376,164,376,226,370,226,371,165,367,129,358,94,344,69,328,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="277,93,347,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,46,315,79,309,79,309,46"/>
+<area shape="rect" id="Node000004" href="$sessionmanager_8h.html" title=" " alt="" coords="43,93,253,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,48,185,90,183,85,272,43"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="178,116,224,137,273,164,316,196,351,228,348,232,313,201,271,169,222,142,176,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,240,56,265"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="122,121,88,140,58,168,43,197,36,227,31,226,38,195,54,165,85,136,119,116"/>
+<area shape="rect" id="Node000006" href="$BaseManager_8h.html" title=" " alt="" coords="69,167,259,192"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="153,118,161,153,156,154,148,120"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="198,189,325,233,323,238,196,195"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="144,194,66,236,63,231,141,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="81,240,154,265"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="159,194,135,230,130,227,154,191"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="179,240,309,265"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="179,190,223,229,219,233,175,194"/>
+</map>

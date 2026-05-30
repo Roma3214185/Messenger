@@ -1,0 +1,7 @@
+<map id="SocketRepository::addConnection" name="SocketRepository::addConnection">
+<area shape="rect" id="Node000001" title="Додавання нового з’єднання" alt="" coords="449,5,688,31"/>
+<area shape="rect" id="Node000002" href="$classSocketRepository.html#a81aff0d19f9af395c7fc7ff61c85a5e1" title="Збереження сокета для користувача" alt="" coords="148,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,21,401,21,401,15,436,15"/>
+<area shape="rect" id="Node000003" href="$test__socket__repository_8cpp.html#ac3d5b00c8b245fbcd71d3f34ac1a94da" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
+</map>

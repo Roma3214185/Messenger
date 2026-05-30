@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,141,60,167"/>
+<area shape="rect" id="Node000002" href="$Backend_2MessageService_2main_8cpp.html#aead13484a446e32c137b89ca4ed5caef" title=" " alt="" coords="121,5,286,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,140,61,91,81,63,106,40,115,34,118,39,110,44,85,67,66,94,41,142"/>
+<area shape="rect" id="Node000003" href="$Backend_2MessageService_2main_8cpp.html#a3fed5b51ddc1b6193743d1c2dcb92b8c" title=" " alt="" coords="161,55,245,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="44,139,71,114,107,90,147,75,149,80,109,95,75,119,48,143"/>
+<area shape="rect" id="Node000004" href="$classSQLiteDatabase.html#a9dfe3128b7cc5922c0654f83c2faa983" title="Ініціалізація схеми БД" alt="" coords="108,105,299,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,147,94,141,95,146,61,152"/>
+<area shape="rect" id="Node000007" href="$Debug__profiling_8h.html#a6c7f5432d2a695afceb663c5ff8f07d4" title=" " alt="" coords="160,169,247,195"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="61,156,147,170,146,175,60,161"/>
+<area shape="rect" id="Node000008" href="$classRedisCache.html#aa3c4a33f3740b57f44c172cad8502d82" title="Отримання singleton&#45;інстансу кешу" alt="" coords="123,219,284,244"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="50,165,76,185,109,205,127,212,125,217,107,210,73,190,47,169"/>
+<area shape="rect" id="Node000009" href="$classServer.html#abb27d30b40a94326e3fd629d3b30b7d5" title="Запуск сервера" alt="" coords="157,268,250,293"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="42,166,67,210,86,234,109,254,144,270,142,275,107,259,82,238,63,213,37,168"/>
+<area shape="rect" id="Node000005" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="600,112,751,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,122,586,122,586,127,299,127"/>
+<area shape="rect" id="Node000006" href="$classSQLiteDatabase.html#a1f1d934db198d4e7ea3dc547d75decc0" title="Виконання SQL у конкретному підключенні" alt="" coords="347,137,552,163"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="299,132,333,135,333,141,298,137"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="639,114,631,104,635,94,650,88,675,85,707,89,719,99,716,103,705,94,675,91,651,93,639,98,636,103,643,110"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="552,136,586,132,587,137,553,141"/>
+</map>

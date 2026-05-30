@@ -1,0 +1,13 @@
+<map id="MessageActionPanel::setupActionList" name="MessageActionPanel::setupActionList">
+<area shape="rect" id="Node000001" title="Ініціалізація списку дій" alt="" coords="5,101,161,141"/>
+<area shape="rect" id="Node000002" href="$classMessageActionPanel.html#a026c8acbf28c355034380c99078352cb" title="Обробка кліку по action елементу" alt="" coords="209,101,365,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,119,196,119,196,124,161,124"/>
+<area shape="rect" id="Node000003" href="$classMessageActionPanel.html#a8bb05eef2f8304e6d6403ba0ec5e4c3e" title=" " alt="" coords="413,5,569,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,99,412,55,427,48,429,53,414,60,327,104"/>
+<area shape="rect" id="Node000004" href="$classMessageActionPanel.html#aef44f283c6f27f6187b150bc4058ff1e" title=" " alt="" coords="413,69,569,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,107,399,101,400,106,366,112"/>
+<area shape="rect" id="Node000005" href="$classMessageActionPanel.html#a9a93f58f30e3a75b96b16bb309ed46f5" title=" " alt="" coords="413,133,569,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="366,131,400,136,399,142,365,136"/>
+<area shape="rect" id="Node000006" href="$classMessageActionPanel.html#aba2ae242e17b297f30bb2e3682379815" title=" " alt="" coords="413,197,569,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="327,139,414,183,429,189,427,194,412,188,325,144"/>
+</map>

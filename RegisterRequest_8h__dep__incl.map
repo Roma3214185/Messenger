@@ -1,0 +1,25 @@
+<map id="Backend/AuthService/include/entities/RegisterRequest.h" name="Backend/AuthService/include/entities/RegisterRequest.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="559,5,743,60"/>
+<area shape="rect" id="Node000002" href="$IAuthManager_8h.html" title=" " alt="" coords="552,108,749,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,74,653,108,648,108,648,74"/>
+<area shape="rect" id="Node000005" href="$authmanager_8cpp.html" title=" " alt="" coords="5,321,168,361"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="592,69,122,323,120,318,589,64"/>
+<area shape="rect" id="Node000009" href="$authcontroller_8cpp.html" title=" " alt="" coords="767,218,934,258"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="711,65,763,106,810,164,843,216,838,219,806,167,759,110,708,69"/>
+<area shape="rect" id="Node000003" href="$authmanager_8h.html" title=" " alt="" coords="375,211,534,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="589,171,507,213,505,208,586,167"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="716,166,814,215,812,220,714,171"/>
+<area shape="rect" id="Node000010" href="$MockAuthManager_8h.html" title=" " alt="" coords="558,211,743,265"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="653,176,653,211,648,211,648,176"/>
+<area shape="rect" id="Node000004" href="$Backend_2AuthService_2main_8cpp.html" title=" " alt="" coords="193,321,351,361"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,274,308,323,305,318,394,269"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="363,267,181,316,154,323,153,318,179,311,361,261"/>
+<area shape="rect" id="Node000006" href="$AuthService_2src_2server_8cpp.html" title=" " alt="" coords="375,321,534,361"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,279,457,320,452,320,452,279"/>
+<area shape="rect" id="Node000007" href="$test__authmanager_8cpp.html" title=" " alt="" coords="558,321,765,361"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="522,269,623,318,621,323,519,274"/>
+<area shape="rect" id="Node000008" href="$test__protected__authmanager_8cpp.html" title=" " alt="" coords="789,313,947,368"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="548,263,665,287,778,311,789,314,788,319,777,316,664,292,547,268"/>
+<area shape="rect" id="Node000011" href="$test__authserver_8cpp.html" title=" " alt="" coords="971,321,1162,361"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="758,263,961,311,991,318,990,323,959,316,756,268"/>
+</map>

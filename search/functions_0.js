@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['abort_0',['abort',['../classMockReply.html#a5038df56f108041b4a174976cb803389',1,'MockReply']]],
+  ['add_5foptional_5fto_5fjson_1',['add_optional_to_json',['../namespaceutils.html#a29776c09c291dec225071ed495dcae89',1,'utils']]],
+  ['addacceptableclickablewidget_2',['addacceptableclickablewidget',['../classClickOutsideClosableListView.html#a2a3c93d2f541eaf0c8faa1a7138c5e5f',1,'ClickOutsideClosableListView::addAcceptableClickableWidget()'],['../classOutsideClickFilter.html#aa222cddf8e3abb110e87a28b749c2070',1,'OutsideClickFilter::addAcceptableClickableWidget()']]],
+  ['addchat_3',['addChat',['../classChatModel.html#acc1789815b2781d4ab1566d17f47aac8',1,'ChatModel']]],
+  ['addconnection_4',['addconnection',['../classIActiveSocketRepository.html#a323df16b1edd0836c6df77b856b37025',1,'IActiveSocketRepository::addConnection()'],['../classSocketRepository.html#a8255e225c5e1eebf01d692396b6e03a9',1,'SocketRepository::addConnection()']]],
+  ['addfiledtojson_5',['addFiledToJson',['../namespaceutils.html#a8d171b69b5c8c1029b99fddd33730816',1,'utils']]],
+  ['addimagetoken_6',['addImageToken',['../namespaceutils_1_1text_1_1details.html#a9e04fd0bcd8373ba323c0118131344bb',1,'utils::text::details']]],
+  ['addinrect_7',['addInRect',['../classMessageDelegate.html#a1f46e61201f6b83997c1d9d34654d2ee',1,'MessageDelegate']]],
+  ['addmemberstochat_8',['addmemberstochat',['../classChatManager.html#a5060ed2e390541797920a51f56d2e7d6',1,'ChatManager::addMembersToChat()'],['../classIChatManager.html#ad3e329e8457f87b4e49464a3149f734c',1,'IChatManager::addMembersToChat()'],['../classMockChatManager.html#a6debe46a467d76f2e8d82c20bcb704e0',1,'MockChatManager::addMembersToChat()']]],
+  ['addtoken_9',['addToken',['../namespaceutils_1_1text_1_1details.html#ae4c17fd00171a623c932e39244d3a75b',1,'utils::text::details']]],
+  ['adduser_10',['addUser',['../classUserModel.html#adc1a8fe923c03766aa2dda3a4299b9bd',1,'UserModel']]],
+  ['after_5fhandle_11',['after_handle',['../structCacheMiddleware.html#a139eef1b8429422712b98228f4008bdf',1,'CacheMiddleware::after_handle()'],['../structRateLimitMiddleware.html#aed1aeb5e901dc521efe35097a4cc24ab',1,'RateLimitMiddleware::after_handle()'],['../structMetricsMiddleware.html#a7977eb5db6e7163e93791e6fc0671fa0',1,'MetricsMiddleware::after_handle()'],['../structLoggingMiddleware.html#a36ef2af3c4940dabf2b9f08cc2091bcf',1,'LoggingMiddleware::after_handle()'],['../structAuthMiddleware.html#a87e763e3cfaf729741b40f8098806370',1,'AuthMiddleware::after_handle()']]],
+  ['allow_12',['allow',['../classRateLimiter.html#abc3c6e26e5cfdb6888e5c2efad709fc1',1,'RateLimiter::allow()'],['../classMockRateLimiter.html#af3ef1c309ab4e04d4839f7d2d4354cf5',1,'MockRateLimiter::allow()'],['../classIRateLimiter.html#a9ffd83b8ef6e039adf0e110ebec118ca',1,'IRateLimiter::allow()']]],
+  ['append_13',['append',['../namespaceanonymous__namespace_02chatcontroller_8cpp_03.html#a8308775aeb700fc4ef2693bb28fecb6e',1,'anonymous_namespace{chatcontroller.cpp}']]],
+  ['authcontroller_14',['AuthController',['../classAuthController.html#a983774e3b313e4b061d5db8d5a7539fd',1,'AuthController']]],
+  ['authenticatewithtoken_15',['authenticateWithToken',['../classSessionManager.html#aff38d5b27efbf1b1cbba739c79882a03',1,'SessionManager']]],
+  ['authentificateswithtoken_16',['authentificatesWithToken',['../classSessionUseCase.html#a746f43495806db960c6dd1e4fa7eb3ab',1,'SessionUseCase']]],
+  ['authfail_17',['authFail',['../classGatewayMetrics.html#add1eba679812b3dbbdc61821dabdb537',1,'GatewayMetrics']]],
+  ['authmanager_18',['authmanager',['../classAuthManager.html#a6cbed873823f8c7aff4bfb2655e2456d',1,'AuthManager::AuthManager()'],['../structTestAuthManager.html#a6cbed873823f8c7aff4bfb2655e2456d',1,'TestAuthManager::AuthManager()'],['../structTestProtectedAuthManager.html#a6cbed873823f8c7aff4bfb2655e2456d',1,'TestProtectedAuthManager::AuthManager()']]],
+  ['authok_19',['authOk',['../classGatewayMetrics.html#a6d4b17e243f22f7c38d3ffee7a6395ee',1,'GatewayMetrics']]],
+  ['authorizeuser_20',['authorizeUser',['../classChatController.html#ae1dd760871c88a5c22fc144c58cd5220',1,'ChatController']]],
+  ['autoritize_21',['autoritize',['../classChatController.html#a7defb49252eb5c5b13d1ae4474a26362',1,'ChatController']]]
+];

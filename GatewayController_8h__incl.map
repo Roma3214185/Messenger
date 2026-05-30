@@ -1,0 +1,9 @@
+<map id="Backend/Gateway/include/GatewayController.h" name="Backend/Gateway/include/GatewayController.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,93,78,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,47,64,84,60,80,85,44"/>
+<area shape="rect" id="Node000003" href="$proxyclient_8h.html" title=" " alt="" coords="102,93,209,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,44,142,80,137,84,112,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="126,167,185,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,119,158,153,153,153,153,119"/>
+</map>

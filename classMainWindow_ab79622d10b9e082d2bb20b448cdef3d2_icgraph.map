@@ -1,0 +1,18 @@
+<map id="MainWindow::setTitleChatMode" name="MainWindow::setTitleChatMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1483,42,1711,67"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a967278ff46852c98ed64809e5781a3c8" title=" " alt="" coords="1228,5,1427,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1469,43,1427,39,1427,34,1469,38"/>
+<area shape="rect" id="Node000008" href="$classMainWindow.html#a3a520ce78441ca342b2c33b265c78262" title="Встановлення активного чату" alt="" coords="1220,70,1435,95"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1470,71,1435,74,1435,69,1469,65"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a95dc085bf70bd0c1ad05bd80f897fd1d" title=" " alt="" coords="325,13,555,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1214,26,1172,25,555,27,555,21,1172,20,1214,21"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#a112fcff1c3b32ef0972ca9a42ff29a96" title=" " alt="" coords="921,35,1172,75"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1215,40,1173,44,1172,39,1214,34"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,13,277,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="312,28,277,28,277,23,312,23"/>
+<area shape="rect" id="Node000005" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,28,60,28,60,23,94,23"/>
+<area shape="rect" id="Node000007" href="$classMainWindow.html#a072146398bf8a015648349bcffce84bd" title=" " alt="" coords="603,38,873,63"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="908,56,873,55,874,50,908,50"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="589,41,555,38,555,32,589,35"/>
+</map>

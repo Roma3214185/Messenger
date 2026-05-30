@@ -1,0 +1,22 @@
+<map id="AuthManager::registerUser" name="AuthManager::registerUser">
+<area shape="rect" id="Node000001" title="Реєстрація користувача" alt="" coords="5,194,203,219"/>
+<area shape="rect" id="Node000002" href="$classAuthManager.html#ab378660fbd700ba4bc09f192646d9157" title="Пошук користувача за email." alt="" coords="254,77,479,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,192,176,154,250,115,284,103,286,108,252,120,179,158,124,196"/>
+<area shape="rect" id="Node000005" href="$classAuthManager.html#a3f0f4f30bf422855f730edef31f7fc8a" title="Перевірка унікальності тегу" alt="" coords="266,129,467,169"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,191,261,170,262,175,164,197"/>
+<area shape="rect" id="Node000007" href="$classIIdGenerator.html#aa908b28ab9d33692c6e9bf45e3d0e9f5" title=" " alt="" coords="276,194,457,219"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="203,204,262,204,262,209,203,209"/>
+<area shape="rect" id="Node000008" href="$classAuthManager.html#a0e505496ea6ccf886647d5adb52c00e0" title="Хешування пароля" alt="" coords="251,243,483,269"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="173,217,285,238,284,243,172,222"/>
+<area shape="rect" id="Node000010" href="$classGenericRepository.html#a1e269c8d883358084b245eac1b16ead5" title=" " alt="" coords="277,293,457,318"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="127,217,182,248,252,279,278,287,276,292,250,284,180,253,124,222"/>
+<area shape="rect" id="Node000003" href="$classGenericRepository.html#abd98b3a03adb5b10504f01ca493ba2fe" title=" " alt="" coords="541,5,691,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,74,527,45,528,50,418,79"/>
+<area shape="rect" id="Node000004" href="$classGenericRepository.html#a27ad14c8759d7018d6db1d90932c091d" title=" " alt="" coords="541,69,691,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,87,528,87,528,92,479,92"/>
+<area shape="rect" id="Node000006" href="$classGenericRepository.html#a800a7ef6f0e29e7e6f1aa4fd7f6196be" title=" " alt="" coords="541,133,691,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="468,148,527,149,527,155,468,154"/>
+<area shape="rect" id="Node000009" href="$namespacePasswordService.html#a0159c130ac59593d4b777de4b9316d21" title=" " alt="" coords="531,243,701,269"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="483,253,517,253,517,259,483,259"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="576,245,567,235,572,225,588,219,616,217,651,221,661,225,665,231,660,234,657,229,650,226,616,222,589,224,575,229,572,234,580,241"/>
+</map>

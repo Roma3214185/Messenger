@@ -1,0 +1,9 @@
+<map id="MessageDelegate::drawAnswerOnStatus" name="MessageDelegate::drawAnswerOnStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,232,63"/>
+<area shape="rect" id="Node000002" href="$structMessage.html#af12b2cb6354c7049a4efab54e3658ce7" title=" " alt="" coords="292,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,29,278,25,279,30,232,35"/>
+<area shape="rect" id="Node000004" href="$structMessage.html#a3cb61ad4133a391997f2b1be1e13e0ba" title=" " alt="" coords="280,55,463,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,51,267,55,266,60,232,57"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1text.html#ad28d643e10c2b9f281ea4f30dd3c1493" title=" " alt="" coords="511,5,657,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,15,497,15,497,21,451,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MainWindow::copyMessage" name="MainWindow::copyMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,208,31"/>
+<area shape="rect" id="Node000002" href="$structMessage.html#a10bea40e0b83887335eaaf45b6cfd32c" title=" " alt="" coords="256,5,395,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,15,243,15,243,21,208,21"/>
+<area shape="rect" id="Node000003" href="$structMessage.html#af12b2cb6354c7049a4efab54e3658ce7" title=" " alt="" coords="443,5,601,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,15,429,15,429,21,395,21"/>
+<area shape="rect" id="Node000004" href="$namespaceutils_1_1text.html#ad28d643e10c2b9f281ea4f30dd3c1493" title=" " alt="" coords="649,5,796,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,15,635,15,635,21,602,21"/>
+</map>

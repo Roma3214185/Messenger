@@ -1,0 +1,14 @@
+<map id="Backend/Gateway/tests/mocks/gateway/MockMetrics.h" name="Backend/Gateway/tests/mocks/gateway/MockMetrics.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,5,237,45"/>
+<area shape="rect" id="Node000002" href="$MetricsTracker_8h.html" title=" " alt="" coords="9,93,135,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,47,89,83,85,80,108,44"/>
+<area shape="rect" id="Node000004" href="$IMetrics_8h.html" title=" " alt="" coords="96,167,251,192"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="132,45,149,92,168,153,163,154,144,94,127,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,72,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,120,52,155,47,153,64,118"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="90,116,147,156,144,161,87,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,240,167,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="168,194,145,230,140,227,164,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="191,240,249,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="183,191,207,227,203,230,179,194"/>
+</map>

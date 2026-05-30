@@ -1,0 +1,18 @@
+<map id="Backend/MessageService/tests/mocks/messageservice/SecondTestController.h" name="Backend/MessageService/tests/mocks/messageservice/SecondTestController.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,311,60"/>
+<area shape="rect" id="Node000002" href="$controller_8h.html" title=" " alt="" coords="101,108,306,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,60,206,94,201,94,201,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,255,139,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,132,52,150,31,164,13,183,9,192,9,201,20,219,42,235,69,248,66,253,39,240,16,223,4,203,4,191,9,180,27,160,50,146,99,127"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="24,181,148,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="186,136,118,176,115,172,183,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="172,181,235,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="206,134,206,168,201,168,201,134"/>
+<area shape="rect" id="Node000006" href="$QueueSubscriber_8h.html" title=" " alt="" coords="259,181,401,207"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="225,131,298,172,296,177,222,136"/>
+<area shape="rect" id="Node000008" href="$QueuePublisher_8h.html" title=" " alt="" coords="425,181,560,207"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="250,131,433,175,432,181,249,136"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="295,209,153,255,152,250,294,204"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="287,255,373,280"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="333,207,333,241,327,241,327,207"/>
+</map>

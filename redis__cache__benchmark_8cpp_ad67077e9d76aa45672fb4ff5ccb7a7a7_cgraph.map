@@ -1,0 +1,9 @@
+<map id="BM_SaveEntityIndividually" name="BM_SaveEntityIndividually">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,201,56"/>
+<area shape="rect" id="Node000002" href="$classRedisCache.html#aa3c4a33f3740b57f44c172cad8502d82" title="Отримання singleton&#45;інстансу кешу" alt="" coords="249,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,30,235,26,236,31,202,35"/>
+<area shape="rect" id="Node000003" href="$classRedisCache.html#a07994c61a44ad6839ae42fc5d8a4fba6" title="Встановлення значення з TTL." alt="" coords="267,55,393,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,51,253,57,253,62,201,56"/>
+<area shape="rect" id="Node000004" href="$classRedisCache.html#afca0f224b22350aa5596a55b2ec642fa" title="Отримання Redis&#45;інстансу" alt="" coords="459,55,621,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,65,445,65,445,70,394,70"/>
+</map>

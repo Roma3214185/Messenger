@@ -1,0 +1,10 @@
+<map id="Frontend/include/ui" name="Frontend/include/ui">
+<area shape="rect" id="node1" href="dir_aa14740d6777950aeea49e9bf29930ca.html" title="interfaces" alt="" coords="27,125,114,151"/>
+<area shape="rect" id="node2" href="dir_f9b202ebeba5aa8462727b09508a6d04.html" title="dto" alt="" coords="139,125,181,151"/>
+<area shape="rect" id="node3" href="dir_32deb71096ea61cf0a522e2fa2ae3721.html" title="ui" alt="" coords="95,52,134,77"/>
+<area shape="poly" id="edge1" href="dir_000103_000051.html" alt="" coords="110,79,87,115,83,112,105,76"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000103_000051.html" title="1" alt="" coords="90,107,99,122"/>
+<area shape="poly" id="edge2" href="dir_000103_000018.html" alt="" coords="124,76,148,112,143,115,120,79"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000103_000018.html" title="2" alt="" coords="145,98,155,113"/>
+<area shape="rect" id="clust1" href="dir_351553a5f1d7f553d1ffa5ced81831a5.html" title="include" alt="" coords="16,16,192,161"/>
+</map>

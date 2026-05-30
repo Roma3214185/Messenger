@@ -1,0 +1,9 @@
+<map id="MainWindow::getEmojiModel" name="MainWindow::getEmojiModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,56"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#af8e442e134276ade752d6b4640223d9c" title=" " alt="" coords="264,31,497,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,41,250,41,250,46,216,46"/>
+<area shape="rect" id="Node000003" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="591,5,747,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,30,577,23,577,29,498,36"/>
+<area shape="rect" id="Node000004" href="$classDataManager.html#ae99172aa8edeeaf27ee1bcba4d708524" title=" " alt="" coords="545,55,792,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="498,50,532,53,531,59,497,56"/>
+</map>

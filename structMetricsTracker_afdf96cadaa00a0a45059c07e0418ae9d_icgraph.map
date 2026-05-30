@@ -1,0 +1,8 @@
+<map id="MetricsTracker::startTimer" name="MetricsTracker::startTimer">
+<area shape="rect" id="Node000001" title="Запуск таймера та прив’язка метрик" alt="" coords="351,42,543,67"/>
+<area shape="rect" id="Node000002" href="$structMetricsMiddleware.html#ad73353026a6711616183c6848052358a" title=" " alt="" coords="148,5,303,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,43,302,38,303,33,338,38"/>
+<area shape="rect" id="Node000003" href="$test__middlewares_8cpp.html#a4b24e3ea6679fa289029bde78f3a4520" title=" " alt="" coords="5,42,100,67"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="337,60,303,60,148,60,100,59,100,54,148,55,303,55,337,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,43,101,49,100,44,134,38"/>
+</map>

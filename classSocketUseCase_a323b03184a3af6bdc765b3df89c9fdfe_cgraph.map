@@ -1,0 +1,9 @@
+<map id="SocketUseCase::sendMessage" name="SocketUseCase::sendMessage">
+<area shape="rect" id="Node000001" title="Відправка повідомлення через сокет" alt="" coords="5,31,224,56"/>
+<area shape="rect" id="Node000002" href="$structMessage.html#af12b2cb6354c7049a4efab54e3658ce7" title=" " alt="" coords="301,5,459,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,30,287,24,287,30,225,36"/>
+<area shape="rect" id="Node000004" href="$classSocketUseCase.html#a47f62bbb2bfddaac2c9cc2341f1ea4c5" title="Надсилання сирого тексту в сокет" alt="" coords="272,55,488,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,51,259,54,258,59,224,56"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1text.html#ad28d643e10c2b9f281ea4f30dd3c1493" title=" " alt="" coords="536,5,683,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,15,523,15,523,21,459,21"/>
+</map>

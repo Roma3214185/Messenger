@@ -1,0 +1,27 @@
+<map id="Frontend/include/managers/messagemanager.h" name="Frontend/include/managers/messagemanager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="403,5,601,45"/>
+<area shape="rect" id="Node000002" href="$Managers_8h.html" title=" " alt="" coords="23,93,221,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,51,206,96,204,91,405,46"/>
+<area shape="rect" id="Node000005" href="$messageusecase_8h.html" title=" " alt="" coords="270,93,465,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,55,398,95,396,91,459,51"/>
+<area shape="rect" id="Node000009" href="$messageusecase_8cpp.html" title=" " alt="" coords="513,181,680,221"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="507,58,515,95,530,132,549,158,572,179,569,183,545,162,525,135,510,97,502,59"/>
+<area shape="rect" id="Node000010" href="$messagemanager_8cpp.html" title=" " alt="" coords="539,93,710,133"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="542,51,599,91,596,95,539,55"/>
+<area shape="rect" id="Node000011" href="$Frontend_2tests_2test__messagemanager_8cpp.html" title=" " alt="" coords="735,93,907,133"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="586,46,751,91,750,96,585,52"/>
+<area shape="rect" id="Node000003" href="$Frontend_2main_8cpp.html" title=" " alt="" coords="95,269,237,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,142,34,160,15,183,8,202,15,220,31,237,50,251,95,269,93,274,48,256,27,241,10,223,3,202,10,180,30,156,55,138"/>
+<area shape="rect" id="Node000004" href="$presenter_8cpp.html" title=" " alt="" coords="25,189,219,214"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="125,147,125,188,119,188,119,147"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="334,144,284,183,181,271,177,267,280,179,330,140"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="301,140,155,191,154,186,300,135"/>
+<area shape="rect" id="Node000006" href="$UseCaseRepository_8h.html" title=" " alt="" coords="294,181,489,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="379,146,388,180,383,182,374,147"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="431,136,547,179,545,184,429,141"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="325,228,200,272,198,267,323,223"/>
+<area shape="rect" id="Node000007" href="$UseCaseRepository_8cpp.html" title=" " alt="" coords="262,269,521,295"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="394,235,394,269,389,269,389,235"/>
+<area shape="rect" id="Node000008" href="$model_8cpp.html" title=" " alt="" coords="545,269,720,295"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="463,223,598,267,596,272,461,228"/>
+</map>

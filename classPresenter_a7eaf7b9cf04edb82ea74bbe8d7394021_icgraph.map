@@ -1,0 +1,13 @@
+<map id="Presenter::getDefaultReactionsInChat" name="Presenter::getDefaultReactionsInChat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1188,5,1413,45"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a3c99d8595f741e3c36635c16cccec604" title=" " alt="" coords="859,13,1140,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1174,28,1140,28,1140,23,1174,23"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a3170798da89112c35d70d27a745b0962" title=" " alt="" coords="603,13,811,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="845,28,811,28,811,23,845,23"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#a95dc085bf70bd0c1ad05bd80f897fd1d" title=" " alt="" coords="325,13,555,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="589,28,555,28,555,23,589,23"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,13,277,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="312,28,277,28,277,23,312,23"/>
+<area shape="rect" id="Node000006" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,38"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,28,60,28,60,23,94,23"/>
+</map>

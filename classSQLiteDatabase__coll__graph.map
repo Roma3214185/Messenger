@@ -1,0 +1,5 @@
+<map id="SQLiteDatabase" name="SQLiteDatabase">
+<area shape="rect" id="Node000001" title="Реалізація бази даних SQLite через Qt SQL API." alt="" coords="5,79,132,104"/>
+<area shape="rect" id="Node000002" href="$classIDataBase.html" title=" " alt="" coords="24,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,79,66,79,66,44"/>
+</map>

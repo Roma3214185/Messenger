@@ -1,0 +1,22 @@
+<map id="MainWindow::on_userTextEdit_textChanged" name="MainWindow::on_userTextEdit_textChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,221,137"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a9ce30dfe3186126e4ee390fa4190ab14" title=" " alt="" coords="269,104,468,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,114,255,114,255,119,221,119"/>
+<area shape="rect" id="Node000003" href="$classUserModel.html#adc1a8fe923c03766aa2dda3a4299b9bd" title="Додавання користувача" alt="" coords="528,5,683,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,101,446,71,515,40,536,32,538,37,517,44,448,76,393,106"/>
+<area shape="rect" id="Node000005" href="$classUserModel.html#a3d36e0b5157c11e1e14700864a5c351d" title="Очищення моделі" alt="" coords="539,55,671,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,101,530,80,531,86,431,107"/>
+<area shape="rect" id="Node000006" href="$classUserUseCase.html#a2a815e385792b336507b91b64981426a" title=" " alt="" coords="516,104,695,129"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="468,114,502,114,502,119,468,119"/>
+<area shape="rect" id="Node000008" href="$classModel.html#a10424cf5c5134f48bac57b9e1f1bf540" title=" " alt="" coords="556,153,655,179"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="431,127,543,150,542,156,430,132"/>
+<area shape="rect" id="Node000010" href="$classModel.html#afb15dc7b8fbe853dce84c442fbceb7fc" title=" " alt="" coords="536,203,675,228"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="393,127,449,157,517,188,542,196,540,201,515,192,446,161,391,132"/>
+<area shape="rect" id="Node000004" href="$classUserModel.html#a8c011f656e7d0b6f6b5db9eaa1e2cea2" title="Кількість користувачів" alt="" coords="753,31,916,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="683,24,740,30,739,36,682,29"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="671,58,739,51,740,56,672,63"/>
+<area shape="rect" id="Node000007" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="743,104,926,129"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="695,114,730,114,730,119,695,119"/>
+<area shape="rect" id="Node000009" href="$classUseCaseRepository.html#a23aceb101efaa800aa0e621c4e280505" title="Доступ до User use case." alt="" coords="743,153,927,179"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="655,163,729,163,729,169,655,169"/>
+</map>

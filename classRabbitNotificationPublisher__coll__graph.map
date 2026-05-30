@@ -1,0 +1,7 @@
+<map id="RabbitNotificationPublisher" name="RabbitNotificationPublisher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,93,212,119"/>
+<area shape="rect" id="Node000002" href="$classIPublisher.html" title=" " alt="" coords="5,5,92,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,40,106,91,102,94,63,43"/>
+<area shape="rect" id="Node000003" href="$classIEventPublisher.html" title=" " alt="" coords="117,5,239,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,43,124,94,120,91,159,40"/>
+</map>

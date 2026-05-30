@@ -1,0 +1,13 @@
+<map id="NotificationOrchestrator::onMessageDeleted" name="NotificationOrchestrator::onMessageDeleted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,184,109"/>
+<area shape="rect" id="Node000002" href="$classIPublisher.html#a18799548059ae4d48dfcc1752c068be7" title=" " alt="" coords="232,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,67,241,46,243,52,169,72"/>
+<area shape="rect" id="Node000003" href="$classNotificationOrchestrator.html#a1eeab6f1a1ae4ceae59cb7d51c33d111" title=" " alt="" coords="239,69,418,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,87,225,87,225,92,184,92"/>
+<area shape="rect" id="Node000006" href="$classINotifier.html#a821bb9fabd9e413b97f2bb3fb857b20d" title=" " alt="" coords="242,134,415,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,107,264,128,262,133,176,112"/>
+<area shape="rect" id="Node000004" href="$classINetworkFacade.html#ae08ce77bd4636943f3482bc54f4c43fc" title="Доступ до API чатів" alt="" coords="473,47,643,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,75,459,70,460,75,419,81"/>
+<area shape="rect" id="Node000005" href="$classIChatNetworkManager.html#a784c783359011e734fb838b78f6a9c4d" title=" " alt="" coords="474,97,642,137"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="419,98,461,103,460,108,418,103"/>
+</map>

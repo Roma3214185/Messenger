@@ -1,0 +1,11 @@
+<map id="TestSessionManager::onReplyFinished" name="TestSessionManager::onReplyFinished">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,160,103"/>
+<area shape="rect" id="Node000002" href="$classSessionManager.html#a13b110fe72cb13a30fdb806b76cf99a5" title=" " alt="" coords="208,70,452,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,80,194,80,194,85,160,85"/>
+<area shape="rect" id="Node000003" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="513,5,703,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,67,498,45,500,50,393,73"/>
+<area shape="rect" id="Node000004" href="$structUser.html#ae04eca84074fe851fbdbe28d0045ecb3" title=" " alt="" coords="553,70,663,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,80,539,80,539,85,452,85"/>
+<area shape="rect" id="Node000005" href="$classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e" title=" " alt="" coords="500,119,716,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="403,93,523,114,522,119,402,98"/>
+</map>

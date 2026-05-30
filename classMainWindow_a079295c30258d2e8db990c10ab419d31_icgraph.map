@@ -1,0 +1,7 @@
+<map id="MainWindow::screenGeometryChanged" name="MainWindow::screenGeometryChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,35,529,75"/>
+<area shape="rect" id="Node000002" href="$classClickOutsideClosableListView.html#a7743a9e26dc33c3b3fd500fa6ae8d28a" title="Створення списку з підтримкою закриття по кліку поза межами" alt="" coords="5,5,260,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,45,260,41,261,36,294,39"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a2380a38cd9d53f65bb73a2d5e697b4c4" title="Фільтрація подій UI." alt="" coords="41,70,224,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,69,225,76,224,71,294,64"/>
+</map>

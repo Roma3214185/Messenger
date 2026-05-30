@@ -1,0 +1,9 @@
+<map id="MessageUseCase::getChatMessagesAsync" name="MessageUseCase::getChatMessagesAsync">
+<area shape="rect" id="Node000001" title="Асинхронне отримання повідомлень чату" alt="" coords="5,42,267,82"/>
+<area shape="rect" id="Node000002" href="$classMessageUseCase.html#ae18b19d18f2c0abab16374b7bd553bb9" title="Синхронне отримання повідомлень чату" alt="" coords="315,20,576,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,47,301,44,301,49,267,52"/>
+<area shape="rect" id="Node000004" href="$classIMessageDataManager.html#a4490aed750f4943a305429b7fd07442a" title=" " alt="" coords="359,70,531,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,71,346,78,346,84,267,76"/>
+<area shape="rect" id="Node000003" href="$namespaceanonymous__namespace_02messageusecase_8cpp_03.html#a3498d598234ffdbfc39a9c75f6af15af" title=" " alt="" coords="624,5,805,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,30,610,30,610,35,576,35"/>
+</map>

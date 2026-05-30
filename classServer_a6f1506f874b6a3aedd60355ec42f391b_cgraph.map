@@ -1,0 +1,5 @@
+<map id="Server::generateKeys" name="Server::generateKeys">
+<area shape="rect" id="Node000001" title="Генерація криптографічних ключів" alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000002" href="$classAuthController.html#a9b995e43ce337705ceb149286f6fbab4" title="Генерація ключів (JWT/crypto)" alt="" coords="215,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,15,201,15,201,21,167,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SaveMessageReactionHandler::handle" name="SaveMessageReactionHandler::handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,225,77"/>
+<area shape="rect" id="Node000002" href="$classIReactionJsonService.html#ab96e64bf196d7242e434f6618c90011d" title="Парсинг Reaction з JSON." alt="" coords="279,5,438,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,40,265,35,266,40,226,46"/>
+<area shape="rect" id="Node000003" href="$classIReactionDataManager.html#ad23ba69bee146ad6a87aece573cc9372" title=" " alt="" coords="273,69,444,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,69,260,74,260,79,225,74"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Frontend/include/presenter.h" name="Frontend/include/presenter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,297,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,86,80,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,33,78,82,76,77,170,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,86,179,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,32,159,76,154,73,183,29"/>
+<area shape="rect" id="Node000004" href="$Frontend_2include_2dto_2User_8h.html" title=" " alt="" coords="203,86,291,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,29,233,73,229,76,199,32"/>
+<area shape="rect" id="Node000007" href="$ISocketResponceHandler_8h.html" title=" " alt="" coords="315,79,517,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="227,28,350,72,349,77,225,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,167,226,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,113,209,157,205,154,236,110"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="251,167,309,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="254,110,272,153,267,155,249,113"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="365,167,467,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="419,119,419,153,413,153,413,119"/>
+</map>

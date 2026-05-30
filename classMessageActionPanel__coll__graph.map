@@ -1,0 +1,9 @@
+<map id="MessageActionPanel" name="MessageActionPanel">
+<area shape="rect" id="Node000001" title="Панель дій для повідомлення (контекстне меню + реакції)" alt="" coords="5,196,161,221"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,108,101,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,146,83,195,78,196,66,147"/>
+<area shape="rect" id="Node000003" href="$structMessage.html" title="Модель повідомлення" alt="" coords="126,108,206,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,145,97,197,93,194,143,142"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="137,5,195,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,45,169,108,163,108,163,45"/>
+</map>

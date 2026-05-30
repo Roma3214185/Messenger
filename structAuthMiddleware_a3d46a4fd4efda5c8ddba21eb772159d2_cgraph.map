@@ -1,0 +1,9 @@
+<map id="AuthMiddleware::before_handle" name="AuthMiddleware::before_handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,184,87"/>
+<area shape="rect" id="Node000002" href="$structAuthMiddleware.html#ac0b61fe0b589dda97738db5eec082f4b" title=" " alt="" coords="235,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,47,261,31,262,36,185,52"/>
+<area shape="rect" id="Node000003" href="$structAuthMiddleware.html#a0b3cd264ab275a1d2f5ed32991b514cf" title=" " alt="" coords="232,55,444,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,65,218,65,218,70,184,70"/>
+<area shape="rect" id="Node000004" href="$classIVerifier.html#aed29a91f7b80134f86de3c62e56d292e" title=" " alt="" coords="249,105,427,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,85,240,99,239,104,180,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ChatManager::getOtherMemberId" name="ChatManager::getOtherMemberId">
+<area shape="rect" id="Node000001" title="Отримання другого учасника приватного чату" alt="" coords="5,13,245,38"/>
+<area shape="rect" id="Node000002" href="$classChatManager.html#ad6dc11b4250dae386be7c24e92cf474c" title="Отримання списку ID учасників чату" alt="" coords="293,13,537,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,23,280,23,280,28,246,28"/>
+<area shape="rect" id="Node000003" href="$classGenericRepository.html#a800a7ef6f0e29e7e6f1aa4fd7f6196be" title=" " alt="" coords="585,5,735,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,23,571,23,571,28,538,28"/>
+</map>

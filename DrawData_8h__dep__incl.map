@@ -1,0 +1,15 @@
+<map id="Frontend/include/dto/DrawData.h" name="Frontend/include/dto/DrawData.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="502,5,657,45"/>
+<area shape="rect" id="Node000002" href="$userdelegate_8h.html" title=" " alt="" coords="265,93,467,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,53,414,96,412,91,519,48"/>
+<area shape="rect" id="Node000006" href="$ChatItemDelegate_8cpp.html" title=" " alt="" coords="492,93,667,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="582,59,582,93,577,93,577,59"/>
+<area shape="rect" id="Node000007" href="$test__chatitemdelegate_8cpp.html" title=" " alt="" coords="691,93,862,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="636,48,735,91,732,96,634,53"/>
+<area shape="rect" id="Node000003" href="$DelegatorsFactory_8cpp.html" title=" " alt="" coords="5,189,255,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,141,162,191,161,186,300,136"/>
+<area shape="rect" id="Node000004" href="$UserDelegate_8cpp.html" title=" " alt="" coords="279,181,453,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="369,147,369,181,363,181,363,147"/>
+<area shape="rect" id="Node000005" href="$mainwindow_8cpp.html" title=" " alt="" coords="477,189,692,214"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,136,557,186,555,191,426,141"/>
+</map>

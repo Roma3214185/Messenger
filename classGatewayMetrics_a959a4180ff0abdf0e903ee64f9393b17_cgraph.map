@@ -1,0 +1,11 @@
+<map id="GatewayMetrics::requestEnded" name="GatewayMetrics::requestEnded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,231,56"/>
+<area shape="rect" id="Node000002" href="$classGatewayMetrics.html#a00c120bf047139aa6ad6da7a18021e00" title=" " alt="" coords="279,5,509,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,30,265,27,265,32,231,36"/>
+<area shape="rect" id="Node000003" href="$classGatewayMetrics.html#a1a2c592a666e9456414dee007b431c89" title=" " alt="" coords="291,55,497,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,50,277,55,277,60,231,56"/>
+<area shape="rect" id="Node000004" href="$classGatewayMetrics.html#a1ab093a288c8ec655bc47583df3ee0a9" title=" " alt="" coords="563,29,756,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,55,549,50,549,55,498,60"/>
+<area shape="rect" id="Node000005" href="$classGatewayMetrics.html#a9cb30c4b036ae51be5bae223d3fd995f" title=" " alt="" coords="557,79,761,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="498,74,544,78,544,84,497,79"/>
+</map>

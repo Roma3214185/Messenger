@@ -1,0 +1,12 @@
+<map id="common/Persistence/include/query/QueryResult.h" name="common/Persistence/include/query/QueryResult.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,332,45"/>
+<area shape="rect" id="Node000002" href="$IBaseQuery_8h.html" title=" " alt="" coords="147,93,306,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,59,229,93,224,93,224,59"/>
+<area shape="rect" id="Node000003" href="$DeleteQuery_8h.html" title=" " alt="" coords="5,196,216,236"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,159,136,198,132,194,181,155"/>
+<area shape="rect" id="Node000005" href="$SelectQuery_8h.html" title=" " alt="" coords="241,196,447,236"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="272,155,322,194,319,198,269,159"/>
+<area shape="rect" id="Node000004" href="$QueryFactory_8h.html" title=" " alt="" coords="140,284,313,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,242,203,282,199,286,146,246"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="308,246,254,286,251,282,305,242"/>
+</map>

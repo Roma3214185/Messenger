@@ -1,0 +1,17 @@
+<map id="MessageManager::updateMessage" name="MessageManager::updateMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,253,145"/>
+<area shape="rect" id="Node000002" href="$structMessage.html#a4bc45a7fbc4e33452d8f0476a0741c4c" title="Перевірка коректності стану об’єкта" alt="" coords="317,5,508,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,118,215,80,300,41,330,32,331,37,302,46,218,85,152,122"/>
+<area shape="rect" id="Node000003" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="301,55,524,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,117,300,95,301,101,193,123"/>
+<area shape="rect" id="Node000004" href="$classINetworkAccessManager.html#ad663cb41962196d05072eb8d718a4759" title=" " alt="" coords="307,120,519,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,130,293,130,293,135,253,135"/>
+<area shape="rect" id="Node000005" href="$classIMessageJsonService.html#ace1354e623bf2a02dce8e848df141c39" title="Серіалізація Message у JSON." alt="" coords="333,170,492,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,143,320,169,319,174,192,148"/>
+<area shape="rect" id="Node000006" href="$structMessage.html#a10bea40e0b83887335eaaf45b6cfd32c" title=" " alt="" coords="343,235,482,260"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,143,218,181,302,220,331,229,330,234,300,224,215,185,150,148"/>
+<area shape="rect" id="Node000007" href="$structMessage.html#af12b2cb6354c7049a4efab54e3658ce7" title=" " alt="" coords="572,235,731,260"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="482,245,558,245,558,250,482,250"/>
+<area shape="rect" id="Node000008" href="$namespaceutils_1_1text.html#ad28d643e10c2b9f281ea4f30dd3c1493" title=" " alt="" coords="779,235,925,260"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="731,245,765,245,765,250,731,250"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SQLiteDatabase::deleteTable" name="SQLiteDatabase::deleteTable">
+<area shape="rect" id="Node000001" title="Видалення таблиці" alt="" coords="5,29,215,55"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="516,29,667,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,39,502,39,502,45,215,45"/>
+<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html#a1f1d934db198d4e7ea3dc547d75decc0" title="Виконання SQL у конкретному підключенні" alt="" coords="263,55,468,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="215,50,249,53,249,58,215,55"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="555,31,547,21,551,11,566,5,591,3,623,7,635,16,632,20,621,11,591,8,567,10,555,15,552,20,559,27"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="468,53,502,49,503,55,469,58"/>
+</map>

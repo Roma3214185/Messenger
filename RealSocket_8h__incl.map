@@ -1,0 +1,9 @@
+<map id="Frontend/include/RealSocket.h" name="Frontend/include/RealSocket.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,224,31"/>
+<area shape="rect" id="Node000002" href="$Frontend_2include_2interfaces_2ISocket_8h.html" title=" " alt="" coords="39,79,190,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,31,117,65,112,65,112,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,152,109,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,106,88,142,84,139,105,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,152,184,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="124,103,147,139,142,142,120,106"/>
+</map>

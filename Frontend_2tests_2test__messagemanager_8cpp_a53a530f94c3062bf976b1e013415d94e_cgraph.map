@@ -1,0 +1,9 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,100,88"/>
+<area shape="rect" id="Node000002" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="148,5,356,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,60,147,41,182,31,183,37,149,46,90,65"/>
+<area shape="rect" id="Node000003" href="$classTestMessageManager.html#a7d5bd63923f73d7db1691f214fce427e" title=" " alt="" coords="170,55,334,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,73,156,73,156,78,100,78"/>
+<area shape="rect" id="Node000004" href="$classTokenManager.html#a41ff9d3a9f067e510caf2ed6ab85dacc" title=" " alt="" coords="165,120,339,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,86,149,105,183,114,182,119,147,110,88,91"/>
+</map>

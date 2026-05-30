@@ -1,0 +1,11 @@
+<map id="MessageCommandManager::deleteMessageReaction" name="MessageCommandManager::deleteMessageReaction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,209,125"/>
+<area shape="rect" id="Node000002" href="$structReaction.html#afe5f41f06f70e7dc1c0805dedc8d77b5" title="Перевірка коректності об’єкта" alt="" coords="272,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,82,256,41,290,31,291,37,258,46,153,87"/>
+<area shape="rect" id="Node000003" href="$classGenericRepository.html#abd98b3a03adb5b10504f01ca493ba2fe" title=" " alt="" coords="293,55,442,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,91,278,83,279,88,210,96"/>
+<area shape="rect" id="Node000004" href="$classQueryFactory.html#a62d96afb2ceab43687e8095f399808a7" title=" " alt="" coords="257,120,477,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,113,244,117,244,122,209,118"/>
+<area shape="rect" id="Node000005" href="$classGenericRepository.html#a27ad14c8759d7018d6db1d90932c091d" title=" " alt="" coords="293,170,442,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,122,258,154,287,163,285,168,256,159,163,127"/>
+</map>

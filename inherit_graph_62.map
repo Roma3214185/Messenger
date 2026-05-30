@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classICache.html" title=" " alt="" coords="29,31,96,56"/>
+<area shape="rect" id="Node000001" href="$classMockCache.html" title=" " alt="" coords="179,55,276,80"/>
+<area shape="poly" id="edge17_Node000000_Node000001" title=" " alt="" coords="110,47,178,58,178,63,109,53"/>
+<area shape="rect" id="Node000005" href="$classRedisClient.html" title=" " alt="" coords="179,5,275,31"/>
+<area shape="poly" id="edge18_Node000000_Node000005" title=" " alt="" coords="109,34,179,23,180,28,110,39"/>
+<area shape="rect" id="Node000002" href="$classICacheService.html" title=" " alt="" coords="5,104,120,129"/>
+<area shape="poly" id="edge20_Node000002_Node000001" title=" " alt="" coords="118,97,183,78,185,83,119,103"/>
+<area shape="rect" id="Node000003" href="$classMockApiCache.html" title=" " alt="" coords="168,104,287,129"/>
+<area shape="poly" id="edge19_Node000002_Node000003" title=" " alt="" coords="134,114,168,114,168,119,134,119"/>
+<area shape="rect" id="Node000004" href="$classRedisCache.html" title="Redis&#45;based реалізація кешу (singleton)" alt="" coords="178,153,277,179"/>
+<area shape="poly" id="edge21_Node000002_Node000004" title=" " alt="" coords="119,131,185,151,183,156,118,136"/>
+</map>

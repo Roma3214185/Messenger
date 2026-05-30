@@ -1,0 +1,15 @@
+<map id="Frontend/include/managers/sessionmanager.h" name="Frontend/include/managers/sessionmanager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,167,97,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,47,69,154,64,153,96,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,167,174,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,45,133,118,143,153,138,154,127,119,107,46"/>
+<area shape="rect" id="Node000004" href="$BaseManager_8h.html" title=" " alt="" coords="143,93,333,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,43,208,84,205,89,135,48"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="210,121,102,164,100,159,208,116"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="225,121,176,160,172,156,222,117"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="200,167,273,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,119,240,153,234,153,235,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="298,167,429,192"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="259,116,332,157,330,162,257,121"/>
+</map>

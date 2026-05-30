@@ -1,0 +1,13 @@
+<map id="Server::handleFindById" name="Server::handleFindById">
+<area shape="rect" id="Node000001" title="Обробник GET /findById." alt="" coords="5,31,177,56"/>
+<area shape="rect" id="Node000002" href="$classAuthController.html#a9815dee35ddae8f716f9e814d5520bce" title="Пошук користувача за ID." alt="" coords="225,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,31,212,27,212,32,178,36"/>
+<area shape="rect" id="Node000004" href="$namespaceutils.html#a6ae5dfc9011502355e1ff21057c603ed" title="Конвертація Crow request → RequestDTO." alt="" coords="261,55,367,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,50,247,57,246,63,177,55"/>
+<area shape="rect" id="Node000003" href="$classIAuthManager.html#ad9f02ca18bb523447b178b776a4e4758" title=" " alt="" coords="471,5,643,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,15,457,15,457,21,403,21"/>
+<area shape="rect" id="Node000005" href="$namespaceutils_1_1details.html#a32cd79fcc9dce587c9893e85f6a93215" title="Витяг токена авторизації" alt="" coords="460,55,653,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,65,446,65,446,70,367,70"/>
+<area shape="rect" id="Node000006" href="$namespaceutils_1_1details.html#a3bfdceddbd058f1fbe3f230fdee0ec09" title="Отримання Content&#45;Type." alt="" coords="451,104,663,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="368,75,481,99,480,104,367,81"/>
+</map>

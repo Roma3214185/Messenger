@@ -1,0 +1,22 @@
+<map id="Model::userModel" name="Model::userModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1105,70,1244,95"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a9ce30dfe3186126e4ee390fa4190ab14" title=" " alt="" coords="859,17,1057,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1108,69,1010,45,1011,39,1110,64"/>
+<area shape="rect" id="Node000004" href="$classPresenter.html#a0b73236d1ca41cfa9e6a04eccc6e642e" title=" " alt="" coords="619,70,767,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1092,85,768,85,768,80,1092,80"/>
+<area shape="rect" id="Node000007" href="$classPresenter.html#ac6b3deea56346f7f4e7019fedcc05bca" title=" " alt="" coords="865,121,1051,146"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1107,101,1014,123,1012,118,1106,96"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#aff7683edfd8b5a745f4b8097631b7657" title=" " alt="" coords="585,5,801,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="845,30,801,30,801,24,845,25"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,95,277,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="605,90,278,106,277,101,605,84"/>
+<area shape="rect" id="Node000006" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,95,60,121"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,111,60,111,60,105,94,105"/>
+<area shape="rect" id="Node000008" href="$classMainWindow.html#a5d1ddb8e826a6c8a1ee2cf4cba8cc9af" title=" " alt="" coords="576,121,811,146"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="851,136,811,136,811,131,851,131"/>
+<area shape="rect" id="Node000009" href="$classMainWindow.html#a3a304253c9e7caeef028f75358bf1fd5" title=" " alt="" coords="345,121,508,146"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="562,136,508,136,508,131,562,131"/>
+<area shape="rect" id="Node000010" href="$classMainWindow.html#a6a8c83a41f5dd9814018c0a865e7dada" title="Встановлення моделі користувача" alt="" coords="325,170,528,195"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="611,151,497,173,496,167,610,146"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="331,126,277,120,278,115,332,120"/>
+</map>

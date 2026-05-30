@@ -1,0 +1,14 @@
+<map id="MainWindow::clearSignInPage" name="MainWindow::clearSignInPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="855,33,1071,59"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a9f8c76e11e87a305eee236e6e1244bc2" title=" " alt="" coords="603,33,807,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="841,49,807,49,807,43,841,43"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,33,277,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="643,33,554,17,440,8,326,17,279,25,236,36,235,31,278,20,325,11,440,3,555,11,644,27"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a2b771ad50b698ea76cfb5d42f43bd221" title=" " alt="" coords="330,26,550,66"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="589,49,550,49,550,43,589,43"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#a95dc085bf70bd0c1ad05bd80f897fd1d" title=" " alt="" coords="325,91,555,116"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="633,64,500,93,499,88,631,59"/>
+<area shape="rect" id="Node000004" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,33,60,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,49,60,49,60,43,94,43"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="367,90,325,81,244,61,246,56,326,76,368,85"/>
+</map>

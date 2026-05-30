@@ -1,0 +1,7 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,100,67"/>
+<area shape="rect" id="Node000002" href="$classSocketRepository.html#a8adeca4b049b5ba4f061055386f476b5" title="Отримання сокета користувача" alt="" coords="157,5,351,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,143,39,144,44,100,51"/>
+<area shape="rect" id="Node000003" href="$classSocketRepository.html#a47a904a12a13d64a067f9d1340a54bf3" title="Перевірка чи користувач онлайн" alt="" coords="148,70,360,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,59,150,65,149,71,100,64"/>
+</map>

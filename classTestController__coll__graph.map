@@ -1,0 +1,23 @@
+<map id="TestController" name="TestController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,153,1101,179"/>
+<area shape="rect" id="Node000002" href="$classController.html" title=" " alt="" coords="671,104,758,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,118,863,128,966,143,999,151,997,156,965,149,862,133,771,124"/>
+<area shape="rect" id="Node000003" href="$classIMessageCommandService.html" title=" " alt="" coords="260,5,459,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,23,549,35,625,57,667,78,700,102,696,106,664,83,623,62,547,40,472,28"/>
+<area shape="rect" id="Node000004" href="$classIMessageQueryService.html" title=" " alt="" coords="274,55,445,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="459,73,624,94,672,104,671,109,624,99,459,78"/>
+<area shape="rect" id="Node000005" href="$structIThreadPool.html" title=" " alt="" coords="310,104,409,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,114,671,114,671,119,423,119"/>
+<area shape="rect" id="Node000006" href="$classQueueSubscriber.html" title=" " alt="" coords="293,153,425,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="439,157,624,134,671,124,672,130,624,139,439,162"/>
+<area shape="rect" id="Node000007" href="$classIEventSubscriber.html" title=" " alt="" coords="5,153,136,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="150,163,293,163,293,169,150,169"/>
+<area shape="rect" id="Node000008" href="$classQueuePublisher.html" title=" " alt="" coords="297,203,421,228"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="435,217,480,215,529,208,578,195,622,173,630,166,634,158,638,148,646,139,670,125,673,130,650,143,642,151,639,160,635,169,626,178,579,200,530,213,481,220,435,222"/>
+<area shape="rect" id="Node000009" href="$classIEventPublisher.html" title=" " alt="" coords="9,203,132,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="146,213,297,213,297,218,146,218"/>
+<area shape="rect" id="Node000010" href="$structGetMessagePack.html" title=" " alt="" coords="648,153,781,179"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="795,163,989,163,989,169,795,169"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="685,228,744,253"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="758,239,854,235,910,227,964,213,999,196,1027,177,1030,181,1001,201,966,218,911,232,855,241,758,245"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JsonService::getReactionInfo" name="JsonService::getReactionInfo">
+<area shape="rect" id="Node000001" title="Парсинг ReactionInfo з JSON значення" alt="" coords="297,31,505,56"/>
+<area shape="rect" id="Node000002" href="$classJsonService.html#a507ddf4c092c50c9f7b02c5740c603ec" title="Парсинг Chat з JSON." alt="" coords="19,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,35,235,31,236,25,284,30"/>
+<area shape="rect" id="Node000003" href="$classJsonService.html#ab304080ea0109a95af9d1f29dad38d5f" title="Парсинг повідомлення та реакцій з JSON." alt="" coords="5,55,249,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,56,250,59,250,54,283,51"/>
+</map>

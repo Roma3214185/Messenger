@@ -1,0 +1,7 @@
+<map id="MessageUseCase::deleteMessage" name="MessageUseCase::deleteMessage">
+<area shape="rect" id="Node000001" title="Видалення повідомлення" alt="" coords="5,42,249,67"/>
+<area shape="rect" id="Node000002" href="$classIMessageDataManager.html#a7352c2dbe4f3b2996ac2dfaa6fc71f40" title=" " alt="" coords="303,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,39,289,34,289,39,241,45"/>
+<area shape="rect" id="Node000003" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="297,70,480,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,65,284,69,284,74,246,70"/>
+</map>

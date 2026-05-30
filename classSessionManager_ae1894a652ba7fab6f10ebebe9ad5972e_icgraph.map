@@ -1,0 +1,20 @@
+<map id="SessionManager::userCreated" name="SessionManager::userCreated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="707,184,923,209"/>
+<area shape="rect" id="Node000002" href="$classSessionManager.html#a13b110fe72cb13a30fdb806b76cf99a5" title=" " alt="" coords="415,95,659,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,182,577,123,578,118,762,177"/>
+<area shape="rect" id="Node000006" href="$test__sessionmanager_8cpp.html#a697d4a8bf53418ba5dcec55d9dbef76b" title=" " alt="" coords="5,155,100,180"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="693,195,148,174,100,172,100,167,148,169,693,190"/>
+<area shape="rect" id="Node000009" href="$classSessionUseCase.html#a727c62762ddff6e8176b3740b9fa55bc" title="Ініціалізація SessionUseCase." alt="" coords="415,235,659,260"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="731,215,608,237,607,232,730,209"/>
+<area shape="rect" id="Node000003" href="$classSessionManager.html#aff38d5b27efbf1b1cbba739c79882a03" title=" " alt="" coords="148,55,367,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,96,367,91,367,85,412,90"/>
+<area shape="rect" id="Node000005" href="$classTestSessionManager.html#a3cab3ff23d6cadb41e6f3876c564ac8e" title=" " alt="" coords="180,119,335,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="413,124,335,133,335,128,412,119"/>
+<area shape="rect" id="Node000007" href="$classSessionManager.html#a3bd13fedda85f7015fb3d60d1970298a" title=" " alt="" coords="166,5,349,31"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="492,92,366,46,318,33,320,28,367,41,494,87"/>
+<area shape="rect" id="Node000004" href="$test__sessionmanager_8cpp.html#a56afdec753e15c698864eff198fe9f61" title=" " alt="" coords="5,63,100,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,78,100,78,100,73,134,73"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="167,154,101,164,100,158,166,149"/>
+<area shape="rect" id="Node000008" href="$test__sessionmanager_8cpp.html#a46749a9a85445c4e133a8417e735ae0f" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="152,21,100,21,100,15,152,15"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="UserManager::findUsersByTag" name="UserManager::findUsersByTag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,223,88"/>
+<area shape="rect" id="Node000002" href="$classINetworkAccessManager.html#a7ee479767ef9bc6d51d13d837485b55e" title=" " alt="" coords="276,5,488,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,60,308,31,309,36,175,65"/>
+<area shape="rect" id="Node000003" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="271,55,493,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,73,257,73,257,78,223,78"/>
+<area shape="rect" id="Node000004" href="$classUserManager.html#a8ee15dc7725fbd042fcadb004cf78871" title=" " alt="" coords="283,119,481,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,86,285,114,284,119,168,91"/>
+<area shape="rect" id="Node000005" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="541,97,749,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="480,126,527,120,528,126,481,131"/>
+<area shape="rect" id="Node000006" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="550,147,741,187"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="481,147,537,153,536,158,480,152"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['unreadmessage_0',['unreadMessage',['../classMessageDelegate.html#a147b1f3f632e6a4c78dfe1d2a5b797d9',1,'MessageDelegate']]],
+  ['update_1',['update',['../classClickOutsideClosableListView.html#a5c7f3115f5a5f356171d64f44b847f70',1,'ClickOutsideClosableListView']]],
+  ['updatecache_2',['updateCache',['../classSelectQuery.html#ac8aefc8d767cc097cc4ff39fd97bb3e7',1,'SelectQuery']]],
+  ['updatechatinfo_3',['updateChatInfo',['../classChatModel.html#ae2c7933b344dfe9c9edf599a583fcd5c',1,'ChatModel']]],
+  ['updatefrom_4',['updateFrom',['../structMessage.html#aef02c78ca67c8fd46eb2b39b2319f1d3',1,'Message']]],
+  ['updatemessage_5',['updatemessage',['../classController.html#a0dad8a55f42c9934c6ee8775d669ecf2',1,'Controller::updateMessage()'],['../classIMessageCommandService.html#a4a5e239bfd38f8adfe73dce6cdedfd34',1,'IMessageCommandService::updateMessage()'],['../classMessageCommandManager.html#a902ad0073d9faa08f8de63c7e24c8548',1,'MessageCommandManager::updateMessage()'],['../classMessageManager.html#a0a7dee8401b8b2e70f9cc8da0d502a48',1,'MessageManager::updateMessage()']]],
+  ['updateviewvisibility_6',['updateViewVisibility',['../namespaceutils_1_1ui.html#aa88167f521cf74ba72556893248628a6',1,'utils::ui']]],
+  ['url_5fapigate_5fservice_7',['url_apigate_service',['../test__sessionmanager_8cpp.html#aa15ea5042b76e91a480b3f9a8fd49e8c',1,'test_sessionmanager.cpp']]],
+  ['url_5fauth_5fservice_8',['url_auth_service',['../test__sessionmanager_8cpp.html#a0dcaee1a4fbac1dc7b8442bcdda9b234',1,'test_sessionmanager.cpp']]],
+  ['usecaserepository_9',['UseCaseRepository',['../classUseCaseRepository.html#a4d3a1323c47fe29d1bca3988f7c06a0b',1,'UseCaseRepository']]],
+  ['user_10',['user',['../structUser.html#a4dd5fde1b81bb132994a67f27bc203d1',1,'User::User()=default'],['../structUser.html#af363225014d8b4c8100f2aaf403e4bb8',1,'User::User(long long id, std::string username, std::string email, std::string tag, const std::string &amp;avatar=&quot;/Users/roma/QtProjects/Chat/default_avatar.jpeg&quot;)'],['../classModel.html#a10424cf5c5134f48bac57b9e1f1bf540',1,'Model::user()'],['../classUseCaseRepository.html#a23aceb101efaa800aa0e621c4e280505',1,'UseCaseRepository::user()']]],
+  ['userconnected_11',['userconnected',['../classGatewayMetrics.html#ab1d52fd2aeb15c3662b1afcc40248df5',1,'GatewayMetrics::userConnected()'],['../classIMetrics.html#a6b9e2de0963f40cf7a09e1a840c2be89',1,'IMetrics::userConnected()'],['../classMockMetrics.html#a8d0836db5f6e99233a9476229e5d7e1f',1,'MockMetrics::userConnected()']]],
+  ['usercreated_12',['usercreated',['../classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e',1,'SessionManager::userCreated()'],['../classSessionUseCase.html#aeabcf995647136e3845cfee13d559f9e',1,'SessionUseCase::userCreated()']]],
+  ['userdisconnected_13',['userdisconnected',['../classGatewayMetrics.html#ab38a3d93211dd94e1915617a9340c468',1,'GatewayMetrics::userDisconnected()'],['../classMockMetrics.html#ada960ee913df72a40cbf8eae3e3423f9',1,'MockMetrics::userDisconnected()'],['../classIMetrics.html#a3e7ab4f2282589f43cd2b198229f6e49',1,'IMetrics::userDisconnected()']]],
+  ['usermanager_14',['usermanager',['../classTestUserManager.html#ac9b07d6327ebd9056ba822c91a37eb9d',1,'TestUserManager::UserManager()'],['../classUserManager.html#ac9b07d6327ebd9056ba822c91a37eb9d',1,'UserManager::UserManager()']]],
+  ['usermodel_15',['usermodel',['../classModel.html#afb15dc7b8fbe853dce84c442fbceb7fc',1,'Model::userModel()'],['../classUserModel.html#a6be8ffa0659072a8a5764d551747542e',1,'UserModel::UserModel()']]],
+  ['usernetworkmanager_16',['UserNetworkManager',['../classUserNetworkManager.html#ad6253448a95f79ef2b62951e51fb5c0e',1,'UserNetworkManager']]],
+  ['useronline_17',['useronline',['../classIUserSocketRepository.html#aed2254745111d7a1feb84971d95e6f52',1,'IUserSocketRepository::userOnline()'],['../classSocketRepository.html#a47a904a12a13d64a067f9d1340a54bf3',1,'SocketRepository::userOnline()'],['../classMockUserSocketRepository.html#aa13b9ef47e041354c87f94e45578948f',1,'MockUserSocketRepository::userOnline()']]],
+  ['users_18',['users',['../classMockFacade.html#a75869644e55e73e2c4b16f078a8e0ca4',1,'MockFacade::users()'],['../classINetworkFacade.html#afd90dfe44c4119ed6f55efc43e33715b',1,'INetworkFacade::users()'],['../classNetworkFacade.html#afbdb93a0237fcb35a89477121f2d6103',1,'NetworkFacade::users()']]],
+  ['usersetted_19',['userSetted',['../classPresenter.html#a104404a970941c79bd85dbf0e726e36c',1,'Presenter']]],
+  ['usertojson_20',['userToJson',['../namespaceanonymous__namespace_02authcontroller_8cpp_03.html#a47f4a0065c3f4a32f6bf493440eb4b37',1,'anonymous_namespace{authcontroller.cpp}']]],
+  ['userusecase_21',['UserUseCase',['../classUserUseCase.html#ade7aac5bcd56292f6196dc2da0e43f2b',1,'UserUseCase']]]
+];

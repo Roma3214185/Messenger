@@ -1,0 +1,11 @@
+<map id="RedisCache::getRedis" name="RedisCache::getRedis">
+<area shape="rect" id="Node000001" title="Отримання Redis&#45;інстансу" alt="" coords="453,55,616,80"/>
+<area shape="rect" id="Node000002" href="$classRedisCache.html#ab3370a5766289de1c8396002a791ec0f" title="Отримання значення за ключем" alt="" coords="264,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,54,381,33,382,28,468,49"/>
+<area shape="rect" id="Node000003" href="$classRedisCache.html#aaf0501bc82a594de5750054a44029732" title="Видалення ключа" alt="" coords="249,55,405,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="440,70,405,70,405,65,440,65"/>
+<area shape="rect" id="Node000004" href="$classRedisCache.html#a07994c61a44ad6839ae42fc5d8a4fba6" title="Встановлення значення з TTL." alt="" coords="264,104,391,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="468,86,382,107,381,101,467,81"/>
+<area shape="rect" id="Node000005" href="$redis__cache__benchmark_8cpp.html#ad67077e9d76aa45672fb4ff5ccb7a7a7" title=" " alt="" coords="5,104,201,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,119,202,119,202,114,250,114"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="utils::time::getCurrentTime" name="utils::time::getCurrentTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="393,42,592,67"/>
+<area shape="rect" id="Node000002" href="$classMarkReadMessageHandler.html#adcbba939a663595f3b1a6a96c4a0db66" title=" " alt="" coords="148,5,345,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,44,345,40,346,34,380,39"/>
+<area shape="rect" id="Node000004" href="$MessageService_2tests_2test__controller_8cpp.html#a13b8b5eebfe206f47edaa74b521d7ee9" title=" " alt="" coords="199,70,294,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,70,295,80,294,75,379,65"/>
+<area shape="rect" id="Node000003" href="$test__messageHandlers_8cpp.html#a2ed08bb30c273fab9e605b68f9c9f6f7" title=" " alt="" coords="5,13,100,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,28,100,28,100,23,134,23"/>
+</map>

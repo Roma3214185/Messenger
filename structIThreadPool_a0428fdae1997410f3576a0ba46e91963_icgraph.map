@@ -1,0 +1,16 @@
+<map id="IThreadPool::enqueueTask" name="IThreadPool::enqueueTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="892,63,1084,88"/>
+<area shape="rect" id="Node000002" href="$structIThreadPool.html#a4679454ba44b78c5818460887cbef781" title=" " alt="" coords="681,63,844,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="878,78,844,78,844,73,878,73"/>
+<area shape="rect" id="Node000003" href="$classController.html#a72471107f0fad86032326d42b07b794e" title=" " alt="" coords="405,5,633,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="698,62,633,46,578,33,579,28,634,41,699,57"/>
+<area shape="rect" id="Node000006" href="$classController.html#af4b79d1e6b507d215347ca92b120e34f" title=" " alt="" coords="405,55,633,95"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="668,78,633,78,633,73,668,73"/>
+<area shape="rect" id="Node000007" href="$classRabbitMQClient.html#a77fbca4bf381706a78e99f5c269cc846" title="Підписка на події" alt="" coords="422,120,617,145"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="699,94,634,110,579,123,578,117,633,105,698,89"/>
+<area shape="rect" id="Node000004" href="$classController.html#acd9199a835b20573f4767cf260f3224e" title=" " alt="" coords="184,35,357,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,35,358,40,357,34,398,30"/>
+<area shape="rect" id="Node000005" href="$classController.html#a342e81be8639deb3b671b966d4f81638" title=" " alt="" coords="5,35,136,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,50,136,50,136,45,170,45"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="391,64,357,60,358,54,392,58"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="RabbitNotificationSubscriber::subscribeMessageReactionSaved" name="RabbitNotificationSubscriber::subscribeMessageReactionSaved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,252,189"/>
+<area shape="rect" id="Node000002" href="$classNotificationOrchestrator.html#a28f1450b25e321375c518cb116988b91" title=" " alt="" coords="300,119,501,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,153,286,149,287,154,252,158"/>
+<area shape="rect" id="Node000010" href="$classIEventSubscriber.html#ac8ecba8bf63ecb5193b877878a7e0016" title=" " alt="" coords="300,184,501,209"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="252,179,287,182,286,188,252,184"/>
+<area shape="rect" id="Node000003" href="$classNotificationOrchestrator.html#a1eeab6f1a1ae4ceae59cb7d51c33d111" title=" " alt="" coords="549,55,728,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,117,550,96,551,101,477,122"/>
+<area shape="rect" id="Node000006" href="$classNotificationOrchestrator.html#a120c3a8f51ac47b7e4a1f62b00f56bdd" title=" " alt="" coords="549,119,728,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="501,137,535,137,535,142,501,142"/>
+<area shape="rect" id="Node000009" href="$classINotifier.html#a821bb9fabd9e413b97f2bb3fb857b20d" title=" " alt="" coords="552,184,725,209"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="485,157,573,178,571,183,484,162"/>
+<area shape="rect" id="Node000004" href="$classINetworkFacade.html#ae08ce77bd4636943f3482bc54f4c43fc" title="Доступ до API чатів" alt="" coords="791,5,961,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="721,53,809,31,810,37,723,58"/>
+<area shape="rect" id="Node000005" href="$classIChatNetworkManager.html#a784c783359011e734fb838b78f6a9c4d" title=" " alt="" coords="792,55,960,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="728,73,778,73,778,78,728,78"/>
+<area shape="rect" id="Node000007" href="$classIMessageNetworkManager.html#a048229eebd310441e581ec9bcdd647a3" title=" " alt="" coords="778,119,974,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="728,137,764,137,764,142,728,142"/>
+<area shape="rect" id="Node000008" href="$classINetworkFacade.html#a9c7afcb35b99977c6d733a9229d9c633" title="Доступ до API повідомлень" alt="" coords="776,184,976,209"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="723,157,810,178,809,183,721,162"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MessageUseCase::getChatMessages" name="MessageUseCase::getChatMessages">
+<area shape="rect" id="Node000001" title="Синхронне отримання повідомлень чату" alt="" coords="5,20,267,45"/>
+<area shape="rect" id="Node000002" href="$namespaceanonymous__namespace_02messageusecase_8cpp_03.html#a3498d598234ffdbfc39a9c75f6af15af" title=" " alt="" coords="315,5,496,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,30,301,30,301,35,267,35"/>
+</map>

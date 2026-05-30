@@ -1,0 +1,19 @@
+<map id="Presenter::onChatClicked" name="Presenter::onChatClicked">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,191,155"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a8b77a4cd21e4aea474c507d3d8156716" title=" " alt="" coords="239,129,393,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,139,225,139,225,145,191,145"/>
+<area shape="rect" id="Node000003" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="473,5,629,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,127,374,84,406,60,440,40,459,32,461,37,443,44,409,64,377,88,331,131"/>
+<area shape="rect" id="Node000004" href="$classDataManager.html#ac6c1dc0459e4c36b4dc7b29438e2e782" title=" " alt="" coords="467,55,636,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="344,127,440,89,470,81,472,86,442,94,346,132"/>
+<area shape="rect" id="Node000005" href="$classModel.html#a4a7a2fde12b3ab0d5e5320259c0f8fa7" title=" " alt="" coords="467,104,636,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="393,131,453,125,453,130,394,136"/>
+<area shape="rect" id="Node000007" href="$classIMainWindow.html#af97ebf19cd7222ccc007170257fe4e3b" title=" " alt="" coords="442,153,661,179"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="394,147,429,151,428,156,393,153"/>
+<area shape="rect" id="Node000008" href="$classPresenter.html#a9bb1d57dae350fc410c64de6ebacb8b1" title=" " alt="" coords="450,203,653,228"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="348,152,442,187,476,197,475,202,441,193,346,157"/>
+<area shape="rect" id="Node000009" href="$classMessageListView.html#aa824091c9aa6498711b6e7221c6f401e" title="Встановлення моделі повідомлень" alt="" coords="441,253,661,293"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="332,153,379,194,410,217,443,237,460,245,458,250,440,242,407,221,375,198,329,157"/>
+<area shape="rect" id="Node000006" href="$classDataManager.html#a4e5b36a59c50c6a5d6b75249096a0fce" title=" " alt="" coords="709,104,947,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="636,114,695,114,695,119,636,119"/>
+</map>

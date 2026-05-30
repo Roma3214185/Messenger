@@ -1,0 +1,43 @@
+<map id="Backend/NotificationService/include/interfaces/IMessageHandler.h" name="Backend/NotificationService/include/interfaces/IMessageHandler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="504,5,775,45"/>
+<area shape="rect" id="Node000002" href="$SocketHandlersRepositoty_8h.html" title=" " alt="" coords="528,299,786,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,31,375,37,255,48,150,67,110,80,80,96,40,130,25,149,15,168,9,188,9,209,16,229,29,249,52,261,96,272,225,290,381,302,528,310,527,315,380,308,224,295,95,277,50,266,26,253,11,231,4,209,4,188,10,166,21,146,36,126,77,91,108,75,149,62,254,43,375,32,491,26"/>
+<area shape="rect" id="Node000007" href="$DeleteMessageReaction_8h.html" title=" " alt="" coords="91,93,330,148"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="540,51,331,96,330,91,539,46"/>
+<area shape="rect" id="Node000011" href="$InitMessageHandler_8h.html" title=" " alt="" coords="354,101,632,141"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="600,55,524,103,521,98,597,50"/>
+<area shape="rect" id="Node000013" href="$MarkReadMessageHandler_8h.html" title=" " alt="" coords="657,93,918,148"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="682,50,747,91,745,95,680,55"/>
+<area shape="rect" id="Node000015" href="$SaveMessageReaction_8h.html" title=" " alt="" coords="942,101,1238,141"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="745,46,1000,98,999,103,743,51"/>
+<area shape="rect" id="Node000017" href="$SendMessageHandler_8h.html" title=" " alt="" coords="1263,101,1552,141"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="789,38,1007,61,1251,91,1300,98,1299,103,1250,96,1007,66,788,43"/>
+<area shape="rect" id="Node000003" href="$Backend_2NotificationService_2main_8cpp.html" title=" " alt="" coords="196,387,400,427"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,344,378,389,376,384,564,339"/>
+<area shape="rect" id="Node000004" href="$SocketHandlersRepository_8cpp.html" title=" " alt="" coords="424,387,730,427"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="632,351,597,388,593,385,628,347"/>
+<area shape="rect" id="Node000005" href="$NotificationService_2src_2server_8cpp.html" title=" " alt="" coords="1067,387,1271,427"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="783,338,1067,386,1066,391,782,344"/>
+<area shape="rect" id="Node000006" href="$test__socketHandlersRepository_8cpp.html" title=" " alt="" coords="754,387,1043,427"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="724,341,846,384,845,389,722,346"/>
+<area shape="rect" id="Node000008" href="$MessageHanldlers_8h.html" title=" " alt="" coords="956,203,1225,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="343,146,512,163,644,170,776,177,943,193,992,201,991,206,942,199,776,182,644,176,512,169,343,151"/>
+<area shape="rect" id="Node000010" href="$DeleteMessageReactionHandler_8cpp.html" title=" " alt="" coords="40,196,306,251"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="198,162,185,197,180,195,193,160"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="990,249,745,301,744,296,989,244"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="1118,253,1146,298,1162,345,1169,386,1164,387,1157,346,1141,300,1113,255"/>
+<area shape="rect" id="Node000009" href="$test__messageHandlers_8cpp.html" title=" " alt="" coords="892,299,1131,339"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1068,256,1030,300,1026,297,1063,252"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="616,140,645,145,943,193,985,201,984,206,942,199,645,151,615,146"/>
+<area shape="rect" id="Node000012" href="$InitMessageHandler_8cpp.html" title=" " alt="" coords="331,203,596,243"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="486,154,472,204,467,203,481,153"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="880,150,1034,201,1033,206,879,155"/>
+<area shape="rect" id="Node000014" href="$MarkReadMessageHandler_8cpp.html" title=" " alt="" coords="620,203,931,243"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="786,162,781,203,775,203,780,162"/>
+<area shape="poly" id="edge19_Node000015_Node000008" title=" " alt="" coords="1093,155,1093,203,1088,203,1088,155"/>
+<area shape="rect" id="Node000016" href="$SaveMessageReactionHandler_8cpp.html" title=" " alt="" coords="1249,196,1505,251"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="1158,143,1303,193,1301,198,1156,148"/>
+<area shape="poly" id="edge22_Node000017_Node000008" title=" " alt="" coords="1336,147,1151,206,1149,201,1335,142"/>
+<area shape="rect" id="Node000018" href="$SendMessageHandler_8cpp.html" title=" " alt="" coords="1530,203,1806,243"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="1470,143,1620,201,1618,206,1468,148"/>
+</map>

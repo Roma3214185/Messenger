@@ -1,0 +1,22 @@
+<map id="Message::isMine" name="Message::isMine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1448,55,1579,80"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a2d40167df28e06a090a6a19e9117b74f" title=" " alt="" coords="1188,5,1400,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1442,54,1351,33,1352,28,1444,49"/>
+<area shape="rect" id="Node000008" href="$classMessageDelegate.html#af4422860c9b5d3e77de51de2a96ac5ca" title=" " alt="" coords="1196,104,1392,129"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1444,86,1352,107,1351,101,1442,80"/>
+<area shape="rect" id="Node000010" href="$classMainWindow.html#a4c62774626d525c7384e7759ca33956f" title=" " alt="" coords="1196,55,1392,80"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1434,70,1392,70,1392,65,1434,65"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a3c99d8595f741e3c36635c16cccec604" title=" " alt="" coords="859,31,1140,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1174,31,1141,34,1140,29,1174,26"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#a3170798da89112c35d70d27a745b0962" title=" " alt="" coords="603,31,811,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="845,46,811,46,811,41,845,41"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a95dc085bf70bd0c1ad05bd80f897fd1d" title=" " alt="" coords="325,31,555,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="589,46,555,46,555,41,589,41"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,31,277,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="312,46,277,46,277,41,312,41"/>
+<area shape="rect" id="Node000007" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="94,46,60,46,60,41,94,41"/>
+<area shape="rect" id="Node000009" href="$classMessageDelegate.html#a8cc69113c3affde70820da1b78f50f01" title=" " alt="" coords="909,104,1089,129"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1182,119,1089,119,1089,114,1182,114"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="1182,61,1140,57,1141,52,1183,56"/>
+</map>

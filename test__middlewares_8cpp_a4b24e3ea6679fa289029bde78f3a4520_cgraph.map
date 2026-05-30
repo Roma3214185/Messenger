@@ -1,0 +1,14 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,100,102"/>
+<area shape="rect" id="Node000002" href="$structMetricsMiddleware.html#a7977eb5db6e7163e93791e6fc0671fa0" title=" " alt="" coords="148,5,303,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,74,157,48,159,53,89,79"/>
+<area shape="rect" id="Node000004" href="$structMetricsMiddleware.html#ad73353026a6711616183c6848052358a" title=" " alt="" coords="148,69,303,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,87,134,87,134,92,100,92"/>
+<area shape="rect" id="Node000006" href="$structMetricsTracker.html#afdf96cadaa00a0a45059c07e0418ae9d" title="Запуск таймера та прив’язка метрик" alt="" coords="351,130,543,155"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="86,99,149,119,245,133,337,139,337,144,244,138,147,124,84,105"/>
+<area shape="rect" id="Node000003" href="$classIMetrics.html#a97276499e269210db74d4ed291706cab" title=" " alt="" coords="361,13,532,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,23,348,23,348,28,303,28"/>
+<area shape="rect" id="Node000005" href="$classIMetrics.html#a2e7fe9e1157b3385eff3ec9234805400" title=" " alt="" coords="365,77,528,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,87,352,87,352,92,303,92"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="304,105,381,124,380,129,303,111"/>
+</map>

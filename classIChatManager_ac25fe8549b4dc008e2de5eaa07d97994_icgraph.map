@@ -1,0 +1,11 @@
+<map id="IChatManager::createPrivateChat" name="IChatManager::createPrivateChat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="983,13,1221,38"/>
+<area shape="rect" id="Node000002" href="$classChatController.html#a3943f20f737ce3db0b9a4d27063d5b47" title="Створення приватного чату" alt="" coords="693,13,935,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="969,28,935,28,935,23,969,23"/>
+<area shape="rect" id="Node000003" href="$classChatServer.html#af259846c2d22afed42dfdd55eed839ec" title="Обробка створення приватного чату" alt="" coords="444,5,645,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="680,28,645,28,645,23,680,23"/>
+<area shape="rect" id="Node000004" href="$classChatServer.html#a7ec69ee93477cb1bd31136ed98564665" title="Ініціалізація HTTP маршрутів" alt="" coords="228,13,396,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,28,396,28,396,23,430,23"/>
+<area shape="rect" id="Node000005" href="$classChatServer.html#a0581ce9832b7dd4e8741fba56bdf9fcc" title=" " alt="" coords="5,13,180,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,28,180,28,180,23,214,23"/>
+</map>

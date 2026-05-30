@@ -1,0 +1,7 @@
+<map id="AuthManager::findUserByEmail" name="AuthManager::findUserByEmail">
+<area shape="rect" id="Node000001" title="Пошук користувача за email." alt="" coords="393,5,619,31"/>
+<area shape="rect" id="Node000002" href="$classAuthManager.html#a887d2d9ecf87e203fb01176a2786f5e2" title="Реєстрація користувача" alt="" coords="148,5,345,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,21,346,21,346,15,380,15"/>
+<area shape="rect" id="Node000003" href="$test__authmanager_8cpp.html#aca396a3944f4c3bd93176c61453c3002" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
+</map>

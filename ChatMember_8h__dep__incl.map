@@ -1,0 +1,15 @@
+<map id="common/entities/include/entities/ChatMember.h" name="common/entities/include/entities/ChatMember.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,5,361,45"/>
+<area shape="rect" id="Node000002" href="$Backend_2ChatService_2src_2chatmanager_8cpp.html" title=" " alt="" coords="5,101,167,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,54,124,103,122,98,219,49"/>
+<area shape="rect" id="Node000003" href="$ChatMemberMeta_8h.html" title=" " alt="" coords="191,93,349,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,59,273,93,267,93,267,59"/>
+<area shape="rect" id="Node000007" href="$test__genericrepository_8cpp.html" title=" " alt="" coords="373,101,607,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="328,48,447,98,445,103,326,53"/>
+<area shape="rect" id="Node000004" href="$metaentities_8h.html" title=" " alt="" coords="191,196,349,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,162,273,196,267,196,267,162"/>
+<area shape="rect" id="Node000005" href="$SelectQuery_8h.html" title=" " alt="" coords="167,299,373,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,264,273,299,267,299,267,264"/>
+<area shape="rect" id="Node000006" href="$QueryFactory_8h.html" title=" " alt="" coords="183,387,357,427"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="273,353,273,386,267,386,267,353"/>
+</map>

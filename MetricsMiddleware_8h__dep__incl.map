@@ -1,0 +1,25 @@
+<map id="Backend/Gateway/include/middlewares/MetricsMiddleware.h" name="Backend/Gateway/include/middlewares/MetricsMiddleware.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="624,5,875,45"/>
+<area shape="rect" id="Node000002" href="$CacheMiddleware_8h.html" title=" " alt="" coords="708,93,951,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="778,54,814,91,810,95,774,57"/>
+<area shape="rect" id="Node000003" href="$Middlewares_8h.html" title=" " alt="" coords="645,181,854,221"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="721,57,708,75,699,94,694,113,698,132,712,158,731,179,726,183,708,161,694,134,689,113,693,92,704,72,717,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="804,145,769,183,765,179,800,142"/>
+<area shape="rect" id="Node000004" href="$gatewayserver_8h.html" title=" " alt="" coords="477,269,667,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="699,230,612,272,610,267,697,225"/>
+<area shape="rect" id="Node000006" href="$Backend_2Gateway_2main_8cpp.html" title=" " alt="" coords="5,372,208,397"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="648,227,465,272,281,328,140,374,139,369,279,322,463,267,647,222"/>
+<area shape="rect" id="Node000007" href="$GatewayController_8cpp.html" title=" " alt="" coords="685,365,859,405"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="756,235,772,364,767,365,751,236"/>
+<area shape="rect" id="Node000008" href="$gatewayserver_8cpp.html" title=" " alt="" coords="884,365,1047,405"/>
+<area shape="poly" id="edge11_Node000003_Node000008" title=" " alt="" coords="768,232,794,270,827,307,872,339,918,362,916,367,869,343,824,311,789,274,764,235"/>
+<area shape="rect" id="Node000010" href="$test__middlewares_8cpp.html" title=" " alt="" coords="838,269,1013,309"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="801,225,888,267,886,272,799,230"/>
+<area shape="rect" id="Node000005" href="$request__responce__pattern__benchmark_8cpp.html" title=" " alt="" coords="438,357,661,412"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,323,558,358,553,357,562,322"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="464,313,221,360,155,375,154,369,219,355,463,308"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="626,313,733,362,730,367,624,318"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="675,310,871,355,899,362,898,367,870,360,674,315"/>
+<area shape="rect" id="Node000009" href="$test__gatewayserver_8cpp.html" title=" " alt="" coords="232,365,413,405"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="510,317,374,367,372,362,508,312"/>
+</map>

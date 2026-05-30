@@ -1,0 +1,15 @@
+<map id="JsonService" name="JsonService">
+<area shape="rect" id="Node000001" title="Реалізація JSON&#45;сервісів (уніфікований парсер/серіалізатор)" alt="" coords="253,129,351,155"/>
+<area shape="rect" id="Node000002" href="$classIUserJsonService.html" title="JSON&#45;сервіс користувача" alt="" coords="40,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,30,207,40,235,60,260,84,294,127,290,131,256,88,231,64,204,44,183,35"/>
+<area shape="rect" id="Node000003" href="$classIMessageJsonService.html" title="JSON&#45;сервіс повідомлень" alt="" coords="26,55,185,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,81,206,89,247,107,281,127,279,131,245,112,204,94,182,86"/>
+<area shape="rect" id="Node000004" href="$classIReactionJsonService.html" title="JSON&#45;сервіс реакцій" alt="" coords="26,104,185,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,126,254,133,253,138,198,131"/>
+<area shape="rect" id="Node000005" href="$classIReactionInfoJsonService.html" title="JSON&#45;сервіс інформації про реакції" alt="" coords="14,153,197,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,151,253,145,253,151,211,156"/>
+<area shape="rect" id="Node000006" href="$classIChatJsonService.html" title="JSON&#45;сервіс чатів" alt="" coords="40,203,171,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,196,204,188,277,152,280,157,206,192,179,201"/>
+<area shape="rect" id="Node000007" href="$classIMessageStatusJsonService.html" title="JSON&#45;сервіс статусу повідомлення" alt="" coords="5,252,205,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="188,245,204,237,231,218,255,195,290,153,294,157,259,199,234,222,207,242,190,250"/>
+</map>

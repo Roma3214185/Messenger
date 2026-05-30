@@ -1,0 +1,5 @@
+<map id="ChatManager::getMembersCount" name="ChatManager::getMembersCount">
+<area shape="rect" id="Node000001" title="Кількість учасників у чаті" alt="" coords="148,5,385,31"/>
+<area shape="rect" id="Node000002" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#a931e8af901f392ddaa16ba5835e25147" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,21,100,21,100,15,135,15"/>
+</map>

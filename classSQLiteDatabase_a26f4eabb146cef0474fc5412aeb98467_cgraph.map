@@ -1,0 +1,6 @@
+<map id="SQLiteDatabase::transaction" name="SQLiteDatabase::transaction">
+<area shape="rect" id="Node000001" title="Початок транзакції" alt="" coords="5,29,212,55"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="260,29,411,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,39,246,39,246,45,212,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="298,31,290,21,295,11,310,5,335,3,367,7,379,16,376,20,365,11,335,8,311,10,298,15,296,20,302,27"/>
+</map>

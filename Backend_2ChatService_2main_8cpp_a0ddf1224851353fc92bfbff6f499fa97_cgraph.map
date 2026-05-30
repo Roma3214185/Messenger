@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,60,137"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a9dfe3128b7cc5922c0654f83c2faa983" title="Ініціалізація схеми БД" alt="" coords="108,22,299,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,109,107,73,125,65,127,70,109,78,52,114"/>
+<area shape="rect" id="Node000005" href="$Debug__profiling_8h.html#a6c7f5432d2a695afceb663c5ff8f07d4" title=" " alt="" coords="160,87,247,112"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="60,118,146,105,147,110,61,123"/>
+<area shape="rect" id="Node000006" href="$classRedisCache.html#aa3c4a33f3740b57f44c172cad8502d82" title="Отримання singleton&#45;інстансу кешу" alt="" coords="123,136,284,161"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="61,126,109,133,108,138,60,131"/>
+<area shape="rect" id="Node000007" href="$classChatServer.html#a223e448620bdeb0cfdc51f658dbac4de" title="Запуск сервера" alt="" coords="142,185,265,211"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="52,136,78,154,109,172,130,179,128,184,107,176,75,159,49,140"/>
+<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="600,29,751,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,39,586,39,586,45,299,45"/>
+<area shape="rect" id="Node000004" href="$classSQLiteDatabase.html#a1f1d934db198d4e7ea3dc547d75decc0" title="Виконання SQL у конкретному підключенні" alt="" coords="347,55,552,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="299,49,333,53,333,58,298,54"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="639,31,631,21,635,11,650,5,675,3,707,7,719,16,716,20,705,11,675,8,651,10,639,15,636,20,643,27"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="552,53,586,49,587,55,553,58"/>
+</map>

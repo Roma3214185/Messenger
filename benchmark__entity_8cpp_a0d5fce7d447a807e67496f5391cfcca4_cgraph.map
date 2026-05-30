@@ -1,0 +1,7 @@
+<map id="EntityWithoutCache" name="EntityWithoutCache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,156,67"/>
+<area shape="rect" id="Node000002" href="$classGenericRepository.html#aedce0974a4ab3ca064dbe588c8e94996" title=" " alt="" coords="210,5,359,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,41,196,35,197,41,157,46"/>
+<area shape="rect" id="Node000003" href="$classRedisCache.html#aa3c4a33f3740b57f44c172cad8502d82" title="Отримання singleton&#45;інстансу кешу" alt="" coords="204,70,365,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,62,191,67,190,72,156,68"/>
+</map>

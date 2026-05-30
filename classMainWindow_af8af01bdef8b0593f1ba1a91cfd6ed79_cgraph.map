@@ -1,0 +1,35 @@
+<map id="MainWindow::openEmojiMenu" name="MainWindow::openEmojiMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,224,265"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#ab5425fc1233f40512e1b01df78a6b2ea" title=" " alt="" coords="272,240,495,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,250,258,250,258,255,224,255"/>
+<area shape="rect" id="Node000003" href="$classClickOutsideClosableListView.html#a2a3c93d2f541eaf0c8faa1a7138c5e5f" title="Додати дозволений віджет (клік по ньому не закриває список)" alt="" coords="545,5,761,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,238,447,160,490,111,541,69,548,65,551,69,544,73,494,115,451,163,395,241"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a028d350ac2826af4c2125327e3568647" title=" " alt="" coords="543,84,763,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="394,238,453,180,495,146,541,118,558,111,560,116,544,123,498,151,456,184,398,242"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#a1ecc3f612f0f60b26f8b77fe88fa6438" title=" " alt="" coords="547,133,758,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,238,464,203,542,168,567,160,568,165,544,172,466,208,406,242"/>
+<area shape="rect" id="Node000010" href="$classMainWindow.html#a9c6c518d4b59d9050751f055f9e645e4" title=" " alt="" coords="543,183,763,208"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="443,237,578,208,580,214,444,243"/>
+<area shape="rect" id="Node000012" href="$classClickOutsideClosableListView.html#af8afba3a428ca110b99ca9e37455ae56" title="Встановлення моделі даних" alt="" coords="561,233,744,273"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="495,250,547,250,547,255,495,255"/>
+<area shape="rect" id="Node000014" href="$classClickOutsideClosableListView.html#aaac0699d54cbaafcdca14863d34412e5" title="Колбек закриття" alt="" coords="557,297,748,337"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="439,263,555,291,554,296,437,268"/>
+<area shape="rect" id="Node000015" href="$classClickOutsideClosableListView.html#a0f4f430b961a68abf8c3ad4768c33187" title="Колбек оновлення" alt="" coords="561,361,745,401"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="404,263,464,303,544,346,562,354,560,358,542,351,461,308,401,268"/>
+<area shape="rect" id="Node000016" href="$Debug__profiling_8h.html#af2518a2dfb7a2d277dd49ce1cfbb6340" title=" " alt="" coords="616,425,689,451"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="395,264,452,334,495,376,544,410,573,422,603,430,601,435,571,428,541,415,491,380,448,338,391,267"/>
+<area shape="rect" id="Node000017" href="$namespaceutils_1_1ui.html#aa88167f521cf74ba72556893248628a6" title=" " alt="" coords="547,475,759,500"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="393,264,412,304,445,357,489,414,515,439,544,461,554,467,552,471,541,466,512,443,485,418,440,360,408,306,388,267"/>
+<area shape="rect" id="Node000004" href="$classOutsideClickFilter.html#aa222cddf8e3abb110e87a28b749c2070" title="Додавання дозволеного віджета (клік по ньому не закриває popup)" alt="" coords="812,13,1043,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="761,30,798,30,798,35,761,35"/>
+<area shape="rect" id="Node000007" href="$classPresenter.html#af8e442e134276ade752d6b4640223d9c" title=" " alt="" coords="811,133,1044,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="758,143,797,143,797,149,758,149"/>
+<area shape="rect" id="Node000008" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="1137,109,1293,135"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1044,134,1123,127,1124,132,1045,139"/>
+<area shape="rect" id="Node000009" href="$classDataManager.html#ae99172aa8edeeaf27ee1bcba4d708524" title=" " alt="" coords="1092,159,1339,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="1045,154,1079,157,1078,162,1044,159"/>
+<area shape="rect" id="Node000011" href="$namespaceutils_1_1ui.html#a7b1c5181f683b1484506f29154274e6e" title=" " alt="" coords="848,183,1007,208"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="763,193,834,193,834,198,763,198"/>
+<area shape="rect" id="Node000013" href="$classClickOutsideClosableListView.html#a5c7f3115f5a5f356171d64f44b847f70" title="Оновлення стану (callback)" alt="" coords="836,233,1019,273"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="744,250,822,250,822,255,744,255"/>
+</map>

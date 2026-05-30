@@ -1,0 +1,7 @@
+<map id="INetworkFacade" name="INetworkFacade">
+<area shape="rect" id="Node000001" title="Фасад для доступу до мережевих менеджерів сервісів" alt="" coords="61,5,188,31"/>
+<area shape="rect" id="Node000002" href="$classMockFacade.html" title=" " alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,42,70,80,66,77,102,39"/>
+<area shape="rect" id="Node000003" href="$classNetworkFacade.html" title="Реалізація фасаду мережевих сервісів" alt="" coords="133,79,255,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,39,185,77,181,80,144,43"/>
+</map>

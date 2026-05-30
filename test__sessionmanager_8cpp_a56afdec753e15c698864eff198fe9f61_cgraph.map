@@ -1,0 +1,32 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,100,200"/>
+<area shape="rect" id="Node000002" href="$classSessionManager.html#aff38d5b27efbf1b1cbba739c79882a03" title=" " alt="" coords="148,81,367,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,172,106,151,147,130,166,123,168,128,149,135,108,156,74,177"/>
+<area shape="rect" id="Node000013" href="$classTokenManager.html#a41ff9d3a9f067e510caf2ed6ab85dacc" title=" " alt="" coords="170,145,345,171"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="100,178,156,170,157,175,101,183"/>
+<area shape="rect" id="Node000014" href="$classMockNetworkAccessManager.html#a90df8ce8d943bcde8ffefad0d8862473" title=" " alt="" coords="150,195,365,235"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="101,191,137,196,136,201,100,196"/>
+<area shape="rect" id="Node000015" href="$test__sessionmanager_8cpp.html#a0dcaee1a4fbac1dc7b8442bcdda9b234" title=" " alt="" coords="193,260,322,285"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="72,198,106,222,149,245,180,255,179,261,147,250,104,226,69,202"/>
+<area shape="rect" id="Node000003" href="$classINetworkAccessManager.html#a7ee479767ef9bc6d51d13d837485b55e" title=" " alt="" coords="989,73,1201,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,78,350,53,414,34,561,10,677,3,794,12,942,34,1000,48,1053,66,1051,71,999,53,941,39,793,17,677,9,562,15,415,39,352,58,297,83"/>
+<area shape="rect" id="Node000004" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="425,49,648,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="367,85,411,80,412,86,367,91"/>
+<area shape="rect" id="Node000005" href="$classBaseManager.html#a94b19c923951ee3b14ee2c17e505f126" title=" " alt="" coords="437,113,637,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="367,110,423,117,423,122,367,116"/>
+<area shape="rect" id="Node000009" href="$classSessionManager.html#a13b110fe72cb13a30fdb806b76cf99a5" title=" " alt="" coords="415,233,659,259"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="338,118,368,130,506,223,503,228,365,135,336,123"/>
+<area shape="rect" id="Node000006" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="720,49,928,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="615,110,658,98,706,83,742,75,743,80,707,88,659,103,616,115"/>
+<area shape="rect" id="Node000007" href="$classBaseManager.html#a1728659188d5b6267d2958e99e2e35e6" title=" " alt="" coords="721,99,927,124"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="637,122,706,117,707,123,637,128"/>
+<area shape="rect" id="Node000008" href="$classBaseManager.html#a6df3f5558f06dd78e267d36205a7287e" title=" " alt="" coords="707,148,941,173"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="637,140,693,145,693,150,637,145"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="888,145,941,133,1044,101,1046,106,942,138,889,150"/>
+<area shape="rect" id="Node000010" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="729,198,919,238"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="658,231,715,226,716,231,659,237"/>
+<area shape="rect" id="Node000011" href="$structUser.html#ae04eca84074fe851fbdbe28d0045ecb3" title=" " alt="" coords="769,263,879,288"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="659,256,755,266,754,271,658,261"/>
+<area shape="rect" id="Node000012" href="$classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e" title=" " alt="" coords="716,312,932,337"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="575,256,707,298,742,306,741,312,706,303,573,261"/>
+</map>

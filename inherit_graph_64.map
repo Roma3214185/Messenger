@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classIChatJsonService.html" title="JSON&#45;сервіс чатів" alt="" coords="40,5,171,31"/>
+<area shape="rect" id="Node000001" href="$classJsonService.html" title="Реалізація JSON&#45;сервісів (уніфікований парсер/серіалізатор)" alt="" coords="253,129,351,155"/>
+<area shape="poly" id="edge54_Node000000_Node000001" title=" " alt="" coords="185,30,207,40,235,60,260,84,294,127,290,131,256,88,231,64,204,44,183,35"/>
+<area shape="rect" id="Node000002" href="$classIMessageJsonService.html" title="JSON&#45;сервіс повідомлень" alt="" coords="26,55,185,80"/>
+<area shape="poly" id="edge55_Node000002_Node000001" title=" " alt="" coords="183,81,206,89,247,107,281,127,279,131,245,112,204,94,182,86"/>
+<area shape="rect" id="Node000003" href="$classIMessageStatusJsonService.html" title="JSON&#45;сервіс статусу повідомлення" alt="" coords="5,104,205,129"/>
+<area shape="poly" id="edge56_Node000003_Node000001" title=" " alt="" coords="218,129,253,133,253,138,217,134"/>
+<area shape="rect" id="Node000004" href="$classIReactionInfoJsonService.html" title="JSON&#45;сервіс інформації про реакції" alt="" coords="14,153,197,179"/>
+<area shape="poly" id="edge57_Node000004_Node000001" title=" " alt="" coords="210,151,253,145,253,151,211,156"/>
+<area shape="rect" id="Node000005" href="$classIReactionJsonService.html" title="JSON&#45;сервіс реакцій" alt="" coords="26,203,185,228"/>
+<area shape="poly" id="edge58_Node000005_Node000001" title=" " alt="" coords="177,196,204,188,277,152,280,157,206,192,179,201"/>
+<area shape="rect" id="Node000006" href="$classIUserJsonService.html" title="JSON&#45;сервіс користувача" alt="" coords="40,252,171,277"/>
+<area shape="poly" id="edge59_Node000006_Node000001" title=" " alt="" coords="183,247,204,237,231,218,255,195,290,153,294,157,259,199,234,222,207,242,185,252"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Frontend/include/usecases/socketusecase.h" name="Frontend/include/usecases/socketusecase.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,167,96,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,47,73,69,61,94,57,124,58,153,52,153,51,124,56,93,68,66,84,44"/>
+<area shape="rect" id="Node000003" href="$socketmanager_8h.html" title=" " alt="" coords="71,93,273,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,44,154,81,150,84,117,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="155,121,90,162,87,157,152,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,167,197,192"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="175,119,175,153,169,153,169,119"/>
+</map>

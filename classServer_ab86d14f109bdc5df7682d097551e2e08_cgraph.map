@@ -1,0 +1,13 @@
+<map id="Server::handleSocketRoutes" name="Server::handleSocketRoutes">
+<area shape="rect" id="Node000001" title="Реєстрація WebSocket маршрутів" alt="" coords="5,109,209,134"/>
+<area shape="rect" id="Node000002" href="$classIActiveSocketRepository.html#a323df16b1edd0836c6df77b856b37025" title="Додавання нового з’єднання" alt="" coords="285,5,465,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,106,190,81,256,55,281,47,283,52,258,60,192,86,136,111"/>
+<area shape="rect" id="Node000003" href="$classIActiveSocketRepository.html#a59bfcd92b37f8aa0bfcef1dc8a2277b9" title="Видалення з’єднання" alt="" coords="285,69,465,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,106,270,99,271,104,210,112"/>
+<area shape="rect" id="Node000004" href="$classIActiveSocketRepository.html#a7d78857e7028bd1203a44c76b5e211c6" title="Пошук сокета за Crow connection." alt="" coords="285,133,465,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,131,271,138,270,144,209,136"/>
+<area shape="rect" id="Node000005" href="$classServer.html#ad12400eb32f76e2ab2832b234e834697" title="Обробка повідомлення від WebSocket." alt="" coords="257,198,492,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,132,191,157,258,183,292,192,291,197,256,188,189,162,133,137"/>
+<area shape="rect" id="Node000006" href="$classSocketHandlersRepository.html#a8ebe5cc79a828765916754da091c6487" title=" " alt="" coords="540,191,733,231"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="492,208,526,208,526,213,492,213"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SessionUseCase::userCreated" name="SessionUseCase::userCreated">
+<area shape="rect" id="Node000001" title="Сигнал створення користувача та видачі токена" alt="" coords="813,31,1029,56"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a0761e44a342e3368a1156e3eae777367" title=" " alt="" coords="539,5,748,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="799,35,748,30,749,25,800,30"/>
+<area shape="rect" id="Node000006" href="$classSessionUseCase.html#a727c62762ddff6e8176b3740b9fa55bc" title="Ініціалізація SessionUseCase." alt="" coords="521,55,765,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="800,56,766,59,765,54,799,51"/>
+<area shape="rect" id="Node000003" href="$classPresenter.html#a0b73236d1ca41cfa9e6a04eccc6e642e" title=" " alt="" coords="325,5,473,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,21,474,21,474,15,525,15"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,5,277,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="311,21,278,21,278,15,311,15"/>
+<area shape="rect" id="Node000005" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

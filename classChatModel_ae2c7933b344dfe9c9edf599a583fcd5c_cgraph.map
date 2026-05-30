@@ -1,0 +1,7 @@
+<map id="ChatModel::updateChatInfo" name="ChatModel::updateChatInfo">
+<area shape="rect" id="Node000001" title="Оновлення інформації про чат" alt="" coords="5,31,205,56"/>
+<area shape="rect" id="Node000002" href="$classChatModel.html#a226b5193b2ac22ed9d41020cfa40c60f" title="Сигнал оновлення чату" alt="" coords="253,5,436,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,30,239,26,240,32,206,35"/>
+<area shape="rect" id="Node000003" href="$classChatModel.html#a49aca5be7a31527c3ec5fb40c5a5c886" title="Сортування чатів" alt="" coords="263,55,426,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,51,250,55,249,60,205,56"/>
+</map>

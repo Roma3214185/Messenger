@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classIUserNetworkManager.html" title=" " alt="" coords="5,31,173,56"/>
+<area shape="rect" id="Node000001" href="$classMockUserNetworkManager.html" title=" " alt="" coords="221,5,420,31"/>
+<area shape="poly" id="edge123_Node000000_Node000001" title=" " alt="" coords="187,30,221,26,221,32,188,35"/>
+<area shape="rect" id="Node000002" href="$classUserNetworkManager.html" title=" " alt="" coords="239,55,403,80"/>
+<area shape="poly" id="edge124_Node000000_Node000002" title=" " alt="" coords="188,51,239,56,238,62,187,56"/>
+</map>

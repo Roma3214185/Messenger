@@ -1,0 +1,17 @@
+<map id="MockFacade" name="MockFacade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="661,80,764,105"/>
+<area shape="rect" id="Node000002" href="$classINetworkFacade.html" title="Фасад для доступу до мережевих менеджерів сервісів" alt="" coords="301,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,21,536,33,638,55,690,77,688,82,637,61,535,38,441,26"/>
+<area shape="rect" id="Node000003" href="$classMockUserNetworkManager.html" title=" " alt="" coords="265,55,463,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,73,661,86,661,92,477,78"/>
+<area shape="rect" id="Node000004" href="$classIUserNetworkManager.html" title=" " alt="" coords="19,55,187,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,65,264,65,264,70,201,70"/>
+<area shape="rect" id="Node000005" href="$classMockMessageNetworkManager.html" title=" " alt="" coords="251,104,477,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="491,119,564,117,637,110,671,103,672,108,638,115,564,122,491,124"/>
+<area shape="rect" id="Node000006" href="$classIMessageNetworkManager.html" title=" " alt="" coords="5,104,201,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="215,114,251,114,251,119,215,119"/>
+<area shape="rect" id="Node000007" href="$classMockChatNetworkManager.html" title=" " alt="" coords="265,153,463,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="477,166,557,159,597,151,636,140,669,123,695,104,698,108,672,128,638,144,599,156,558,164,478,171"/>
+<area shape="rect" id="Node000008" href="$classIChatNetworkManager.html" title=" " alt="" coords="19,153,187,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="201,163,264,163,264,169,201,169"/>
+</map>

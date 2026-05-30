@@ -1,0 +1,9 @@
+<map id="SQLiteDatabase::initializeSchema" name="SQLiteDatabase::initializeSchema">
+<area shape="rect" id="Node000001" title="Ініціалізація схеми БД" alt="" coords="5,22,196,62"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="497,29,648,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,39,483,39,483,45,196,45"/>
+<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html#a1f1d934db198d4e7ea3dc547d75decc0" title="Виконання SQL у конкретному підключенні" alt="" coords="244,55,449,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="196,49,231,53,230,58,196,54"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="536,31,528,21,532,11,548,5,573,3,604,7,616,16,613,20,602,11,573,8,549,10,536,15,533,20,540,27"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="450,53,483,49,484,55,450,58"/>
+</map>

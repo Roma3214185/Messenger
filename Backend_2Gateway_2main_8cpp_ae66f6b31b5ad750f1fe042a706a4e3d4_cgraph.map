@@ -1,0 +1,58 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,60,142"/>
+<area shape="rect" id="Node000002" href="$Debug__profiling_8h.html#a6c7f5432d2a695afceb663c5ff8f07d4" title=" " alt="" coords="177,42,264,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,114,74,95,107,76,163,60,164,65,109,81,77,99,50,119"/>
+<area shape="rect" id="Node000003" href="$classRedisCache.html#aa3c4a33f3740b57f44c172cad8502d82" title="Отримання singleton&#45;інстансу кешу" alt="" coords="140,91,301,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="60,123,126,114,127,119,61,128"/>
+<area shape="rect" id="Node000004" href="$classGatewayServer.html#a5e2b1660bb1e452eb68233ededf3c7d7" title="Реєстрація всіх маршрутів" alt="" coords="108,141,333,166"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,130,108,136,107,142,60,135"/>
+<area shape="rect" id="Node000025" href="$classGatewayServer.html#a4332ddbf8539e261d4eb0f53057bd611" title="Запуск сервера" alt="" coords="145,219,296,245"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="54,140,109,175,180,211,177,216,107,180,51,144"/>
+<area shape="rect" id="Node000005" href="$classGatewayServer.html#a54efb6cacd816988d144ca585cc83038" title="Реєстрація health&#45;check endpoint." alt="" coords="387,69,609,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,138,333,125,399,110,400,115,334,131,279,143"/>
+<area shape="rect" id="Node000007" href="$classGatewayServer.html#a8301133ec6947ebfc712cbb3640ee737" title="Реєстрація маршруту обробки запитів" alt="" coords="381,133,615,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="334,151,367,151,367,156,334,156"/>
+<area shape="rect" id="Node000010" href="$classGatewayServer.html#ac7647d1c49bdb44bac1f8ce52523a45b" title="Реєстрація проксі&#45;маршруту" alt="" coords="389,198,607,223"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="284,163,423,193,422,198,282,169"/>
+<area shape="rect" id="Node000024" href="$classGatewayServer.html#adb174d3ee62c9c37a1cc3c62d481f300" title="Реєстрація WebSocket маршрутів" alt="" coords="394,5,602,45"/>
+<area shape="poly" id="edge24_Node000004_Node000024" title=" " alt="" coords="307,138,332,126,348,110,355,92,363,73,380,55,389,49,392,54,383,59,367,76,360,94,352,113,335,130,310,143"/>
+<area shape="rect" id="Node000006" href="$namespaceutils.html#ab0fc58c9b138b66d04df25a5e74aaebd" title=" " alt="" coords="675,77,835,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="610,87,661,87,661,92,610,92"/>
+<area shape="rect" id="Node000008" href="$classGatewayController.html#a894ba33a3773b077925f9968effa0e29" title="Обробка маршрутизації task_id." alt="" coords="676,127,833,167"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="615,148,662,146,663,152,615,153"/>
+<area shape="rect" id="Node000009" href="$classICacheService.html#a7f4b45211803f0b047375efe42a014dd" title=" " alt="" coords="924,129,1067,154"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="834,142,910,141,910,146,834,148"/>
+<area shape="rect" id="Node000011" href="$classGatewayController.html#a1616a02123e2ce24831cf04e517f4535" title="Обробка POST&#45;запиту через gateway." alt="" coords="679,191,831,231"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="607,208,665,208,665,213,607,213"/>
+<area shape="rect" id="Node000017" href="$classGatewayController.html#ad2e5b475e6989e73b1d04eb29319d760" title="Обробка проксі&#45;запиту" alt="" coords="677,255,833,295"/>
+<area shape="poly" id="edge16_Node000010_Node000017" title=" " alt="" coords="551,221,664,249,663,255,549,226"/>
+<area shape="rect" id="Node000012" href="$namespaceutils.html#a6ae5dfc9011502355e1ff21057c603ed" title="Конвертація Crow request → RequestDTO." alt="" coords="942,227,1049,253"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="832,217,929,229,928,235,831,223"/>
+<area shape="rect" id="Node000015" href="$classIEventPublisher.html#a62ffa50ab32f51537c96b48e147d7c1c" title=" " alt="" coords="906,178,1085,203"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="831,202,892,197,893,202,832,207"/>
+<area shape="rect" id="Node000016" href="$classICacheService.html#a5df46ac80c6aeab5d75e3cebfb960c21" title=" " alt="" coords="924,277,1067,302"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="817,228,848,240,896,263,920,271,919,276,894,268,846,245,815,233"/>
+<area shape="rect" id="Node000013" href="$namespaceutils_1_1details.html#a32cd79fcc9dce587c9893e85f6a93215" title="Витяг токена авторизації" alt="" coords="1153,253,1347,278"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1049,243,1140,252,1140,257,1049,248"/>
+<area shape="rect" id="Node000014" href="$namespaceutils_1_1details.html#a3bfdceddbd058f1fbe3f230fdee0ec09" title="Отримання Content&#45;Type." alt="" coords="1144,203,1356,229"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1049,232,1130,225,1130,230,1049,238"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="833,261,928,247,929,252,834,266"/>
+<area shape="rect" id="Node000018" href="$classProxyClient.html#a2ebd8ece396ec0a44cc66faae3908cd2" title="Пересилання запиту на інший сервіс (port&#45;based routing)" alt="" coords="918,326,1073,351"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="824,292,895,312,927,320,925,325,894,317,822,297"/>
+<area shape="rect" id="Node000019" href="$classProxyClient.html#a3d93afa1ef69208db37fbd77787ad1e1" title="Внутрішнє виконання HTTP&#45;запиту" alt="" coords="1153,326,1347,351"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1073,336,1139,336,1139,341,1073,341"/>
+<area shape="rect" id="Node000020" href="$classIClient.html#ac424489a5c19cf4d6d84704616e30e76" title=" " alt="" coords="1404,251,1519,277"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="1286,323,1411,279,1413,284,1288,328"/>
+<area shape="rect" id="Node000021" href="$classIClient.html#adce06300eb7b9e3ee71124570c5e2418" title=" " alt="" coords="1414,301,1509,326"/>
+<area shape="poly" id="edge20_Node000019_Node000021" title=" " alt="" coords="1347,324,1400,318,1401,323,1348,330"/>
+<area shape="rect" id="Node000022" href="$classIClient.html#ac4d25cf6a0b3e8697a54f295266c9b3a" title=" " alt="" coords="1411,350,1511,375"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="1348,347,1398,353,1397,358,1347,352"/>
+<area shape="rect" id="Node000023" href="$classIClient.html#a3c6c3b05da784f7779e95cd4a708cf73" title=" " alt="" coords="1415,399,1508,425"/>
+<area shape="poly" id="edge22_Node000019_Node000023" title=" " alt="" coords="1289,349,1412,392,1410,397,1287,354"/>
+<area shape="rect" id="Node000026" href="$classGatewayController.html#a462c0afbe26cf7f750650e776fb81517" title="Підписка на нові запити через чергу" alt="" coords="663,319,847,359"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="286,242,650,315,649,320,285,247"/>
+<area shape="poly" id="edge28_Node000026_Node000016" title=" " alt="" coords="846,317,919,302,920,307,848,322"/>
+<area shape="poly" id="edge27_Node000026_Node000018" title=" " alt="" coords="847,336,904,336,904,341,847,341"/>
+<area shape="rect" id="Node000027" href="$classIEventSubscriber.html#ac8ecba8bf63ecb5193b877878a7e0016" title=" " alt="" coords="895,375,1096,401"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="848,355,920,370,919,375,846,360"/>
+</map>

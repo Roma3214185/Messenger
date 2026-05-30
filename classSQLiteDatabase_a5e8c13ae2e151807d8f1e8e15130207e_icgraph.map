@@ -1,0 +1,26 @@
+<map id="SQLiteDatabase::db" name="SQLiteDatabase::db">
+<area shape="rect" id="Node000001" title="Повертає об&#39;єкт підключення до БД" alt="" coords="620,207,771,232"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="736,197,725,189,695,185,671,187,658,192,656,198,662,205,658,208,650,198,655,188,670,182,695,180,727,184,739,193"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a702f00baf2d0243dab1162f895e9a40d" title="Підтвердження транзакції" alt="" coords="377,5,561,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="680,195,638,124,607,85,571,52,532,33,534,28,573,48,611,82,642,121,685,193"/>
+<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html#ac06329bc6ad2888a033792ca00d30613" title="Видалення таблиці" alt="" coords="108,91,317,116"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="677,197,634,143,605,116,571,96,531,83,489,75,446,72,403,72,324,80,260,93,259,88,323,75,403,67,446,66,489,70,532,78,573,92,608,112,638,139,681,193"/>
+<area shape="rect" id="Node000004" href="$classSQLiteDatabase.html#ac6bec5aab49f495e845c33a75f5e3fd3" title="Виконує SQL&#45;запит" alt="" coords="387,107,551,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="665,201,622,172,571,146,537,135,539,130,573,141,625,168,668,196"/>
+<area shape="rect" id="Node000005" href="$classSQLiteDatabase.html#a1f1d934db198d4e7ea3dc547d75decc0" title="Виконання SQL у конкретному підключенні" alt="" coords="366,156,571,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="624,206,526,184,527,179,625,201"/>
+<area shape="rect" id="Node000006" href="$classSQLiteDatabase.html#a9dfe3128b7cc5922c0654f83c2faa983" title="Ініціалізація схеми БД" alt="" coords="117,174,308,214"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="606,217,308,202,308,196,606,212"/>
+<area shape="rect" id="Node000008" href="$classSQLiteDatabase.html#a54ea2423cea0daf7920ca31d803da88f" title="Підготовка запиту (QString)" alt="" coords="377,257,561,283"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="625,238,527,260,526,255,624,232"/>
+<area shape="rect" id="Node000009" href="$classSQLiteDatabase.html#a9404d5a304d8ac8dddbf1d9a42db425f" title="Відкат транзакції" alt="" coords="375,307,562,332"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="668,243,625,271,573,298,539,309,537,304,571,293,622,267,665,238"/>
+<area shape="rect" id="Node000010" href="$classSQLiteDatabase.html#a75736994bdb5638fbae7a06fee00951c" title="Перевірка існування таблиці" alt="" coords="365,356,572,381"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="679,245,636,297,606,324,573,347,547,358,545,353,571,342,603,320,632,293,675,242"/>
+<area shape="rect" id="Node000011" href="$classSQLiteDatabase.html#a26f4eabb146cef0474fc5412aeb98467" title="Початок транзакції" alt="" coords="365,405,572,431"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="686,246,669,280,644,321,612,362,573,396,551,408,549,403,571,392,609,358,640,318,664,278,681,244"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="402,155,365,146,261,119,262,113,366,141,403,150"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="353,183,308,187,308,182,352,178"/>
+<area shape="rect" id="Node000007" href="$Backend_2AuthService_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,181,60,207"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="103,197,60,197,60,191,103,191"/>
+</map>

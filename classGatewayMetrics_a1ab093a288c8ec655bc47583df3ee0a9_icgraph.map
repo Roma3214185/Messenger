@@ -1,0 +1,7 @@
+<map id="GatewayMetrics::cacheHit" name="GatewayMetrics::cacheHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,5,727,31"/>
+<area shape="rect" id="Node000002" href="$classGatewayMetrics.html#a1a2c592a666e9456414dee007b431c89" title=" " alt="" coords="279,5,485,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,21,486,21,486,15,519,15"/>
+<area shape="rect" id="Node000003" href="$classGatewayMetrics.html#a959a4180ff0abdf0e903ee64f9393b17" title=" " alt="" coords="5,5,231,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,21,231,21,231,15,265,15"/>
+</map>

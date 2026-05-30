@@ -1,0 +1,13 @@
+<map id="GatewayController::handlePostRequest" name="GatewayController::handlePostRequest">
+<area shape="rect" id="Node000001" title="Обробка POST&#45;запиту через gateway." alt="" coords="5,71,157,111"/>
+<area shape="rect" id="Node000002" href="$namespaceutils.html#a6ae5dfc9011502355e1ff21057c603ed" title="Конвертація Crow request → RequestDTO." alt="" coords="241,29,348,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,71,227,55,228,60,158,76"/>
+<area shape="rect" id="Node000005" href="$classIEventPublisher.html#a62ffa50ab32f51537c96b48e147d7c1c" title=" " alt="" coords="205,79,384,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="158,89,192,89,192,94,158,94"/>
+<area shape="rect" id="Node000006" href="$classICacheService.html#a5df46ac80c6aeab5d75e3cebfb960c21" title=" " alt="" coords="223,128,366,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,106,227,122,225,127,157,111"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1details.html#a32cd79fcc9dce587c9893e85f6a93215" title="Витяг токена авторизації" alt="" coords="441,5,635,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,34,427,26,428,32,348,39"/>
+<area shape="rect" id="Node000004" href="$namespaceutils_1_1details.html#a3bfdceddbd058f1fbe3f230fdee0ec09" title="Отримання Content&#45;Type." alt="" coords="432,55,644,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,45,418,52,418,57,348,50"/>
+</map>

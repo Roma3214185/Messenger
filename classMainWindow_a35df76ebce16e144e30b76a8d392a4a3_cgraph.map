@@ -1,0 +1,16 @@
+<map id="MainWindow::setMessageAnswerOnMode" name="MainWindow::setMessageAnswerOnMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,244,163"/>
+<area shape="rect" id="Node000002" href="$namespaceutils_1_1ui.html#a89d496871d21f47bc437d1fa37cc2898" title=" " alt="" coords="544,73,699,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,121,205,68,246,41,291,21,347,7,393,3,439,9,497,21,548,40,591,63,588,68,545,45,495,26,439,14,393,8,348,12,293,26,249,46,208,72,147,125"/>
+<area shape="rect" id="Node000003" href="$classDelegatorsFactory.html#a4858eb2864ea92966a123c36a86cec52" title=" " alt="" coords="314,36,474,76"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,120,291,85,316,78,317,83,293,90,187,125"/>
+<area shape="rect" id="Node000004" href="$structMessage.html#a3cb61ad4133a391997f2b1be1e13e0ba" title=" " alt="" coords="303,101,485,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,127,289,122,290,127,244,132"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a035503a4823947ee346f01eed9b457ed" title=" " alt="" coords="292,151,496,191"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="244,152,278,156,278,161,244,158"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#aa6d52aaaec26f681427bc17a16c8f55b" title=" " alt="" coords="298,215,490,255"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="181,160,293,200,316,208,314,213,291,205,179,165"/>
+<area shape="rect" id="Node000007" href="$classMessageDelegate.html#af6692bd93f280217be50f445a5849307" title=" " alt="" coords="293,279,495,319"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="150,161,212,212,251,240,293,264,308,271,306,276,291,269,249,244,209,216,146,165"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="458,148,495,135,578,101,580,106,497,140,459,153"/>
+</map>

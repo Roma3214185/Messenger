@@ -1,0 +1,9 @@
+<map id="Controller::getUserIdFromToken" name="Controller::getUserIdFromToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="296,47,487,87"/>
+<area shape="rect" id="Node000002" href="$classController.html#a17eafa7c974d58601b5c41ffae8fbe78" title=" " alt="" coords="30,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,50,195,33,196,28,283,44"/>
+<area shape="rect" id="Node000003" href="$classController.html#a1ff4e842172ab3db9792cc6a8dd0eccc" title=" " alt="" coords="5,55,248,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,70,248,70,248,65,282,65"/>
+<area shape="rect" id="Node000004" href="$classController.html#a0dad8a55f42c9934c6ee8775d669ecf2" title=" " alt="" coords="28,104,225,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,90,196,107,195,101,282,85"/>
+</map>

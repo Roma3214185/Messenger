@@ -1,0 +1,17 @@
+<map id="NotificationOrchestrator::onMessageStatusSaved" name="NotificationOrchestrator::onMessageStatusSaved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,191,159"/>
+<area shape="rect" id="Node000002" href="$classNotificationOrchestrator.html#a1eeab6f1a1ae4ceae59cb7d51c33d111" title=" " alt="" coords="239,55,417,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,117,242,96,243,102,171,122"/>
+<area shape="rect" id="Node000005" href="$classNotificationOrchestrator.html#a120c3a8f51ac47b7e4a1f62b00f56bdd" title=" " alt="" coords="239,119,417,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,137,225,137,225,142,191,142"/>
+<area shape="rect" id="Node000008" href="$classINotifier.html#a821bb9fabd9e413b97f2bb3fb857b20d" title=" " alt="" coords="241,184,415,209"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="179,157,264,178,262,183,178,162"/>
+<area shape="rect" id="Node000003" href="$classINetworkFacade.html#ae08ce77bd4636943f3482bc54f4c43fc" title="Доступ до API чатів" alt="" coords="481,5,650,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,53,498,31,499,37,412,58"/>
+<area shape="rect" id="Node000004" href="$classIChatNetworkManager.html#a784c783359011e734fb838b78f6a9c4d" title=" " alt="" coords="481,55,649,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,73,468,73,468,78,417,78"/>
+<area shape="rect" id="Node000006" href="$classIMessageNetworkManager.html#a048229eebd310441e581ec9bcdd647a3" title=" " alt="" coords="467,119,663,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="417,137,454,137,454,142,417,142"/>
+<area shape="rect" id="Node000007" href="$classINetworkFacade.html#a9c7afcb35b99977c6d733a9229d9c633" title="Доступ до API повідомлень" alt="" coords="465,184,665,209"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="412,157,499,178,498,183,411,162"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Presenter::initialConnections" name="Presenter::initialConnections">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,281,215,306"/>
+<area shape="rect" id="Node000002" href="$classSocketUseCase.html#a6663bfae9ee55d812b0e29afdaae5c96" title="Отримання нової відповіді від сервера" alt="" coords="272,157,492,182"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,278,182,235,221,211,262,191,283,183,285,188,264,196,223,216,185,239,128,282"/>
+<area shape="rect" id="Node000003" href="$classPresenter.html#a71a1443973f29e186a08b7bb6823da7b" title=" " alt="" coords="263,206,501,231"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,278,262,240,297,232,298,237,263,245,146,283"/>
+<area shape="rect" id="Node000004" href="$classModel.html#a575d322667748089fe8990d2a5797985" title=" " alt="" coords="323,255,441,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,281,309,272,309,277,215,286"/>
+<area shape="rect" id="Node000006" href="$classPresenter.html#a0a067924fde7cb980827e1023bc242ef" title=" " alt="" coords="311,305,453,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,300,297,307,297,313,214,305"/>
+<area shape="rect" id="Node000020" href="$classModel.html#a86ad649f66a4bad5737e129319abbf2c" title=" " alt="" coords="605,538,717,563"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="149,304,263,339,300,346,333,349,391,348,418,350,445,356,473,369,503,391,517,408,525,425,528,460,531,494,538,509,551,525,570,537,592,544,591,549,568,542,548,529,533,512,526,495,523,460,520,427,513,411,500,395,471,374,443,361,417,355,391,354,333,354,299,351,262,344,148,309"/>
+<area shape="rect" id="Node000024" href="$classSessionUseCase.html#aeabcf995647136e3845cfee13d559f9e" title="Сигнал створення користувача та видачі токена" alt="" coords="274,406,490,431"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="130,304,188,343,264,384,308,400,307,405,262,389,185,348,127,309"/>
+<area shape="rect" id="Node000005" href="$classUseCaseRepository.html#a422fe2846ea78a01fc9eff720810da12" title="Доступ до Session use case." alt="" coords="583,5,739,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="441,265,472,257,500,241,516,219,524,197,525,174,523,151,522,127,523,103,530,79,547,55,569,40,572,44,551,59,535,82,528,104,527,127,529,151,531,174,529,198,521,222,503,245,474,262,442,270"/>
+<area shape="rect" id="Node000007" href="$classModel.html#ab9edc889cace3a7757e15a4a1ccf614c" title=" " alt="" coords="612,70,711,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="453,312,478,304,500,290,516,268,523,246,525,223,523,200,521,176,522,152,530,128,548,105,571,89,597,82,599,87,573,94,551,109,535,130,527,153,526,176,528,199,530,223,529,247,521,271,503,294,480,309,455,318"/>
+<area shape="rect" id="Node000009" href="$structUser.html#a475c50d9d6d6b8a8345e95f7b965434a" title="Перевірка коректності стану об’єкта" alt="" coords="580,119,743,145"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="453,312,478,304,500,290,513,274,520,258,523,224,526,189,533,171,548,154,566,142,568,147,551,158,538,174,531,190,528,224,525,259,518,277,503,294,480,308,454,317"/>
+<area shape="rect" id="Node000010" href="$classSocketUseCase.html#a44fb3c65e916ed24683b91ac51315b4f" title="Підключення до WebSocket." alt="" coords="549,169,773,194"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="453,310,478,302,500,290,516,270,523,248,530,225,548,203,555,198,558,203,551,207,534,228,528,249,521,272,503,294,480,307,454,315"/>
+<area shape="rect" id="Node000011" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="583,218,739,243"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="453,305,500,290,514,281,523,271,533,262,548,252,569,244,571,249,551,257,537,266,527,275,517,285,502,294,454,310"/>
+<area shape="rect" id="Node000012" href="$classChatUseCase.html#ad7f081ffe813e2d17640a23b0133fa12" title="Асинхронне завантаження чатів" alt="" coords="551,267,772,293"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="453,305,552,292,553,297,454,311"/>
+<area shape="rect" id="Node000015" href="$classDataManager.html#aa6c1589eb65856a51a0b40d7f5fd4702" title=" " alt="" coords="587,341,736,366"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="454,324,574,339,573,345,453,329"/>
+<area shape="rect" id="Node000017" href="$classModel.html#ad7765409d85369967cc499dbc647ab53" title=" " alt="" coords="595,390,727,415"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="443,328,502,347,527,361,550,375,583,385,581,391,548,380,524,366,500,352,442,333"/>
+<area shape="poly" id="edge20_Node000006_Node000020" title=" " alt="" coords="455,322,481,331,503,347,520,370,527,393,527,439,526,461,528,483,535,504,551,525,570,537,592,545,591,550,568,542,548,529,530,507,522,484,521,461,522,438,522,394,515,372,499,351,478,336,453,327"/>
+<area shape="rect" id="Node000022" href="$structUser.html#ae04eca84074fe851fbdbe28d0045ecb3" title=" " alt="" coords="606,439,717,465"/>
+<area shape="poly" id="edge22_Node000006_Node000022" title=" " alt="" coords="454,325,480,334,503,347,520,367,528,387,535,407,551,425,571,436,593,443,592,448,569,440,548,429,530,409,523,389,516,370,500,351,477,339,453,330"/>
+<area shape="rect" id="Node000023" href="$classPresenter.html#a104404a970941c79bd85dbf0e726e36c" title=" " alt="" coords="580,489,743,514"/>
+<area shape="poly" id="edge23_Node000006_Node000023" title=" " alt="" coords="455,323,480,332,503,347,517,363,524,380,528,413,532,444,538,459,551,474,569,485,566,490,548,478,534,462,526,446,522,413,519,381,512,366,500,351,478,337,453,328"/>
+<area shape="rect" id="Node000008" href="$classUseCaseRepository.html#a28de48c33ca92ba48a5caf1a55a15318" title="Доступ до Chat use case." alt="" coords="823,70,1007,95"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="711,80,809,80,809,85,711,85"/>
+<area shape="rect" id="Node000013" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="823,230,1006,255"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="747,265,814,255,815,260,748,270"/>
+<area shape="rect" id="Node000014" href="$classIChatDataManager.html#a53dd6f3f54815d405d77b46624b54fba" title=" " alt="" coords="823,279,1006,305"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="772,283,810,284,809,290,772,288"/>
+<area shape="poly" id="edge16_Node000015_Node000015" title=" " alt="" coords="620,342,611,332,616,322,633,316,661,314,697,318,707,323,711,328,707,331,704,327,696,323,661,319,634,321,620,326,617,332,624,339"/>
+<area shape="rect" id="Node000016" href="$classDataManager.html#a3f306cb60937db4f082e59e81263d76f" title=" " alt="" coords="821,341,1008,366"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="736,351,807,351,807,356,736,356"/>
+<area shape="rect" id="Node000018" href="$classICache.html#a26767354df154aa9a8f44f834f379585" title=" " alt="" coords="843,390,986,415"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="728,400,830,400,830,405,728,405"/>
+<area shape="rect" id="Node000019" href="$classTokenManager.html#a41ff9d3a9f067e510caf2ed6ab85dacc" title=" " alt="" coords="827,439,1002,465"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="728,413,836,434,835,439,727,418"/>
+<area shape="rect" id="Node000021" href="$classUseCaseRepository.html#a9b93102e4d48826f821ee4c78b757315" title="Доступ до Socket use case." alt="" coords="837,531,993,571"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="718,548,823,548,823,553,718,553"/>
+</map>

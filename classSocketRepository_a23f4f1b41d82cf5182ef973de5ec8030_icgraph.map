@@ -1,0 +1,9 @@
+<map id="SocketRepository::deleteFromUserSocketsMap" name="SocketRepository::deleteFromUserSocketsMap">
+<area shape="rect" id="Node000001" title="Видалення з мапи користувачів" alt="" coords="379,37,561,77"/>
+<area shape="rect" id="Node000002" href="$classSocketRepository.html#a0f7642d3e3e463286366cd09eba3158c" title="Видалення з’єднання" alt="" coords="148,5,331,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,45,330,41,331,35,366,40"/>
+<area shape="rect" id="Node000004" href="$classSocketRepository.html#a95edb5ea7892b0dac764269434f8d893" title="Потокобезпечне видалення з’єднання" alt="" coords="148,69,331,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,74,331,79,330,74,365,69"/>
+<area shape="rect" id="Node000003" href="$test__socket__repository_8cpp.html#ac3d5b00c8b245fbcd71d3f34ac1a94da" title=" " alt="" coords="5,13,100,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,28,100,28,100,23,134,23"/>
+</map>

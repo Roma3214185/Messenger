@@ -1,0 +1,17 @@
+<map id="MainWindow::editMessage" name="MainWindow::editMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,201,128"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a1be288b21dcff873449d77bf8009bcfd" title=" " alt="" coords="249,53,444,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,100,269,79,270,84,167,105"/>
+<area shape="rect" id="Node000007" href="$structMessage.html#abe503717eebe8b8ae89f37bf008dd82d" title=" " alt="" coords="281,103,412,128"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="202,113,268,113,268,118,202,118"/>
+<area shape="rect" id="Node000008" href="$structMessage.html#a3cb61ad4133a391997f2b1be1e13e0ba" title=" " alt="" coords="255,152,438,177"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="167,125,270,147,269,152,166,131"/>
+<area shape="rect" id="Node000003" href="$classPresenter.html#a1fd62f2e77ee904db43e399200c1fdfa" title=" " alt="" coords="492,29,687,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,54,478,50,479,56,444,59"/>
+<area shape="rect" id="Node000006" href="$namespaceutils_1_1ui.html#a7b1c5181f683b1484506f29154274e6e" title=" " alt="" coords="510,79,669,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="445,74,497,79,496,84,444,79"/>
+<area shape="rect" id="Node000004" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="767,5,923,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="687,30,754,24,754,29,687,36"/>
+<area shape="rect" id="Node000005" href="$classDataManager.html#adf9da0792516bfb5b57efd2693d9db98" title=" " alt="" coords="735,55,956,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="687,49,721,52,721,58,687,54"/>
+</map>

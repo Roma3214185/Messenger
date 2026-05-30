@@ -1,0 +1,9 @@
+<map id="MessageNetworkManager" name="MessageNetworkManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,181,253,207"/>
+<area shape="rect" id="Node000002" href="$classIMessageNetworkManager.html" title=" " alt="" coords="5,93,201,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,129,152,179,147,182,116,132"/>
+<area shape="rect" id="Node000003" href="$classProxyClient.html" title="Проксі&#45;клієнт для маршрутизації запитів між сервісами" alt="" coords="225,93,323,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,129,174,183,171,179,246,125"/>
+<area shape="rect" id="Node000004" href="$classIClient.html" title=" " alt="" coords="242,5,306,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,45,277,93,271,93,271,45"/>
+</map>

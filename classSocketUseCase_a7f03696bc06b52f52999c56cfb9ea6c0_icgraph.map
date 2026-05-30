@@ -1,0 +1,5 @@
+<map id="SocketUseCase::initSocket" name="SocketUseCase::initSocket">
+<area shape="rect" id="Node000001" title="Ініціалізація сокета для користувача" alt="" coords="212,13,407,38"/>
+<area shape="rect" id="Node000002" href="$classOpenSocketHandler.html#a023f466cb800f416b100ba5712e79802" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,28,164,28,164,23,198,23"/>
+</map>

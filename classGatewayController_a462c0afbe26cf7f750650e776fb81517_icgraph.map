@@ -1,0 +1,9 @@
+<map id="GatewayController::subscribeOnNewRequest" name="GatewayController::subscribeOnNewRequest">
+<area shape="rect" id="Node000001" title="Підписка на нові запити через чергу" alt="" coords="357,27,541,67"/>
+<area shape="rect" id="Node000002" href="$classGatewayServer.html#a4332ddbf8539e261d4eb0f53057bd611" title="Запуск сервера" alt="" coords="133,5,284,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,37,284,30,285,25,344,32"/>
+<area shape="rect" id="Node000004" href="$structTestGatewayServerFixrute.html#aefd1cc1e86765056b4226945d1abc936" title=" " alt="" coords="108,55,309,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,62,310,66,309,61,343,57"/>
+<area shape="rect" id="Node000003" href="$Backend_2Gateway_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,21,60,21,60,15,120,15"/>
+</map>

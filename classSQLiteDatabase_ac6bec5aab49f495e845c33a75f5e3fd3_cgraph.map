@@ -1,0 +1,6 @@
+<map id="SQLiteDatabase::exec" name="SQLiteDatabase::exec">
+<area shape="rect" id="Node000001" title="Виконує SQL&#45;запит" alt="" coords="5,29,169,55"/>
+<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#a5e8c13ae2e151807d8f1e8e15130207e" title="Повертає об&#39;єкт підключення до БД" alt="" coords="217,29,368,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,39,203,39,203,45,169,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="259,31,252,21,255,11,269,5,293,3,321,6,333,15,329,20,319,11,293,8,271,10,259,15,257,20,263,28"/>
+</map>

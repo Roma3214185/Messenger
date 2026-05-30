@@ -1,0 +1,9 @@
+<map id="Frontend/include/ui/clickoutsideclosablelistview.h" name="Frontend/include/ui/clickoutsideclosablelistview.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,5,263,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,92,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,48,77,87,74,83,127,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,93,191,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,46,157,79,151,79,151,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="216,93,295,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,43,231,82,228,87,177,48"/>
+</map>

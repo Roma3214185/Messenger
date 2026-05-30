@@ -1,0 +1,7 @@
+<map id="IThreadPool" name="IThreadPool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,188,31"/>
+<area shape="rect" id="Node000002" href="$classMockThreadPool.html" title=" " alt="" coords="5,79,136,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,42,84,80,80,77,116,39"/>
+<area shape="rect" id="Node000003" href="$classThreadPool.html" title="Реалізація пулу потоків для асинхронного виконання завдань." alt="" coords="161,79,255,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,39,199,77,195,80,158,43"/>
+</map>

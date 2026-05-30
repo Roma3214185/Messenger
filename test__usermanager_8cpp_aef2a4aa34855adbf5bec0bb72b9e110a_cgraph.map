@@ -1,0 +1,22 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,100,132"/>
+<area shape="rect" id="Node000002" href="$classMockReply.html#ad9eebac95fcb391352fb0912b6731509" title=" " alt="" coords="164,5,349,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,104,102,76,147,48,185,32,187,37,149,52,105,80,70,108"/>
+<area shape="rect" id="Node000003" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="684,113,892,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,104,148,91,284,76,392,72,499,78,636,91,726,107,725,113,636,97,499,83,392,77,285,81,148,97,93,109"/>
+<area shape="rect" id="Node000004" href="$classUserManager.html#a063a98f2d34c3af478929705ed6a9d76" title=" " alt="" coords="148,107,365,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,117,134,117,134,122,100,122"/>
+<area shape="rect" id="Node000009" href="$classTokenManager.html#a41ff9d3a9f067e510caf2ed6ab85dacc" title=" " alt="" coords="169,156,344,181"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="101,129,149,141,188,150,187,155,147,146,100,134"/>
+<area shape="rect" id="Node000010" href="$classMockNetworkAccessManager.html#a90df8ce8d943bcde8ffefad0d8862473" title=" " alt="" coords="149,206,364,246"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="69,130,103,161,149,192,164,198,162,203,147,196,100,165,65,134"/>
+<area shape="rect" id="Node000005" href="$classINetworkAccessManager.html#a7ee479767ef9bc6d51d13d837485b55e" title=" " alt="" coords="419,107,631,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,117,405,117,405,122,366,122"/>
+<area shape="rect" id="Node000006" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="413,157,636,197"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="317,129,418,151,417,156,316,135"/>
+<area shape="rect" id="Node000007" href="$classUserManager.html#a8ee15dc7725fbd042fcadb004cf78871" title=" " alt="" coords="426,221,623,261"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="344,130,367,141,384,157,392,174,400,191,415,207,424,212,421,217,412,211,395,194,387,177,379,161,364,146,342,135"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="602,218,635,206,699,175,754,144,757,148,702,180,637,211,604,223"/>
+<area shape="rect" id="Node000008" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="693,221,883,261"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="623,238,679,238,679,243,623,243"/>
+</map>

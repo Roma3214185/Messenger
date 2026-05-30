@@ -1,0 +1,7 @@
+<map id="MetricsMiddleware::before_handle" name="MetricsMiddleware::before_handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,160,63"/>
+<area shape="rect" id="Node000002" href="$classIMetrics.html#a2e7fe9e1157b3385eff3ec9234805400" title=" " alt="" coords="223,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,32,209,26,209,31,161,37"/>
+<area shape="rect" id="Node000003" href="$structMetricsTracker.html#afdf96cadaa00a0a45059c07e0418ae9d" title="Запуск таймера та прив’язка метрик" alt="" coords="208,55,400,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,49,195,53,194,58,160,54"/>
+</map>

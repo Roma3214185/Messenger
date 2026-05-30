@@ -1,0 +1,25 @@
+var classController =
+[
+    [ "Controller", "classController.html#a039ccb4b1cb2ea420ec90ff8040dfa99", null ],
+    [ "deleteMessage", "classController.html#a17eafa7c974d58601b5c41ffae8fbe78", null ],
+    [ "getMessageById", "classController.html#a355ade830e91830b4281745fca87ab1c", null ],
+    [ "getMessages", "classController.html#a6c063af1aae9f97cc668970deed93914", null ],
+    [ "getMessagesFromChat", "classController.html#a1ff4e842172ab3db9792cc6a8dd0eccc", null ],
+    [ "getMessagesStatus", "classController.html#aefd85c9c8c1407a1a53dd974dfb478ca", null ],
+    [ "getReaction", "classController.html#aee97e898b92617d4e2a3c07b1a56c704", null ],
+    [ "getReadedMessageStatuses", "classController.html#a364395d99aae236dda5f8e9fd13c27af", null ],
+    [ "getUserIdFromToken", "classController.html#ab5de3f053bf7ad90754d7dec202b9c4d", null ],
+    [ "handleDeleteMessageReaction", "classController.html#ad4341c730da71cbc0f6519f130d5d0f3", null ],
+    [ "handleSaveMessage", "classController.html#a72471107f0fad86032326d42b07b794e", null ],
+    [ "handleSaveMessageReaction", "classController.html#a0a6dc2320104c56abf2bd3f5b9bc8bf6", null ],
+    [ "handleSaveMessageStatus", "classController.html#af4b79d1e6b507d215347ca92b120e34f", null ],
+    [ "loadReactions", "classController.html#a6f04272dc9b7ce722bc4de08b8859fd7", null ],
+    [ "setup", "classController.html#a342e81be8639deb3b671b966d4f81638", null ],
+    [ "subscribeAll", "classController.html#acd9199a835b20573f4767cf260f3224e", null ],
+    [ "updateMessage", "classController.html#a0dad8a55f42c9934c6ee8775d669ecf2", null ],
+    [ "command_manager_", "classController.html#ace1102348221cd31ce54d91e3b1a2aea", null ],
+    [ "pool_", "classController.html#a86ef7a5d277067f26ca6727b50fa908d", null ],
+    [ "publisher_", "classController.html#a30a3ddb498619d666f27ce7321da202a", null ],
+    [ "query_manager_", "classController.html#a5eaf03599f162beedeaea86152aabc6d", null ],
+    [ "subscriber_", "classController.html#aea9034b455c3b26cc83e619b6daf0359", null ]
+];

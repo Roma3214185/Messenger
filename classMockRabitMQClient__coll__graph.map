@@ -1,0 +1,16 @@
+<map id="MockRabitMQClient" name="MockRabitMQClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,225,359,251"/>
+<area shape="rect" id="Node000002" href="$classIEventBus.html" title=" " alt="" coords="126,137,213,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,169,270,223,267,227,194,173"/>
+<area shape="rect" id="Node000003" href="$classIEventPublisher.html" title=" " alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,40,162,135,158,139,82,43"/>
+<area shape="rect" id="Node000004" href="$classIEventSubscriber.html" title=" " alt="" coords="152,5,283,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,45,176,138,171,136,206,43"/>
+<area shape="rect" id="Node000005" href="$structPublishRequest.html" title=" " alt="" coords="237,137,360,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="291,176,288,187,286,225,281,225,283,186,286,175"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="363,5,421,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,29,326,39,306,56,297,76,294,98,298,137,293,137,289,98,292,75,302,53,323,35,348,24"/>
+<area shape="rect" id="Node000007" href="$structSubscribeRequest.html" title=" " alt="" coords="384,137,523,163"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="406,42,412,54,450,136,446,138,407,56,401,44"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="446,177,438,191,426,203,394,221,360,231,359,226,392,216,422,199,433,188,442,174"/>
+</map>

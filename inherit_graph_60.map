@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classIAuthoritizer.html" title=" " alt="" coords="5,55,108,80"/>
+<area shape="rect" id="Node000001" href="$classJwtAuthoritizer.html" title=" " alt="" coords="160,5,279,31"/>
+<area shape="poly" id="edge12_Node000000_Node000001" title=" " alt="" coords="112,48,176,28,177,33,113,53"/>
+<area shape="rect" id="Node000002" href="$classMockAutoritizer.html" title=" " alt="" coords="157,55,282,80"/>
+<area shape="poly" id="edge13_Node000000_Node000002" title=" " alt="" coords="122,65,156,65,156,70,122,70"/>
+<area shape="rect" id="Node000003" href="$classRealAuthoritizer.html" title=" " alt="" coords="156,104,283,129"/>
+<area shape="poly" id="edge14_Node000000_Node000003" title=" " alt="" coords="113,82,177,101,176,106,112,87"/>
+</map>

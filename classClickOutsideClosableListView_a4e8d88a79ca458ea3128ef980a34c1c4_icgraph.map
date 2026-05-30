@@ -1,0 +1,5 @@
+<map id="ClickOutsideClosableListView::call_close_callback" name="ClickOutsideClosableListView::call_close_callback">
+<area shape="rect" id="Node000001" title="Виклик callback закриття" alt="" coords="236,5,423,45"/>
+<area shape="rect" id="Node000002" href="$classClickOutsideClosableListView.html#af3f9981a6b3bc2e6fe3887c5ab4d9a5d" title="Обробка події закриття" alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,28,188,28,188,23,222,23"/>
+</map>

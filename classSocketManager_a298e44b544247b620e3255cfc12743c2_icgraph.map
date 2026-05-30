@@ -1,0 +1,9 @@
+<map id="SocketManager::newTextFromSocket" name="SocketManager::newTextFromSocket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,47,501,87"/>
+<area shape="rect" id="Node000002" href="$classSocketManager.html#af112d3eadd1685084b7d2e40cb22b708" title=" " alt="" coords="5,5,236,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,48,191,33,192,28,271,43"/>
+<area shape="rect" id="Node000003" href="$classSocketUseCase.html#af78d38bf4b190117deb0156627873d3e" title="Ініціалізація SocketUseCase." alt="" coords="5,55,236,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,70,236,70,236,65,270,65"/>
+<area shape="rect" id="Node000004" href="$test__socketmanager_8cpp.html#ae0461f4f444061bce695e6f78997fc3e" title=" " alt="" coords="73,104,168,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,92,169,111,168,106,270,87"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="RabbitNotificationSubscriber::subscribeMessageSaved" name="RabbitNotificationSubscriber::subscribeMessageSaved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,212,153"/>
+<area shape="rect" id="Node000002" href="$classNotificationOrchestrator.html#a901d4fd08b09608bf69901effcff3649" title=" " alt="" coords="271,83,450,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,118,257,113,258,118,212,123"/>
+<area shape="rect" id="Node000008" href="$classIEventSubscriber.html#ac8ecba8bf63ecb5193b877878a7e0016" title=" " alt="" coords="260,148,461,173"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="212,141,247,145,246,151,212,147"/>
+<area shape="rect" id="Node000003" href="$classNotificationOrchestrator.html#a1eeab6f1a1ae4ceae59cb7d51c33d111" title=" " alt="" coords="532,26,711,66"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,81,518,66,519,71,451,86"/>
+<area shape="rect" id="Node000006" href="$classINotifier.html#a821bb9fabd9e413b97f2bb3fb857b20d" title=" " alt="" coords="535,91,708,116"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,101,521,101,521,106,450,106"/>
+<area shape="rect" id="Node000007" href="$classIPublisher.html#acf9845b480d025596a425c29debb9745" title=" " alt="" coords="509,140,733,165"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="451,118,541,135,540,140,450,123"/>
+<area shape="rect" id="Node000004" href="$classINetworkFacade.html#ae08ce77bd4636943f3482bc54f4c43fc" title="Доступ до API чатів" alt="" coords="781,5,951,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,33,767,27,768,32,711,38"/>
+<area shape="rect" id="Node000005" href="$classIChatNetworkManager.html#a784c783359011e734fb838b78f6a9c4d" title=" " alt="" coords="782,55,950,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="711,54,769,61,768,66,710,59"/>
+</map>

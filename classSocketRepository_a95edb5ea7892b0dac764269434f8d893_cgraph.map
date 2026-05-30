@@ -1,0 +1,7 @@
+<map id="SocketRepository::deleteConnectionSync" name="SocketRepository::deleteConnectionSync">
+<area shape="rect" id="Node000001" title="Потокобезпечне видалення з’єднання" alt="" coords="5,37,188,77"/>
+<area shape="rect" id="Node000002" href="$classSocketRepository.html#a49a473f9b5862003bab01f0713a01221" title="Видалення з активних з’єднань" alt="" coords="236,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,42,222,37,223,43,188,47"/>
+<area shape="rect" id="Node000003" href="$classSocketRepository.html#a23f4f1b41d82cf5182ef973de5ec8030" title="Видалення з мапи користувачів" alt="" coords="236,69,419,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,67,223,72,222,77,188,73"/>
+</map>

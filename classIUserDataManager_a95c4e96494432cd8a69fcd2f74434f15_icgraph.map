@@ -1,0 +1,17 @@
+<map id="IUserDataManager::getUser" name="IUserDataManager::getUser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1011,42,1213,67"/>
+<area shape="rect" id="Node000002" href="$classMessageDelegate.html#af206e4c0be0ab5ac690dddc5fedc99af" title=" " alt="" coords="763,5,956,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="997,44,956,39,956,34,997,39"/>
+<area shape="rect" id="Node000004" href="$classUserUseCase.html#a0286f0b6bf836014ac785bd51b147a22" title=" " alt="" coords="756,70,963,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="997,70,963,74,963,69,997,65"/>
+<area shape="rect" id="Node000003" href="$classMessageDelegate.html#a8cc69113c3affde70820da1b78f50f01" title=" " alt="" coords="525,13,705,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="749,28,705,28,705,23,749,23"/>
+<area shape="rect" id="Node000005" href="$classModel.html#a43ab33fc014403405f87512e2471f80e" title=" " alt="" coords="521,70,708,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,85,708,85,708,80,742,80"/>
+<area shape="rect" id="Node000006" href="$classPresenter.html#a0b73236d1ca41cfa9e6a04eccc6e642e" title=" " alt="" coords="325,70,473,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="508,85,474,85,474,80,508,80"/>
+<area shape="rect" id="Node000007" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,70,277,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="311,85,278,85,278,80,311,80"/>
+<area shape="rect" id="Node000008" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,70,60,95"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="94,85,60,85,60,80,94,80"/>
+</map>

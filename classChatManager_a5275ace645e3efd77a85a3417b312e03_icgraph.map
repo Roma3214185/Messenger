@@ -1,0 +1,7 @@
+<map id="ChatManager::createPrivateChat" name="ChatManager::createPrivateChat">
+<area shape="rect" id="Node000001" title="Створення приватного чату між двома користувачами" alt="" coords="148,31,383,56"/>
+<area shape="rect" id="Node000002" href="$Frontend_2tests_2test__chatmanager_8cpp.html#a331ce93e51feec8ec3818e4edd7c89a9" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,32,100,26,101,21,145,26"/>
+<area shape="rect" id="Node000003" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#a2a5ce8127c60cdb5418b2efa84c32073" title=" " alt="" coords="5,55,100,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,60,101,65,100,59,139,55"/>
+</map>

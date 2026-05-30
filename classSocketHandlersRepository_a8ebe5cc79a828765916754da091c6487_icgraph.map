@@ -1,0 +1,9 @@
+<map id="SocketHandlersRepository::handle" name="SocketHandlersRepository::handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,23,733,63"/>
+<area shape="rect" id="Node000002" href="$classServer.html#ad12400eb32f76e2ab2832b234e834697" title="Обробка повідомлення від WebSocket." alt="" coords="257,5,492,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,35,492,32,493,27,527,30"/>
+<area shape="rect" id="Node000004" href="$test__socketHandlersRepository_8cpp.html#ab7c589ad84d3b91dc8a053d5ec07c995" title=" " alt="" coords="327,55,422,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="527,56,422,66,422,60,526,51"/>
+<area shape="rect" id="Node000003" href="$classServer.html#ab86d14f109bdc5df7682d097551e2e08" title="Реєстрація WebSocket маршрутів" alt="" coords="5,5,209,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,21,210,21,210,15,244,15"/>
+</map>

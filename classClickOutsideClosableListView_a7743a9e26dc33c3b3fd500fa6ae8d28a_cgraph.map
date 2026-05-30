@@ -1,0 +1,13 @@
+<map id="ClickOutsideClosableListView::ClickOutsideClosableListView" name="ClickOutsideClosableListView::ClickOutsideClosableListView">
+<area shape="rect" id="Node000001" title="Створення списку з підтримкою закриття по кліку поза межами" alt="" coords="5,101,260,141"/>
+<area shape="rect" id="Node000002" href="$classOutsideClickFilter.html#a56f2f6e77efc9248feb49c8aa372451d" title="Перевірка кліку поза межами popup." alt="" coords="343,5,494,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,99,307,55,332,47,334,52,309,60,187,104"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#aa3ab51695d5f17a5ae5d9de26fb3015c" title=" " alt="" coords="309,69,529,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,104,295,100,295,106,261,110"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a079295c30258d2e8db990c10ab419d31" title=" " alt="" coords="308,133,529,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,133,294,137,294,142,260,138"/>
+<area shape="rect" id="Node000006" href="$classClickOutsideClosableListView.html#a5c7f3115f5a5f356171d64f44b847f70" title="Оновлення стану (callback)" alt="" coords="327,197,510,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,139,309,183,334,191,332,196,307,188,185,144"/>
+<area shape="rect" id="Node000003" href="$classOutsideClickFilter.html#a6b671417208862f3c42964bceda262f4" title="Перевірка, чи клік був поза межами дозволених зон" alt="" coords="577,5,715,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,23,563,23,563,28,494,28"/>
+</map>

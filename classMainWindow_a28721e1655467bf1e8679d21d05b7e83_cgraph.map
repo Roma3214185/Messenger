@@ -1,0 +1,9 @@
+<map id="MainWindow::on_search_messages_line_edit_textChanged" name="MainWindow::on_search_messages_line_edit_textChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,253,63"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a087cac5d72f3d52f8567739bdf0d3aa7" title=" " alt="" coords="301,23,517,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,41,288,41,288,46,254,46"/>
+<area shape="rect" id="Node000003" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="606,5,762,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,31,592,24,592,29,518,36"/>
+<area shape="rect" id="Node000004" href="$classDataManager.html#a4e5b36a59c50c6a5d6b75249096a0fce" title=" " alt="" coords="565,55,803,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="518,50,552,53,551,58,517,55"/>
+</map>

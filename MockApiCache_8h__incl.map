@@ -1,0 +1,9 @@
+<map id="Backend/Gateway/tests/mocks/gateway/MockApiCache.h" name="Backend/Gateway/tests/mocks/gateway/MockApiCache.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,247,45"/>
+<area shape="rect" id="Node000002" href="$ICacheService_8h.html" title=" " alt="" coords="29,93,223,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,46,129,79,123,79,123,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="54,167,113,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,120,99,156,95,154,117,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="137,167,200,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="135,118,157,154,153,156,131,120"/>
+</map>

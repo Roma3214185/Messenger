@@ -1,0 +1,11 @@
+<map id="ISocket::textMessageReceived" name="ISocket::textMessageReceived">
+<area shape="rect" id="Node000001" title=" " alt="" coords="431,55,652,80"/>
+<area shape="rect" id="Node000002" href="$classRealSocket.html#a6e17bdc95d10f37d8d02ae4d29bbd7da" title=" " alt="" coords="198,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,55,333,33,334,27,457,50"/>
+<area shape="rect" id="Node000003" href="$classFakeSocket.html#a60745a8234c82a75883793aee3639dad" title=" " alt="" coords="148,55,383,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,70,383,70,383,65,417,65"/>
+<area shape="rect" id="Node000005" href="$classSocketManager.html#af112d3eadd1685084b7d2e40cb22b708" title=" " alt="" coords="150,104,381,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="457,85,338,107,337,101,456,80"/>
+<area shape="rect" id="Node000004" href="$test__socketmanager_8cpp.html#ae0461f4f444061bce695e6f78997fc3e" title=" " alt="" coords="5,55,100,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,70,100,70,100,65,135,65"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MessageActionPanel::onActionClicked" name="MessageActionPanel::onActionClicked">
+<area shape="rect" id="Node000001" title="Обробка кліку по action елементу" alt="" coords="5,101,161,141"/>
+<area shape="rect" id="Node000002" href="$classMessageActionPanel.html#a8bb05eef2f8304e6d6403ba0ec5e4c3e" title=" " alt="" coords="209,5,365,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,99,208,55,223,48,225,53,210,60,123,104"/>
+<area shape="rect" id="Node000003" href="$classMessageActionPanel.html#aef44f283c6f27f6187b150bc4058ff1e" title=" " alt="" coords="209,69,365,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,107,195,101,196,106,162,112"/>
+<area shape="rect" id="Node000004" href="$classMessageActionPanel.html#a9a93f58f30e3a75b96b16bb309ed46f5" title=" " alt="" coords="209,133,365,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,131,196,136,195,142,161,136"/>
+<area shape="rect" id="Node000005" href="$classMessageActionPanel.html#aba2ae242e17b297f30bb2e3682379815" title=" " alt="" coords="209,197,365,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="123,139,210,183,225,189,223,194,208,188,121,144"/>
+</map>

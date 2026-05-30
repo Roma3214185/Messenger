@@ -1,0 +1,59 @@
+<map id="Test::TestFixture" name="Test::TestFixture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1333,389,1460,414"/>
+<area shape="rect" id="Node000002" href="$classMockAuthManager.html" title=" " alt="" coords="1079,239,1223,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1237,262,1275,274,1311,292,1338,315,1361,341,1391,387,1386,390,1356,344,1334,319,1308,297,1273,279,1235,267"/>
+<area shape="rect" id="Node000003" href="$classIAuthManager.html" title=" " alt="" coords="303,478,416,503"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,465,421,420,450,398,482,380,524,365,565,354,638,347,706,351,770,362,834,372,900,376,972,367,1012,357,1053,340,1081,324,1105,303,1139,263,1143,267,1109,307,1084,328,1056,345,1013,362,973,373,900,381,833,377,769,367,705,357,638,352,566,360,526,370,484,385,453,402,424,424,381,469"/>
+<area shape="rect" id="Node000007" href="$classAuthController.html" title="Контролер автентифікації користувачів" alt="" coords="687,649,803,674"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="431,489,478,495,530,508,581,529,626,561,637,580,639,600,640,618,650,636,667,647,687,654,685,659,665,652,646,639,635,620,633,600,632,582,622,564,579,534,529,513,478,501,430,495"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="330,254,389,279"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="402,268,774,310,1039,344,1310,383,1333,387,1332,392,1309,388,1038,349,774,316,402,274"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="402,263,1078,251,1078,256,402,269"/>
+<area shape="rect" id="Node000005" href="$structLoginRequest.html" title="Запит на логін користувача" alt="" coords="689,129,800,154"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="378,242,422,198,450,177,482,160,535,144,590,135,643,133,689,134,689,139,643,138,591,141,536,149,484,165,453,182,425,202,381,245"/>
+<area shape="rect" id="Node000006" href="$structRegisterRequest.html" title="Запит на реєстрацію користувача" alt="" coords="680,187,809,213"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="402,257,624,219,679,209,680,214,624,224,403,262"/>
+<area shape="rect" id="Node000022" href="$classMockAutoritizer.html" title=" " alt="" coords="682,402,807,427"/>
+<area shape="poly" id="edge28_Node000022_Node000004" title=" " alt="" coords="389,286,432,316,484,344,535,364,587,380,683,402,681,407,586,385,533,369,482,349,429,320,386,290"/>
+<area shape="rect" id="Node000023" href="$structUser.html" title="Модель користувача" alt="" coords="934,90,986,115"/>
+<area shape="poly" id="edge30_Node000023_Node000004" title=" " alt="" coords="368,240,385,206,409,167,441,129,481,100,543,77,608,63,674,58,739,59,800,65,854,74,934,93,933,98,853,79,799,71,739,65,674,63,609,68,544,82,484,105,445,133,413,170,389,209,373,242"/>
+<area shape="rect" id="Node000024" href="$classMockTokenGenerator.html" title=" " alt="" coords="665,451,824,477"/>
+<area shape="poly" id="edge33_Node000024_Node000004" title=" " alt="" coords="376,290,419,351,449,383,484,410,528,431,575,445,622,454,665,459,665,465,621,459,574,450,526,435,481,414,446,387,415,355,372,293"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="814,142,929,156,993,170,1056,190,1100,212,1135,237,1132,241,1097,217,1054,194,992,175,928,161,813,147"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="823,204,933,215,1055,231,1089,237,1088,242,1054,236,932,220,823,209"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="817,670,903,678,1007,677,1063,671,1118,661,1171,645,1221,623,1254,602,1283,575,1332,515,1367,456,1388,413,1393,415,1372,458,1337,518,1287,579,1257,606,1224,628,1173,650,1119,666,1063,677,1008,682,903,683,816,676"/>
+<area shape="rect" id="Node000010" href="$classServer.html" title="HTTP сервер для Auth Service (Crow framework)" alt="" coords="1119,573,1183,598"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="816,658,929,650,992,641,1054,627,1093,612,1126,596,1128,601,1095,617,1055,632,993,646,930,655,816,663"/>
+<area shape="rect" id="Node000008" href="$classIAuthoritizer.html" title=" " alt="" coords="308,530,411,555"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="413,557,460,572,554,605,649,635,690,646,689,651,647,640,552,610,458,577,412,562"/>
+<area shape="poly" id="edge27_Node000022_Node000008" title=" " alt="" coords="423,524,458,513,482,504,523,495,556,491,587,485,622,467,630,460,634,453,638,444,647,436,681,421,683,426,649,441,642,448,638,455,634,463,626,472,589,490,557,496,524,500,483,509,460,519,425,529"/>
+<area shape="rect" id="Node000009" href="$classIGenerator.html" title=" " alt="" coords="314,586,405,611"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="400,614,440,630,483,643,536,652,590,657,686,660,686,665,590,662,536,657,482,648,438,635,398,619"/>
+<area shape="poly" id="edge32_Node000024_Node000009" title=" " alt="" coords="418,588,542,567,595,556,622,546,631,533,634,519,636,503,646,487,667,474,669,479,650,491,641,505,639,519,636,535,626,550,596,561,543,573,419,593"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="1192,564,1249,535,1308,495,1352,452,1384,413,1388,416,1356,456,1311,499,1252,539,1195,569"/>
+<area shape="rect" id="Node000011" href="$classController.html" title=" " alt="" coords="701,750,788,775"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="801,753,857,743,921,728,989,705,1053,675,1080,657,1103,635,1138,596,1142,600,1107,639,1083,661,1056,680,991,710,923,733,858,748,802,758"/>
+<area shape="rect" id="Node000012" href="$classIMessageCommandService.html" title=" " alt="" coords="260,825,459,850"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="472,825,547,815,623,800,710,773,712,778,625,805,548,820,473,830"/>
+<area shape="rect" id="Node000013" href="$classIMessageQueryService.html" title=" " alt="" coords="274,874,445,899"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="458,879,540,867,582,857,623,843,654,828,683,809,728,773,731,778,686,813,657,832,625,848,584,862,541,872,459,884"/>
+<area shape="rect" id="Node000014" href="$structIThreadPool.html" title=" " alt="" coords="310,677,409,702"/>
+<area shape="poly" id="edge18_Node000011_Node000014" title=" " alt="" coords="423,692,518,704,625,723,709,747,707,753,623,728,517,709,422,697"/>
+<area shape="rect" id="Node000015" href="$classQueueSubscriber.html" title=" " alt="" coords="293,726,425,751"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="439,741,701,757,701,763,439,746"/>
+<area shape="rect" id="Node000016" href="$classIEventSubscriber.html" title=" " alt="" coords="5,726,136,751"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="150,736,293,736,293,741,150,741"/>
+<area shape="rect" id="Node000017" href="$classQueuePublisher.html" title=" " alt="" coords="297,775,421,801"/>
+<area shape="poly" id="edge21_Node000011_Node000017" title=" " alt="" coords="435,783,624,772,701,765,701,770,624,777,435,788"/>
+<area shape="rect" id="Node000018" href="$classIEventPublisher.html" title=" " alt="" coords="9,775,132,801"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="146,785,297,785,297,791,146,791"/>
+<area shape="rect" id="Node000019" href="$classISubscriber.html" title=" " alt="" coords="697,599,792,625"/>
+<area shape="poly" id="edge23_Node000010_Node000019" title=" " alt="" coords="805,608,921,605,1054,596,1118,588,1119,593,1055,601,921,610,806,614"/>
+<area shape="rect" id="Node000020" href="$classIActiveSocketRepository.html" title="Репозиторій активних WebSocket&#45;з’єднань" alt="" coords="655,501,835,526"/>
+<area shape="poly" id="edge24_Node000010_Node000020" title=" " alt="" coords="849,516,949,527,1055,547,1122,570,1120,575,1054,552,948,532,848,522"/>
+<area shape="rect" id="Node000021" href="$classSocketHandlersRepository.html" title=" " alt="" coords="648,550,841,575"/>
+<area shape="poly" id="edge25_Node000010_Node000021" title=" " alt="" coords="855,566,1119,581,1118,586,855,571"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="821,410,1333,400,1333,405,821,416"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="1000,107,1065,123,1147,150,1233,190,1274,216,1311,246,1342,282,1366,322,1394,387,1389,390,1361,324,1338,285,1307,250,1271,220,1231,195,1145,155,1064,128,999,112"/>
+<area shape="poly" id="edge31_Node000001_Node000024" title=" " alt="" coords="838,457,1016,445,1222,425,1333,409,1334,415,1223,431,1017,450,838,462"/>
+</map>

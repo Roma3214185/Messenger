@@ -1,0 +1,7 @@
+<map id="NotificationOrchestrator::getChatIdOfMessage" name="NotificationOrchestrator::getChatIdOfMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,184,75"/>
+<area shape="rect" id="Node000002" href="$classIMessageNetworkManager.html#a048229eebd310441e581ec9bcdd647a3" title=" " alt="" coords="234,5,430,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,41,220,36,221,42,184,46"/>
+<area shape="rect" id="Node000003" href="$classINetworkFacade.html#a9c7afcb35b99977c6d733a9229d9c633" title="Доступ до API повідомлень" alt="" coords="232,70,432,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,63,219,67,218,72,184,68"/>
+</map>

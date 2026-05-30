@@ -1,0 +1,11 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,100,105"/>
+<area shape="rect" id="Node000002" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="175,5,383,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,78,106,58,147,40,174,31,176,36,149,44,109,63,75,82"/>
+<area shape="rect" id="Node000003" href="$classMessageManager.html#aa62b9cd64db2ade9171cba430b8e1214" title=" " alt="" coords="148,55,409,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,85,152,79,152,84,101,90"/>
+<area shape="rect" id="Node000004" href="$classTokenManager.html#a41ff9d3a9f067e510caf2ed6ab85dacc" title=" " alt="" coords="191,104,366,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="101,95,178,103,177,109,100,100"/>
+<area shape="rect" id="Node000005" href="$classMockNetworkAccessManager.html#a90df8ce8d943bcde8ffefad0d8862473" title=" " alt="" coords="171,154,386,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="77,103,149,138,177,148,175,153,147,143,75,108"/>
+</map>

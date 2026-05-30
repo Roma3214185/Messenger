@@ -1,0 +1,7 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,100,38"/>
+<area shape="rect" id="Node000002" href="$classChatManager.html#a2eb8aa01a410e88375361dce89b0c7bf" title="Отримання чату за ID." alt="" coords="148,13,345,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,23,134,23,134,28,100,28"/>
+<area shape="rect" id="Node000003" href="$classGenericRepository.html#aedce0974a4ab3ca064dbe588c8e94996" title=" " alt="" coords="393,5,543,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,23,380,23,380,28,346,28"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="SessionManager::authenticateWithToken" name="SessionManager::authenticateWithToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,224,121"/>
+<area shape="rect" id="Node000002" href="$classINetworkAccessManager.html#a7ee479767ef9bc6d51d13d837485b55e" title=" " alt="" coords="847,73,1059,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,78,207,53,271,34,418,10,535,3,651,12,799,34,858,48,910,66,908,71,856,53,798,39,651,17,535,9,419,15,273,39,209,58,154,83"/>
+<area shape="rect" id="Node000003" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="283,49,505,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,85,268,80,269,86,224,91"/>
+<area shape="rect" id="Node000004" href="$classBaseManager.html#a94b19c923951ee3b14ee2c17e505f126" title=" " alt="" coords="294,113,494,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,110,281,117,280,122,224,116"/>
+<area shape="rect" id="Node000008" href="$classSessionManager.html#a13b110fe72cb13a30fdb806b76cf99a5" title=" " alt="" coords="272,233,516,259"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="156,118,357,224,355,229,153,123"/>
+<area shape="rect" id="Node000005" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="577,49,785,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,110,515,98,563,83,599,75,600,80,565,88,517,103,473,115"/>
+<area shape="rect" id="Node000006" href="$classBaseManager.html#a1728659188d5b6267d2958e99e2e35e6" title=" " alt="" coords="578,99,785,124"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="494,122,564,117,564,123,494,128"/>
+<area shape="rect" id="Node000007" href="$classBaseManager.html#a6df3f5558f06dd78e267d36205a7287e" title=" " alt="" coords="564,148,799,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="494,140,550,145,550,150,494,145"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="746,145,798,133,901,101,903,106,799,138,747,150"/>
+<area shape="rect" id="Node000009" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="586,198,777,238"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="516,231,572,226,573,231,516,237"/>
+<area shape="rect" id="Node000010" href="$structUser.html#ae04eca84074fe851fbdbe28d0045ecb3" title=" " alt="" coords="626,263,737,288"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="516,256,612,266,612,271,516,261"/>
+<area shape="rect" id="Node000011" href="$classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e" title=" " alt="" coords="573,312,789,337"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="432,256,565,298,600,306,598,312,563,303,430,261"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="utils::text::get_tokens_from_doc" name="utils::text::get_tokens_from_doc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,168,77"/>
+<area shape="rect" id="Node000002" href="$namespaceutils_1_1text_1_1details.html#ae4c17fd00171a623c932e39244d3a75b" title=" " alt="" coords="216,37,352,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,55,202,55,202,60,168,60"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1text_1_1details.html#a9e04fd0bcd8373ba323c0118131344bb" title=" " alt="" coords="423,5,559,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,44,408,35,409,41,353,49"/>
+<area shape="rect" id="Node000005" href="$structTokenFactory.html#a3997861d1a233917995e872e3b13fc5f" title=" " alt="" coords="400,69,581,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="353,65,387,71,386,76,352,70"/>
+<area shape="rect" id="Node000004" href="$structTokenFactory.html#ad91e1396388ca76bab96ec41f08f9a64" title=" " alt="" coords="629,5,820,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="559,23,615,23,615,28,559,28"/>
+</map>

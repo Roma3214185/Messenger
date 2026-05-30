@@ -1,0 +1,15 @@
+<map id="Frontend/include/usecases/userusecase.h" name="Frontend/include/usecases/userusecase.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,5,618,45"/>
+<area shape="rect" id="Node000002" href="$UseCaseRepository_8h.html" title=" " alt="" coords="205,93,399,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,53,351,96,349,91,459,48"/>
+<area shape="rect" id="Node000006" href="$presenter_8cpp.html" title=" " alt="" coords="423,101,618,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="523,59,523,100,518,100,518,59"/>
+<area shape="rect" id="Node000007" href="$userusecase_8cpp.html" title=" " alt="" coords="643,93,809,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="579,48,682,91,680,96,577,53"/>
+<area shape="rect" id="Node000003" href="$Frontend_2main_8cpp.html" title=" " alt="" coords="5,181,148,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,140,111,184,109,179,234,135"/>
+<area shape="rect" id="Node000004" href="$UseCaseRepository_8cpp.html" title=" " alt="" coords="173,181,431,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,147,305,181,299,181,299,147"/>
+<area shape="rect" id="Node000005" href="$model_8cpp.html" title=" " alt="" coords="456,181,631,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="373,135,509,179,507,184,372,140"/>
+</map>

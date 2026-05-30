@@ -1,0 +1,20 @@
+<map id="Backend/NotificationService/include/handlers/DeleteMessageReaction.h" name="Backend/NotificationService/include/handlers/DeleteMessageReaction.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="952,5,1191,60"/>
+<area shape="rect" id="Node000002" href="$MessageHanldlers_8h.html" title=" " alt="" coords="791,115,1061,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,70,955,117,952,113,1020,66"/>
+<area shape="rect" id="Node000009" href="$DeleteMessageReactionHandler_8cpp.html" title=" " alt="" coords="1085,108,1351,163"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1123,66,1181,106,1178,110,1120,70"/>
+<area shape="rect" id="Node000003" href="$SocketHandlersRepositoty_8h.html" title=" " alt="" coords="578,211,837,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="870,163,753,213,750,208,868,158"/>
+<area shape="rect" id="Node000006" href="$NotificationService_2src_2server_8cpp.html" title=" " alt="" coords="876,299,1080,339"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="935,168,955,250,973,297,967,299,950,251,930,169"/>
+<area shape="rect" id="Node000008" href="$test__messageHandlers_8cpp.html" title=" " alt="" coords="964,211,1203,251"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="971,160,1053,208,1050,213,968,165"/>
+<area shape="rect" id="Node000004" href="$Backend_2NotificationService_2main_8cpp.html" title=" " alt="" coords="5,299,209,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="564,253,221,301,210,303,209,298,220,296,564,248"/>
+<area shape="rect" id="Node000005" href="$SocketHandlersRepository_8cpp.html" title=" " alt="" coords="233,299,539,339"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="625,257,457,301,456,296,623,252"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="781,252,920,296,918,301,779,257"/>
+<area shape="rect" id="Node000007" href="$test__socketHandlersRepository_8cpp.html" title=" " alt="" coords="563,299,852,339"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="710,265,710,298,705,298,705,265"/>
+</map>

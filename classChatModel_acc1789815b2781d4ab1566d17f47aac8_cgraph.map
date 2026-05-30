@@ -1,0 +1,9 @@
+<map id="ChatModel::addChat" name="ChatModel::addChat">
+<area shape="rect" id="Node000001" title="Додавання чату" alt="" coords="5,55,160,80"/>
+<area shape="rect" id="Node000002" href="$classChatModel.html#a5c455337189477c9f8d7d1d2ebd69671" title="Пошук індексу чату за ID." alt="" coords="208,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,52,242,31,243,36,144,57"/>
+<area shape="rect" id="Node000003" href="$classChatModel.html#aa597aa46f94dba90ba14a990562bd9f1" title="Кількість рядків у моделі" alt="" coords="236,55,399,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,65,223,65,223,70,161,70"/>
+<area shape="rect" id="Node000004" href="$classChatModel.html#a49aca5be7a31527c3ec5fb40c5a5c886" title="Сортування чатів" alt="" coords="236,104,399,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,77,243,98,242,104,143,83"/>
+</map>

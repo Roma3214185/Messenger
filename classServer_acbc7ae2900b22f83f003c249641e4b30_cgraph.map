@@ -1,0 +1,9 @@
+<map id="Server::handleUpdateMessage" name="Server::handleUpdateMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,227,56"/>
+<area shape="rect" id="Node000002" href="$namespaceutils.html#a6ae5dfc9011502355e1ff21057c603ed" title="Конвертація Crow request → RequestDTO." alt="" coords="275,31,381,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,41,261,41,261,46,227,46"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1details.html#a32cd79fcc9dce587c9893e85f6a93215" title="Витяг токена авторизації" alt="" coords="439,5,632,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,34,425,29,426,34,382,40"/>
+<area shape="rect" id="Node000004" href="$namespaceutils_1_1details.html#a3bfdceddbd058f1fbe3f230fdee0ec09" title="Отримання Content&#45;Type." alt="" coords="429,55,641,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,47,416,51,415,56,381,52"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Presenter" name="Presenter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="929,163,1013,188"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="75,6,149,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,8,244,4,435,13,512,21,583,32,654,48,728,70,906,137,951,161,949,165,904,142,726,75,652,53,582,37,511,26,434,18,244,9,163,13"/>
+<area shape="rect" id="Node000004" href="$classModel.html" title=" " alt="" coords="647,138,709,163"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="164,17,246,22,354,34,472,56,531,71,588,90,630,112,663,135,660,140,627,117,586,95,529,76,470,61,353,39,246,27,163,22"/>
+<area shape="rect" id="Node000008" href="$classDataManager.html" title=" " alt="" coords="287,88,398,114"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="163,25,220,41,273,63,319,86,316,90,271,68,218,46,162,31"/>
+<area shape="rect" id="Node000003" href="$classIMainWindow.html" title=" " alt="" coords="623,187,733,212"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="747,201,823,200,905,193,935,186,936,191,906,198,824,206,747,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="723,151,929,169,929,175,723,157"/>
+<area shape="rect" id="Node000005" href="$classTokenManager.html" title=" " alt="" coords="285,138,401,163"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="414,148,646,148,646,153,414,153"/>
+<area shape="rect" id="Node000006" href="$classUseCaseRepository.html" title="Контейнер для всіх use case сервісів" alt="" coords="268,187,417,212"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="431,189,586,168,646,155,647,160,587,173,431,194"/>
+<area shape="rect" id="Node000007" href="$classICache.html" title=" " alt="" coords="309,236,376,262"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="390,249,434,249,485,243,537,231,585,208,593,200,597,192,601,182,609,172,627,162,645,154,647,159,629,166,612,176,605,185,602,194,597,203,588,212,539,236,486,249,434,254,390,255"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="412,105,587,129,647,141,646,146,586,134,412,111"/>
+<area shape="rect" id="Node000009" href="$classIChatDataManager.html" title=" " alt="" coords="40,56,184,82"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="198,78,288,91,287,96,197,83"/>
+<area shape="rect" id="Node000010" href="$classIUserDataManager.html" title=" " alt="" coords="40,106,184,131"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="198,109,287,102,287,108,198,115"/>
+<area shape="rect" id="Node000011" href="$classIMessageDataManager.html" title=" " alt="" coords="26,155,198,180"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="183,149,218,140,267,122,301,111,303,116,269,127,219,145,185,154"/>
+<area shape="rect" id="Node000012" href="$classIReactionDataManager.html" title=" " alt="" coords="27,204,197,230"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="204,197,217,189,233,174,241,158,250,140,266,123,288,111,290,116,270,127,254,143,246,160,237,177,220,194,207,201"/>
+<area shape="rect" id="Node000013" href="$classIMessageStatusDataManager.html" title=" " alt="" coords="5,254,219,279"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="209,245,217,239,229,226,236,212,241,183,246,153,254,138,266,123,286,110,289,115,270,127,258,141,251,155,247,184,241,214,234,229,220,243,212,249"/>
+<area shape="rect" id="Node000014" href="$classMessageListView.html" title="Список повідомлень з додатковим керуванням скролом та навігацією" alt="" coords="611,260,745,286"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="758,262,831,248,904,223,932,205,955,186,958,191,935,210,906,227,832,253,760,267"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="299,286,386,311"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="400,291,610,275,610,281,400,297"/>
+</map>

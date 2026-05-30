@@ -1,0 +1,19 @@
+<map id="Message::checkInvariants" name="Message::checkInvariants">
+<area shape="rect" id="Node000001" title="Перевірка коректності стану об’єкта" alt="" coords="817,104,1008,129"/>
+<area shape="rect" id="Node000002" href="$classMessageManager.html#abfd93d694d42b5b15402544222241054" title=" " alt="" coords="523,5,767,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="879,99,828,71,768,45,729,33,730,28,770,39,830,66,881,94"/>
+<area shape="rect" id="Node000003" href="$structMessage.html#a510a950f8ed0a9dec7308f66428aa7a8" title=" " alt="" coords="572,55,719,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="829,104,715,83,716,77,830,99"/>
+<area shape="rect" id="Node000004" href="$classModel.html#a43ab33fc014403405f87512e2471f80e" title=" " alt="" coords="552,104,739,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="803,119,739,119,739,114,803,114"/>
+<area shape="rect" id="Node000008" href="$structMessage.html#aef02c78ca67c8fd46eb2b39b2319f1d3" title=" " alt="" coords="562,153,729,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="830,134,716,156,715,151,829,129"/>
+<area shape="rect" id="Node000009" href="$classMessageManager.html#a0a7dee8401b8b2e70f9cc8da0d502a48" title=" " alt="" coords="521,203,769,228"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="881,139,830,166,770,193,725,205,724,200,768,187,828,162,878,134"/>
+<area shape="rect" id="Node000005" href="$classPresenter.html#a0b73236d1ca41cfa9e6a04eccc6e642e" title=" " alt="" coords="325,104,473,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="538,119,474,119,474,114,538,114"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#adeeec7e78660dbcda559c451df7b7aac" title="Ініціалізація UI." alt="" coords="108,104,277,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="311,119,278,119,278,114,311,114"/>
+<area shape="rect" id="Node000007" href="$Frontend_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,104,60,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="94,119,60,119,60,114,94,114"/>
+</map>

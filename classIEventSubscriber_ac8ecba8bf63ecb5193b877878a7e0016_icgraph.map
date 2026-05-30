@@ -1,0 +1,42 @@
+<map id="IEventSubscriber::subscribe" name="IEventSubscriber::subscribe">
+<area shape="rect" id="Node000001" title=" " alt="" coords="745,269,947,294"/>
+<area shape="rect" id="Node000002" href="$classRabbitNotificationSubscriber.html#ac11c8dfb337fd4ef7cf542ce9e4e9f1b" title=" " alt="" coords="465,197,671,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,268,655,240,656,235,777,263"/>
+<area shape="rect" id="Node000004" href="$classRabbitNotificationSubscriber.html#ac6eb5dd26f2a91482a2ed41181522c0b" title=" " alt="" coords="439,5,697,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="833,257,813,213,784,159,745,105,722,81,696,60,676,48,678,43,699,55,725,77,749,102,789,157,818,211,838,254"/>
+<area shape="rect" id="Node000005" href="$classRabbitNotificationSubscriber.html#a7066cef0b11d6502a70e8001a40c5845" title=" " alt="" coords="445,69,691,109"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="827,259,774,191,738,154,696,124,672,112,674,107,699,119,741,150,778,187,831,255"/>
+<area shape="rect" id="Node000006" href="$classRabbitNotificationSubscriber.html#a8337690b3c087e8bb49c0297e179c8dc" title=" " alt="" coords="465,133,671,173"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="817,262,763,224,696,188,664,176,665,171,698,183,766,220,820,258"/>
+<area shape="rect" id="Node000007" href="$classGatewayController.html#a462c0afbe26cf7f750650e776fb81517" title="Підписка на нові запити через чергу" alt="" coords="476,261,660,301"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="731,284,660,284,660,279,731,279"/>
+<area shape="rect" id="Node000011" href="$classQueueSubscriber.html#af06ead09066c50e58f33ab690a7efb97" title=" " alt="" coords="467,389,669,429"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="820,305,766,343,698,380,665,392,664,387,696,375,763,338,817,300"/>
+<area shape="rect" id="Node000014" href="$classQueueSubscriber.html#a6995fa9d5e46b984fad5d29c5e384918" title=" " alt="" coords="467,517,669,557"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="838,308,818,352,789,406,749,461,725,486,699,508,671,522,668,518,696,503,722,482,745,458,784,403,813,350,833,306"/>
+<area shape="rect" id="Node000016" href="$classQueueSubscriber.html#a2ac2a36297281b0390bc5adfd8d9c9a7" title=" " alt="" coords="467,325,669,365"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="777,300,656,328,655,323,776,295"/>
+<area shape="rect" id="Node000017" href="$classQueueSubscriber.html#a329fa5d1c4b3b4152ecff639cd130715" title=" " alt="" coords="467,453,669,493"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="831,307,778,375,741,412,699,444,671,457,668,452,696,439,738,408,774,372,827,304"/>
+<area shape="rect" id="Node000003" href="$classRabbitNotificationSubscriber.html#afad7831d3da5490d37d949f50eb3296b" title=" " alt="" coords="184,101,391,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,196,438,188,330,144,332,139,440,183,466,191"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="466,52,440,60,332,104,330,99,438,55,465,47"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="431,108,391,112,391,107,431,102"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="450,143,390,136,391,130,451,137"/>
+<area shape="rect" id="Node000008" href="$classGatewayServer.html#a4332ddbf8539e261d4eb0f53057bd611" title="Запуск сервера" alt="" coords="212,298,363,323"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="462,295,363,306,362,300,462,290"/>
+<area shape="rect" id="Node000010" href="$structTestGatewayServerFixrute.html#aefd1cc1e86765056b4226945d1abc936" title=" " alt="" coords="187,233,388,273"/>
+<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="462,273,388,266,388,261,463,268"/>
+<area shape="rect" id="Node000009" href="$Backend_2Gateway_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="43,298,98,323"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="198,313,98,313,98,308,198,308"/>
+<area shape="rect" id="Node000012" href="$classController.html#acd9199a835b20573f4767cf260f3224e" title=" " alt="" coords="201,433,374,458"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="453,427,375,437,374,432,453,421"/>
+<area shape="rect" id="Node000013" href="$classController.html#a342e81be8639deb3b671b966d4f81638" title=" " alt="" coords="5,433,136,458"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="187,448,136,448,136,443,187,443"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="460,516,438,508,413,494,390,480,336,461,338,456,392,475,416,489,440,503,462,511"/>
+<area shape="rect" id="Node000015" href="$MessageService_2tests_2test__controller_8cpp.html#a31a16acb6df305429c023bceded76d6b" title=" " alt="" coords="240,489,335,514"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="453,525,334,510,335,505,453,520"/>
+<area shape="poly" id="edge20_Node000016_Node000012" title=" " alt="" coords="465,372,440,380,371,408,314,435,312,430,369,403,438,375,464,367"/>
+<area shape="poly" id="edge22_Node000017_Node000012" title=" " alt="" coords="452,465,374,457,374,451,453,459"/>
+<area shape="poly" id="edge23_Node000017_Node000015" title=" " alt="" coords="453,487,335,499,335,494,453,482"/>
+</map>

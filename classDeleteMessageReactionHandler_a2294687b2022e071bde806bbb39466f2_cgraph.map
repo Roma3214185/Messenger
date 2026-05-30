@@ -1,0 +1,9 @@
+<map id="DeleteMessageReactionHandler::handle" name="DeleteMessageReactionHandler::handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,236,63"/>
+<area shape="rect" id="Node000002" href="$classIPublisher.html#a03edaab93d5a497eb71415113bbf80e3" title=" " alt="" coords="292,5,484,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,30,278,26,279,31,236,35"/>
+<area shape="rect" id="Node000003" href="$namespaceutils_1_1entities.html#aec17087cf752e97e7976847b95707e78" title="Парсинг Reaction з Crow JSON." alt="" coords="284,55,492,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,51,270,54,270,59,236,56"/>
+<area shape="rect" id="Node000004" href="$structReaction.html#afe5f41f06f70e7dc1c0805dedc8d77b5" title="Перевірка коректності об’єкта" alt="" coords="540,55,731,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,65,526,65,526,70,492,70"/>
+</map>

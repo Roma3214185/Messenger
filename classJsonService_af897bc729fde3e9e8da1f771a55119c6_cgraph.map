@@ -1,0 +1,5 @@
+<map id="JsonService::getMessageStatus" name="JsonService::getMessageStatus">
+<area shape="rect" id="Node000001" title="Отримання MessageStatus з JSON." alt="" coords="5,5,231,31"/>
+<area shape="rect" id="Node000002" href="$structMessageStatus.html#abbb60827fc7058309189d9fda272fbc5" title="Перевірка коректності стану об’єкта" alt="" coords="279,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,15,265,15,265,21,231,21"/>
+</map>

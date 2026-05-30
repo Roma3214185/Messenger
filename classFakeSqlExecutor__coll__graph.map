@@ -1,0 +1,9 @@
+<map id="FakeSqlExecutor" name="FakeSqlExecutor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,168,141,193"/>
+<area shape="rect" id="Node000002" href="$classISqlExecutor.html" title=" " alt="" coords="5,80,108,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,118,78,167,72,168,60,119"/>
+<area shape="rect" id="Node000003" href="$classMockQuery.html" title=" " alt="" coords="133,80,229,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,116,94,170,91,165,154,112"/>
+<area shape="rect" id="Node000004" href="$structIQuery.html" title=" " alt="" coords="148,5,213,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,45,183,80,178,80,178,45"/>
+</map>

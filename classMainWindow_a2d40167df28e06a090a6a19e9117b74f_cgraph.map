@@ -1,0 +1,19 @@
+<map id="MainWindow::deleteMessage" name="MainWindow::deleteMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,146,217,171"/>
+<area shape="rect" id="Node000002" href="$classPresenter.html#a291fe2bd447f767e55756abcf602e9ed" title=" " alt="" coords="265,97,456,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,143,282,122,283,127,177,149"/>
+<area shape="rect" id="Node000008" href="$structMessage.html#abe503717eebe8b8ae89f37bf008dd82d" title=" " alt="" coords="295,146,426,171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="218,156,281,156,281,161,218,161"/>
+<area shape="rect" id="Node000009" href="$structMessage.html#a3cb61ad4133a391997f2b1be1e13e0ba" title=" " alt="" coords="269,195,452,221"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="177,169,283,190,282,195,176,174"/>
+<area shape="rect" id="Node000003" href="$classMessageUseCase.html#aabe1ee035cfd5461c93f88afaaaa2a12" title="Видалення повідомлення" alt="" coords="504,70,748,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,97,490,94,490,99,456,102"/>
+<area shape="rect" id="Node000006" href="$classModel.html#a8c216808c0b3ee2a7c037f8cff0a9b3a" title=" " alt="" coords="561,123,691,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="456,116,548,126,548,131,456,122"/>
+<area shape="rect" id="Node000004" href="$classIMessageDataManager.html#a7352c2dbe4f3b2996ac2dfaa6fc71f40" title=" " alt="" coords="801,5,973,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="684,67,787,44,789,50,685,73"/>
+<area shape="rect" id="Node000005" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="796,70,979,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="748,80,782,80,782,85,748,85"/>
+<area shape="rect" id="Node000007" href="$classUseCaseRepository.html#ad738e13330274c0adeab29a4cf0a70dc" title="Доступ до Message use case." alt="" coords="809,120,965,160"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="691,134,796,136,795,141,691,140"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="IChatManager" name="IChatManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,5,204,31"/>
+<area shape="rect" id="Node000002" href="$classChatManager.html" title="Менеджер чатів (логіка створення та керування чатами)" alt="" coords="18,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,42,87,80,83,77,124,38"/>
+<area shape="rect" id="Node000004" href="$classMockChatManager.html" title=" " alt="" coords="151,79,295,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,38,213,76,209,80,168,42"/>
+<area shape="rect" id="Node000003" href="$classTestChatManager.html" title=" " alt="" coords="5,152,140,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,118,75,152,70,152,70,118"/>
+</map>

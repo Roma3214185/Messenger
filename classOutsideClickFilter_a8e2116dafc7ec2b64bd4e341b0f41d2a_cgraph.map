@@ -1,0 +1,7 @@
+<map id="OutsideClickFilter::eventFilter" name="OutsideClickFilter::eventFilter">
+<area shape="rect" id="Node000001" title="Обробка подій через event filter." alt="" coords="5,5,143,45"/>
+<area shape="rect" id="Node000002" href="$classOutsideClickFilter.html#a56f2f6e77efc9248feb49c8aa372451d" title="Перевірка кліку поза межами popup." alt="" coords="191,5,341,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,23,177,23,177,28,143,28"/>
+<area shape="rect" id="Node000003" href="$classOutsideClickFilter.html#a6b671417208862f3c42964bceda262f4" title="Перевірка, чи клік був поза межами дозволених зон" alt="" coords="389,5,527,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,23,375,23,375,28,342,28"/>
+</map>

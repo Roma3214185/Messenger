@@ -1,0 +1,7 @@
+<map id="RabbitMQClient::declareExchange" name="RabbitMQClient::declareExchange">
+<area shape="rect" id="Node000001" title="Оголошення exchange." alt="" coords="248,31,491,56"/>
+<area shape="rect" id="Node000002" href="$classRabbitMQClient.html#ada51869303abb952447b7a6fe5201d3a" title="Публікація повідомлення" alt="" coords="13,5,192,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,33,192,29,192,24,235,28"/>
+<area shape="rect" id="Node000003" href="$classRabbitMQClient.html#a77fbca4bf381706a78e99f5c269cc846" title="Підписка на події" alt="" coords="5,55,200,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,58,200,61,200,56,234,53"/>
+</map>

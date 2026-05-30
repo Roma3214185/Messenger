@@ -1,0 +1,15 @@
+<map id="IMessageHandler" name="IMessageHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,140,155"/>
+<area shape="rect" id="Node000002" href="$classDeleteMessageReactionHandler.html" title=" " alt="" coords="188,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,117,133,77,159,57,187,40,216,28,218,33,189,44,162,61,136,81,95,121"/>
+<area shape="rect" id="Node000003" href="$classInitMessageHandler.html" title=" " alt="" coords="227,55,379,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,121,187,89,230,77,231,83,189,94,112,126"/>
+<area shape="rect" id="Node000004" href="$classMarkReadMessageHandler.html" title=" " alt="" coords="205,104,402,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,130,204,125,205,130,154,136"/>
+<area shape="rect" id="Node000005" href="$classMockHandler.html" title=" " alt="" coords="249,153,357,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,148,249,158,249,163,154,153"/>
+<area shape="rect" id="Node000006" href="$classSaveMessageReactionHandler.html" title=" " alt="" coords="193,203,413,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="114,158,189,187,236,200,234,205,187,193,112,163"/>
+<area shape="rect" id="Node000007" href="$classSendMessageHandler.html" title=" " alt="" coords="222,252,385,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="96,163,137,201,162,221,189,237,223,250,221,255,187,242,159,225,133,205,92,167"/>
+</map>

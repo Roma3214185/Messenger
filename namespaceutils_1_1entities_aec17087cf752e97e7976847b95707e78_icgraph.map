@@ -1,0 +1,11 @@
+<map id="utils::entities::parseReaction" name="utils::entities::parseReaction">
+<area shape="rect" id="Node000001" title="Парсинг Reaction з Crow JSON." alt="" coords="427,45,635,70"/>
+<area shape="rect" id="Node000002" href="$classDeleteMessageReactionHandler.html#a2294687b2022e071bde806bbb39466f2" title=" " alt="" coords="148,5,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,46,378,42,379,36,414,41"/>
+<area shape="rect" id="Node000004" href="$classSaveMessageReactionHandler.html#a9aad8c4612c7446171a9931ea9a7d6c9" title=" " alt="" coords="153,69,373,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,74,374,79,373,74,413,69"/>
+<area shape="rect" id="Node000003" href="$test__messageHandlers_8cpp.html#adce1803c9ee7e7ec06c66ec9b6fdb650" title=" " alt="" coords="5,13,100,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,28,100,28,100,23,134,23"/>
+<area shape="rect" id="Node000005" href="$test__messageHandlers_8cpp.html#a840ac884d95bc7961cac1a51d2e94f3b" title=" " alt="" coords="5,77,100,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,92,100,92,100,87,140,87"/>
+</map>

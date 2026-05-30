@@ -1,0 +1,11 @@
+<map id="DataManager::deleteMessage" name="DataManager::deleteMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,223,67"/>
+<area shape="rect" id="Node000002" href="$classDataManager.html#afa509868d791448a67e74c9bfac63780" title=" " alt="" coords="271,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,40,257,36,257,42,223,45"/>
+<area shape="rect" id="Node000003" href="$structMessage.html#a10bea40e0b83887335eaaf45b6cfd32c" title=" " alt="" coords="311,70,449,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,63,297,71,297,77,223,69"/>
+<area shape="rect" id="Node000004" href="$structMessage.html#af12b2cb6354c7049a4efab54e3658ce7" title=" " alt="" coords="537,70,696,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,80,524,80,524,85,450,85"/>
+<area shape="rect" id="Node000005" href="$namespaceutils_1_1text.html#ad28d643e10c2b9f281ea4f30dd3c1493" title=" " alt="" coords="744,70,891,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,80,730,80,730,85,696,85"/>
+</map>

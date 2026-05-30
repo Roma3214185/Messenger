@@ -1,0 +1,5 @@
+<map id="ProxyClient" name="ProxyClient">
+<area shape="rect" id="Node000001" title="Проксі&#45;клієнт для маршрутизації запитів між сервісами" alt="" coords="5,93,103,119"/>
+<area shape="rect" id="Node000002" href="$classIClient.html" title=" " alt="" coords="22,5,86,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,45,57,93,51,93,51,45"/>
+</map>

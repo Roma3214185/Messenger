@@ -1,0 +1,9 @@
+<map id="Backend/NotificationService/tests/mocks/notificationservice/MockUserSocketRepository.h" name="Backend/NotificationService/tests/mocks/notificationservice/MockUserSocketRepository.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="286,5,515,60"/>
+<area shape="rect" id="Node000002" href="$MockUserSocketRepository_8cpp.html" title=" " alt="" coords="5,108,257,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,67,202,110,201,105,317,62"/>
+<area shape="rect" id="Node000003" href="$test__messageHandlers_8cpp.html" title=" " alt="" coords="281,115,520,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,74,403,115,398,115,398,74"/>
+<area shape="rect" id="Node000004" href="$test__socket__notifier_8cpp.html" title=" " alt="" coords="544,115,759,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="479,63,605,113,603,118,477,67"/>
+</map>
