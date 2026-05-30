@@ -8,22 +8,33 @@
 class ChatController;
 class NetworkManager;
 
+/// @brief HTTP сервер Chat Service (Crow framework)
 class ChatServer {
- public:
-  ChatServer(crow::SimpleApp &app, int port, ChatController *controller);
-  void run();
+public:
+    ChatServer(crow::SimpleApp &app, int port, ChatController *controller);
 
- private:
-  void initRoutes();
+    /// @brief Запуск сервера
+    void run();
 
-  void handleCreatingPrivateChat();
-  void handleGetAllChats();
-  void handleGetChat();
-  void handleGetAllChatsMembers();
+private:
+    /// @brief Ініціалізація HTTP маршрутів
+    void initRoutes();
 
-  crow::SimpleApp &app_;
-  int port_;
-  ChatController *controller_;
+    /// @brief Обробка створення приватного чату
+    void handleCreatingPrivateChat();
+
+    /// @brief Обробка отримання всіх чатів
+    void handleGetAllChats();
+
+    /// @brief Обробка отримання конкретного чату
+    void handleGetChat();
+
+    /// @brief Обробка отримання учасників чатів
+    void handleGetAllChatsMembers();
+
+    crow::SimpleApp &app_;
+    int port_;
+    ChatController *controller_;
 };
 
 #endif  // BACKEND_CHATSERVICE_SRC_SERVER_SERVER_H_

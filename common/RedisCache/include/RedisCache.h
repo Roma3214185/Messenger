@@ -10,34 +10,50 @@
 
 #include "interfaces/ICacheService.h"
 
+/// @brief Redis-based реалізація кешу (singleton)
 class RedisCache : public ICacheService {
- public:
-  static RedisCache &instance();
-  RedisCache(const RedisCache &) = delete;
-  RedisCache &operator=(const RedisCache &) = delete;
-  RedisCache(RedisCache &&) = delete;
-  RedisCache &operator=(RedisCache &&) = delete;
+public:
+    /// @brief Отримання singleton-інстансу кешу
+    static RedisCache &instance();
 
-  void incr(const std::string &key) override;
-  void remove(const std::string &key) override;
-  void clearCache() override;
+    RedisCache(const RedisCache &) = delete;
+    RedisCache &operator=(const RedisCache &) = delete;
+    RedisCache(RedisCache &&) = delete;
+    RedisCache &operator=(RedisCache &&) = delete;
 
-  void setPipelines(const std::vector<std::string> &keys, const std::vector<std::string> &results,
-                    std::chrono::seconds ttl = std::chrono::seconds{5}) override;
+    /// @brief Інкремент значення ключа
+    void incr(const std::string &key) override;
 
-  void set(const std::string &key, const std::string &value,
-           std::chrono::seconds ttl = std::chrono::seconds{5}) override;
+    /// @brief Видалення ключа
+    void remove(const std::string &key) override;
 
-  std::optional<std::string> get(const std::string &key) override;
+    /// @brief Очищення всього кешу
+    void clearCache() override;
 
- private:
-  std::unique_ptr<sw::redis::Redis> redis_;
-  std::mutex init_mutex_;
+    /// @brief Масове встановлення значень з TTL
+    void setPipelines(const std::vector<std::string> &keys,
+                      const std::vector<std::string> &results,
+                      std::chrono::seconds ttl = std::chrono::seconds{5}) override;
 
-  sw::redis::Redis &getRedis();
-  int getTtlWithJitter(std::chrono::seconds ttl);
+    /// @brief Встановлення значення з TTL
+    void set(const std::string &key,
+             const std::string &value,
+             std::chrono::seconds ttl = std::chrono::seconds{5}) override;
 
-  RedisCache() = default;
+    /// @brief Отримання значення за ключем
+    std::optional<std::string> get(const std::string &key) override;
+
+private:
+    std::unique_ptr<sw::redis::Redis> redis_;  ///< Redis клієнт
+    std::mutex init_mutex_;                    ///< Захист ініціалізації
+
+    /// @brief Отримання Redis-інстансу
+    sw::redis::Redis &getRedis();
+
+    /// @brief TTL з випадковим jitter для уникнення cache stampede
+    int getTtlWithJitter(std::chrono::seconds ttl);
+
+    RedisCache() = default;
 };
 
 #endif  // BACKEND_REDISCACHE_REDISCACHE_H_

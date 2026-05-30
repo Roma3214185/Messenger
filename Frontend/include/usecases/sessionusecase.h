@@ -10,19 +10,28 @@ struct LogInRequest;
 struct SignUpRequest;
 struct User;
 
+/// @brief Use case для керування сесією користувача (автентифікація/реєстрація)
 class SessionUseCase : public QObject {
-  Q_OBJECT
- public:
-  explicit SessionUseCase(std::unique_ptr<SessionManager> session_manager);
-  void authentificatesWithToken(const QString &token);
-  void signIn(const LogInRequest &login_request);
-  void signUp(const SignUpRequest &signup_request);
+    Q_OBJECT
+public:
+    /// @brief Ініціалізація SessionUseCase
+    explicit SessionUseCase(std::unique_ptr<SessionManager> session_manager);
 
- Q_SIGNALS:
-  void userCreated(const User &, const QString &token);
+    /// @brief Авторизація за токеном
+    void authentificatesWithToken(const QString &token);
 
- private:
-  std::unique_ptr<SessionManager> session_manager_;
+    /// @brief Вхід користувача
+    void signIn(const LogInRequest &login_request);
+
+    /// @brief Реєстрація користувача
+    void signUp(const SignUpRequest &signup_request);
+
+Q_SIGNALS:
+    /// @brief Сигнал створення користувача та видачі токена
+    void userCreated(const User &, const QString &token);
+
+private:
+    std::unique_ptr<SessionManager> session_manager_;
 };
 
 #endif  // SESSIONUSERCASE_H

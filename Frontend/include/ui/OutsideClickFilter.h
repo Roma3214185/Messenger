@@ -6,21 +6,30 @@
 #include <QObject>
 #include <QWidget>
 
+/// @brief Фільтр подій для визначення кліків поза межами popup-віджета
 class OutsideClickFilter final : public QObject {
-  Q_OBJECT
- public:
-  using EventCallback = std::function<void()>;
+    Q_OBJECT
+public:
+    using EventCallback = std::function<void()>;
 
-  OutsideClickFilter(QWidget *popupWidget);
-  void checkClickOutside(QPointF point);
-  void addAcceptableClickableWidget(QWidget *widget);  // click on this widget will not close popupWidget
+    /// @brief Створення фільтра для конкретного popup віджета
+    explicit OutsideClickFilter(QWidget *popupWidget);
 
- private:
-  bool eventFilter(QObject *obj, QEvent *event) override;
-  bool clickIsOutside(QPointF point);
+    /// @brief Перевірка кліку поза межами popup
+    void checkClickOutside(QPointF point);
 
-  QWidget *popup_;
-  std::vector<QWidget *> clickable_widgets_;
+    /// @brief Додавання дозволеного віджета (клік по ньому не закриває popup)
+    void addAcceptableClickableWidget(QWidget *widget);
+
+private:
+    /// @brief Обробка подій через event filter
+    bool eventFilter(QObject *obj, QEvent *event) override;
+
+    /// @brief Перевірка, чи клік був поза межами дозволених зон
+    bool clickIsOutside(QPointF point);
+
+    QWidget *popup_;                              ///< Віджет popup
+    std::vector<QWidget *> clickable_widgets_;    ///< Дозволені для кліку віджети
 };
 
 #endif  // OUTSIDECLICKFILTER_H

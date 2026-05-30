@@ -3,16 +3,18 @@
 
 #include <QString>
 
+/// @brief Запит на реєстрацію користувача
 struct SignUpRequest {
-  QString email;
-  QString password;
-  QString tag;
-  QString name;
+    QString email;     ///< Email користувача
+    QString password;  ///< Пароль
+    QString tag;      ///< Унікальний тег
+    QString name;     ///< Ім'я
 };
 
+/// @brief Запит на авторизацію користувача
 struct LogInRequest {  // todo: make immutable
-  QString email;
-  QString password;
+    QString email;     ///< Email користувача
+    QString password;  ///< Пароль
 };
 
 #endif  // SIGNUPREQUEST_H

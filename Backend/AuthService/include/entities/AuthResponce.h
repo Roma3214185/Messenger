@@ -6,9 +6,10 @@
 
 #include "entities/User.h"
 
+/// @brief Результат авторизації користувача
 struct AuthResponce {
-  std::string token;
-  std::optional<User> user;
+    std::string token;          ///< JWT токен
+    std::optional<User> user;   ///< Дані користувача (якщо доступні)
 };
 
 #endif  // BACKEND_AUTHSERVICE_SRC_HEADERS_AUTHRESPONCE_H_

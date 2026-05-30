@@ -6,26 +6,31 @@
 
 #include "Fields.h"
 
+/// @brief Облікові дані користувача
 struct UserCredentials final {
-  long long user_id{0};
-  std::string hash_password;
+    long long user_id{0};     ///< ID користувача
+    std::string hash_password; ///< Хеш пароля
 
-  bool checkInvariants() const { return user_id > 0 && !hash_password.empty(); }
+    /// @brief Перевірка коректності даних
+    bool checkInvariants() const { return user_id > 0 && !hash_password.empty(); }
 };
 
 namespace nlohmann {
 
+/// @brief JSON (de)serialization для UserCredentials
 template <>
 struct adl_serializer<UserCredentials> {
-  static void to_json(nlohmann::json &json, const UserCredentials &user_credentials) {
-    json = nlohmann::json{{UserCredentialsTable::UserId, user_credentials.user_id},
-                          {UserCredentialsTable::HashPassword, user_credentials.hash_password}};
-  }
+    static void to_json(nlohmann::json &json, const UserCredentials &user_credentials) {
+        json = nlohmann::json{
+            {UserCredentialsTable::UserId, user_credentials.user_id},
+            {UserCredentialsTable::HashPassword, user_credentials.hash_password}
+        };
+    }
 
-  static void from_json(const nlohmann::json &json, UserCredentials &user_credentials) {
-    json.at(UserCredentialsTable::UserId).get_to(user_credentials.user_id);
-    json.at(UserCredentialsTable::HashPassword).get_to(user_credentials.hash_password);
-  }
+    static void from_json(const nlohmann::json &json, UserCredentials &user_credentials) {
+        json.at(UserCredentialsTable::UserId).get_to(user_credentials.user_id);
+        json.at(UserCredentialsTable::HashPassword).get_to(user_credentials.hash_password);
+    }
 };
 
 }  // namespace nlohmann
