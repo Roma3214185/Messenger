@@ -177,6 +177,6 @@ else()
 endif()
 
 # Benchmarks
+add_subdirectory(Backend/NotificationService/benchmarks)
 # add_subdirectory(Backend/Gateway/benchmarks)
 # add_subdirectory(Backend/AuthService/benchmarks)
-

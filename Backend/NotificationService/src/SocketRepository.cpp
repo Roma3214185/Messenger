@@ -28,15 +28,18 @@ void SocketRepository::saveConnections(UserId user_id, SocketPtr socket) {
 }
 
 void SocketRepository::deleteConnection(const SocketPtr &conn_to_delete) {
-  // todo: on close user send message (e.g "deinit")
-  // todo: 3 lab OOP
-
   std::thread t1([&] { deleteFromActiveConnections(conn_to_delete); });
 
   std::thread t2([&] { deleteFromUserSocketsMap(conn_to_delete); });
 
   t1.join();
   t2.join();
+}
+
+void SocketRepository::deleteConnectionSync(const SocketPtr &conn_to_delete) {
+    deleteFromActiveConnections(conn_to_delete);
+    deleteFromUserSocketsMap(conn_to_delete);
+
 }
 
 void SocketRepository::deleteFromActiveConnections(const SocketPtr &conn_to_delete) {

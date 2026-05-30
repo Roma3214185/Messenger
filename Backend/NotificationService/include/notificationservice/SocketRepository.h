@@ -32,6 +32,7 @@ class SocketRepository : public IActiveSocketRepository, public IUserSocketRepos
   SocketPtr findSocket(crow::websocket::connection *conn) override;
   void addConnection(const SocketPtr &socket) override;
   void deleteConnection(const SocketPtr &socket) override;
+  void deleteConnectionSync(const SocketPtr &conn_to_delete);
   void saveConnections(UserId, SocketPtr socket) override;
   SocketPtr getUserSocket(UserId) override;
   bool userOnline(UserId) override;
