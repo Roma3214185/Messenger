@@ -1,22 +1,49 @@
-PROJECT_NAME           = "Chat Project"
-OUTPUT_DIRECTORY       = docs
-INPUT                  = src include
-RECURSIVE             = YES
+# ---------------------------------------------------------------------------
+# Project metadata
+# ---------------------------------------------------------------------------
+PROJECT_NAME           = "Messanger"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = ""
+OUTPUT_DIRECTORY       = html
 
-EXTRACT_ALL           = YES
-EXTRACT_PRIVATE       = YES
-EXTRACT_STATIC        = YES
+# ---------------------------------------------------------------------------
+# Input — scan everything from the repo root, recursively
+# ---------------------------------------------------------------------------
+INPUT                  = .
+RECURSIVE              = YES
+FILE_PATTERNS          = *.c *.cc *.cpp *.cxx *.h *.hh *.hpp *.hxx
+EXCLUDE                = html node_modules .git build dist
 
-GENERATE_HTML         = YES
-GENERATE_LATEX        = NO
+# ---------------------------------------------------------------------------
+# Source / parsing
+# ---------------------------------------------------------------------------
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_ANON_NSPACES   = YES
 
-QUIET                 = NO
+# ---------------------------------------------------------------------------
+# Output formats
+# ---------------------------------------------------------------------------
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = .          # output goes straight into html/
 
-OPTIMIZE_OUTPUT_JAVA  = YES
-MARKDOWN_SUPPORT      = YES
+# ---------------------------------------------------------------------------
+# Diagrams (graphviz is installed in the CI)
+# ---------------------------------------------------------------------------
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+CLASS_DIAGRAMS         = YES
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES
 
-USE_MDFILE_AS_MAINPAGE = README.md
-
-HAVE_DOT              = YES
-CALL_GRAPH            = YES
-CALLER_GRAPH          = YES
+# ---------------------------------------------------------------------------
+# Misc quality-of-life
+# ---------------------------------------------------------------------------
+WARN_IF_UNDOCUMENTED   = YES
+WARN_NO_PARAMDOC       = YES
+GENERATE_TREEVIEW      = YES
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO
