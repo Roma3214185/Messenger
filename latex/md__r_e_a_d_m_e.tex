@@ -1,0 +1,170 @@
+\chapter{Messenger App }
+\hypertarget{md__r_e_a_d_m_e}{}\label{md__r_e_a_d_m_e}\index{Messenger App@{Messenger App}}
+\label{md__r_e_a_d_m_e_autotoc_md0}%
+\Hypertarget{md__r_e_a_d_m_e_autotoc_md0}%
+
+
+This is a full-\/stack messenger application built with C++ backend microservices and a Qt frontend. It supports real-\/time messaging, asynchronous request handling, and high-\/throughput performance. The backend uses Crow framework, Rabbit\+MQ, Redis, and a custom SQLite ORM. All services are containerized with Docker, monitored via Prometheus \& Grafana, and integrated with a CI/\+\+CD pipeline for testing, code quality, and documentation.\hypertarget{md__r_e_a_d_m_e_autotoc_md1}{}\doxysection{\texorpdfstring{Table of Contents}{Table of Contents}}\label{md__r_e_a_d_m_e_autotoc_md1}
+
+\begin{DoxyItemize}
+\item FeaturesFeatures
+\end{DoxyItemize}
+\begin{DoxyItemize}
+\item Installation \& BuildInstallation \& Build
+\end{DoxyItemize}
+\begin{DoxyItemize}
+\item Project ArchitectureProject Architecture
+\end{DoxyItemize}
+\begin{DoxyItemize}
+\item TechnologiesTechnologies
+\end{DoxyItemize}
+\begin{DoxyItemize}
+\item LinksLinks
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md2}{}\doxysection{\texorpdfstring{Features}{Features}}\label{md__r_e_a_d_m_e_autotoc_md2}
+
+\begin{DoxyItemize}
+\item Real-\/time messaging with private and group chats
+\item User authentication and secure login
+\item Sending text messages, images, and files
+\item Notifications for new messages
+\item Cross-\/platform support
+\item Unit tests and code coverage integrated
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md3}{}\doxysection{\texorpdfstring{Installation \& Build}{Installation \& Build}}\label{md__r_e_a_d_m_e_autotoc_md3}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md4}{}\doxysubsection{\texorpdfstring{Prerequisites}{Prerequisites}}\label{md__r_e_a_d_m_e_autotoc_md4}
+
+\begin{DoxyItemize}
+\item mac\+OS with \href{https://brew.sh/}{\texttt{Homebrew}}
+\item Git
+\item CMake and Ninja (installed via Homebrew or vcpkg)
+\item Qt6, Boost, Catch2, SQLite3, spdlog, hiredis, Rabbit\+MQ-\/C, ASIO, Open\+SSL, nlohmann-\/json
+\item {\ttfamily ccache} for faster rebuilds
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md5}{}\doxysubsection{\texorpdfstring{Build Steps}{Build Steps}}\label{md__r_e_a_d_m_e_autotoc_md5}
+Clone the repository:\+ 
+\begin{DoxyCode}{0}
+\DoxyCodeLine{git\ clone\ -\/-\/recurse-\/submodules\ https://github.com/Roma3214185/Messanger.git}
+\DoxyCodeLine{cd\ Messanger}
+\DoxyCodeLine{}
+\DoxyCodeLine{brew\ update}
+\DoxyCodeLine{\ brew\ install\ cmake\ ninja\ autoconf\ autoconf-\/archive\ automake\ libtool\ ccache\ lcov\ clang-\/format\ rabbitmq-\/c}
+\DoxyCodeLine{./external/vcpkg/bootstrap-\/vcpkg.sh}
+\DoxyCodeLine{}
+\DoxyCodeLine{rm\ -\/rf\ build}
+\DoxyCodeLine{cmake\ -\/S\ .\ -\/B\ build\ -\/G\ Ninja\ \(\backslash\)}
+\DoxyCodeLine{\ \ -\/DCMAKE\_BUILD\_TYPE=Debug\ \(\backslash\)}
+\DoxyCodeLine{\ \ -\/DCMAKE\_TOOLCHAIN\_FILE=\$PWD/external/vcpkg/scripts/buildsystems/vcpkg.cmake\ \(\backslash\)}
+\DoxyCodeLine{\ \ -\/DVCPKG\_TARGET\_TRIPLET=arm64-\/osx\ \(\backslash\)}
+\DoxyCodeLine{\ \ -\/Wno-\/dev}
+\DoxyCodeLine{\ \ }
+\DoxyCodeLine{cmake\ -\/-\/build\ build\ -\/-\/parallel}
+
+\end{DoxyCode}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md6}{}\doxysection{\texorpdfstring{Project Architecture}{Project Architecture}}\label{md__r_e_a_d_m_e_autotoc_md6}
+The following diagrams illustrate the architecture of the {\bfseries{Messenger}} project, showing the main services, their interactions, and internal structure.\hypertarget{md__r_e_a_d_m_e_autotoc_md7}{}\doxysubsection{\texorpdfstring{High-\/\+Level Overview}{High-\/\+Level Overview}}\label{md__r_e_a_d_m_e_autotoc_md7}
+ ~\newline
+\hypertarget{md__r_e_a_d_m_e_autotoc_md8}{}\doxysubsection{\texorpdfstring{Service-\/\+Specific Architectures}{Service-\/\+Specific Architectures}}\label{md__r_e_a_d_m_e_autotoc_md8}
+
+\begin{DoxyItemize}
+\item {\bfseries{Gateway Service}} ~\newline
+ 
+\item {\bfseries{Authentication Service (Auth\+Service)}} ~\newline
+ 
+\item {\bfseries{Chat Service}} ~\newline
+ 
+\item {\bfseries{Frontend}} ~\newline
+ 
+\item {\bfseries{Message Service}} ~\newline
+ 
+\item {\bfseries{Notification Service}} ~\newline
+ 
+\item {\bfseries{Persistence Layer}} ~\newline
+ 
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md9}{}\doxysection{\texorpdfstring{🐳 Docker Support \& Persistence Benchmarks}{🐳 Docker Support \& Persistence Benchmarks}}\label{md__r_e_a_d_m_e_autotoc_md9}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md10}{}\doxysubsection{\texorpdfstring{Docker Support}{Docker Support}}\label{md__r_e_a_d_m_e_autotoc_md10}
+All backend microservices can be built and run as Docker containers. This simplifies deployment, ensures consistent environments, and isolates dependencies. ~\newline
+
+
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{docker-\/compose\ up\ -\/-\/build}
+
+\end{DoxyCode}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md11}{}\doxysection{\texorpdfstring{Technologies}{Technologies}}\label{md__r_e_a_d_m_e_autotoc_md11}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md12}{}\doxysubsection{\texorpdfstring{Language \& Standards}{Language \& Standards}}\label{md__r_e_a_d_m_e_autotoc_md12}
+
+\begin{DoxyItemize}
+\item {\bfseries{C++17}} fallback for wider compatibility
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md13}{}\doxysubsection{\texorpdfstring{Build \& Tooling}{Build \& Tooling}}\label{md__r_e_a_d_m_e_autotoc_md13}
+
+\begin{DoxyItemize}
+\item {\bfseries{CMake + Ninja}}
+\item {\bfseries{clang-\/format /\+ clang-\/tidy /\+ cppcheck /\+ includewhatyouuse /\+ sanitizers /\+ cpplint}} (formatting \& static analysis)
+\item {\bfseries{vcpkg}}
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md14}{}\doxysubsection{\texorpdfstring{Networking \& Web}{Networking \& Web}}\label{md__r_e_a_d_m_e_autotoc_md14}
+
+\begin{DoxyItemize}
+\item {\bfseries{Crow}} (REST API backend)
+\item {\bfseries{Web\+Socket support}} via Crow or {\ttfamily IXWeb\+Socket}
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md15}{}\doxysubsection{\texorpdfstring{Database \& Caching}{Database \& Caching}}\label{md__r_e_a_d_m_e_autotoc_md15}
+
+\begin{DoxyItemize}
+\item {\bfseries{SQLite3}} (lightweight embedded DB)
+\item {\bfseries{Redis++}} (caching, rate limiting, pub/\+sub)
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md16}{}\doxysubsection{\texorpdfstring{Messaging /\+ Queueing}{Messaging /\+ Queueing}}\label{md__r_e_a_d_m_e_autotoc_md16}
+
+\begin{DoxyItemize}
+\item {\bfseries{Rabbit\+MQ}} (task queues, async messaging)
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md17}{}\doxysubsection{\texorpdfstring{Metrics \& Monitoring}{Metrics \& Monitoring}}\label{md__r_e_a_d_m_e_autotoc_md17}
+
+\begin{DoxyItemize}
+\item {\bfseries{Prometheus-\/cpp}}
+\item {\bfseries{Grafana}}
+\item Metrics types:\+
+\begin{DoxyItemize}
+\item {\bfseries{Counters}}:\+ requests, cache hits/\+misses, auth success/\+fail
+\item {\bfseries{Gauges}}:\+ active clients, active requests
+\item {\bfseries{Histograms}}:\+ latency, request size, response size, message size
+\end{DoxyItemize}
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md18}{}\doxysubsection{\texorpdfstring{Logging \& Tracing}{Logging \& Tracing}}\label{md__r_e_a_d_m_e_autotoc_md18}
+
+\begin{DoxyItemize}
+\item {\bfseries{spdlog}} (structured, async logging)
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md19}{}\doxysubsection{\texorpdfstring{Docker Support}{Docker Support}}\label{md__r_e_a_d_m_e_autotoc_md19}
+
+\begin{DoxyItemize}
+\item All backend microservices can be built and run as Docker containers.
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md20}{}\doxysubsection{\texorpdfstring{Benchmarks}{Benchmarks}}\label{md__r_e_a_d_m_e_autotoc_md20}
+
+\begin{DoxyItemize}
+\item The {\ttfamily Persistence} module have been benchmarked to measure performance improvements
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md21}{}\doxysubsection{\texorpdfstring{Testing \& CI/\+\+CD}{Testing \& CI/\+\+CD}}\label{md__r_e_a_d_m_e_autotoc_md21}
+
+\begin{DoxyItemize}
+\item {\bfseries{Unit tests:\+}} Catch2 ~\newline
+
+\item {\bfseries{Code coverage:\+}} lcov + Codecov ~\newline
+
+\item {\bfseries{CI/\+\+CD:\+}} Git\+Hub Actions
+\item Current coverage:\+ \texorpdfstring{$\ast$}{*}\texorpdfstring{$\ast$}{*}\texorpdfstring{$\sim$}{\string~}74\%\texorpdfstring{$\ast$}{*}\texorpdfstring{$\ast$}{*}
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md22}{}\doxysubsection{\texorpdfstring{Security /\+ Auth}{Security /\+ Auth}}\label{md__r_e_a_d_m_e_autotoc_md22}
+
+\begin{DoxyItemize}
+\item JWT authentication with public and private keys
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md23}{}\doxysubsection{\texorpdfstring{Frontend /\+ GUI}{Frontend /\+ GUI}}\label{md__r_e_a_d_m_e_autotoc_md23}
+
+\begin{DoxyItemize}
+\item {\bfseries{Qt6}} (native desktop GUI)
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md24}{}\doxysubsection{\texorpdfstring{Documentation}{Documentation}}\label{md__r_e_a_d_m_e_autotoc_md24}
+
+\begin{DoxyItemize}
+\item {\bfseries{Plant\+UML}}
+\item {\bfseries{Open\+API}}
+\end{DoxyItemize}\hypertarget{md__r_e_a_d_m_e_autotoc_md25}{}\doxysubsection{\texorpdfstring{Links}{Links}}\label{md__r_e_a_d_m_e_autotoc_md25}
+
+\begin{DoxyItemize}
+\item {\bfseries{C++ CI:\+}}  ~\newline
+
+\item {\bfseries{Code Coverage (Codecov):\+}} \href{https://app.codecov.io/github/roma3214185/Messenger}{\texttt{View on Codecov}} ~\newline
+
+\item {\bfseries{Documentation (Open\+API):\+}} \href{https://roma3214185.github.io/Messenger/}{\texttt{View on Git\+Hub Pages}}
+\item {\bfseries{Sonar\+Cloud:\+}} \href{https://sonarcloud.io/summary/overall?id=Roma3214185_Messenger&branch=main}{\texttt{View on Sonar Cloud}} 
+\end{DoxyItemize}

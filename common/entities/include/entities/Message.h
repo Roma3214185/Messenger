@@ -12,138 +12,156 @@
 #include "Fields.h"
 #include "TimestampService.h"
 
+/// @brief Модель повідомлення
 struct Message final {
-  long long id{0};
-  long long chat_id{0};
-  long long sender_id{0};
-  long long timestamp{0};
-  std::string text;
-  std::string local_id;
-  std::optional<long long> answer_on;
-  // todo: bool is_resented or std::optional<long long> resented_from
+    long long id{0};                          ///< ID повідомлення
+    long long chat_id{0};                     ///< ID чату
+    long long sender_id{0};                  ///< ID відправника
+    long long timestamp{0};                  ///< Час створення
+    std::string text;                        ///< Текст повідомлення
+    std::string local_id;                    ///< Локальний ID (для клієнта)
+    std::optional<long long> answer_on;      ///< ID повідомлення-відповіді
 
-  Message() = default;
+    Message() = default;
 
-  Message(long long p_id, long long p_chat_id, long long p_sender_id, long long p_timestamp, std::string p_text,
-          std::string p_local_id, std::optional<long long> p_answer_on = std::nullopt)
-      : id(p_id),
+    Message(long long p_id,
+            long long p_chat_id,
+            long long p_sender_id,
+            long long p_timestamp,
+            std::string p_text,
+            std::string p_local_id,
+            std::optional<long long> p_answer_on = std::nullopt)
+        : id(p_id),
         chat_id(p_chat_id),
         sender_id(p_sender_id),
         timestamp(p_timestamp),
         text(std::move(p_text)),
         local_id(std::move(p_local_id)),
         answer_on(p_answer_on) {
-    DBC_REQUIRE(checkInvariants());
-  }
+        DBC_REQUIRE(checkInvariants());
+    }
 
-  bool checkInvariants() const {
-    return id > 0 && chat_id > 0 && sender_id > 0 && !text.empty() && timestamp != 0 && !local_id.empty() &&
-           (!answer_on.has_value() || answer_on.value() > 0);
-  }
+    /// @brief Перевірка коректності стану об’єкта
+    bool checkInvariants() const {
+        return id > 0 &&
+               chat_id > 0 &&
+               sender_id > 0 &&
+               !text.empty() &&
+               timestamp != 0 &&
+               !local_id.empty() &&
+               (!answer_on.has_value() || answer_on.value() > 0);
+    }
 };
 
 namespace nlohmann {
 
+/// @brief JSON (de)serialization для Message
 template <>
 struct adl_serializer<Message> {
-  static void to_json(nlohmann::json &json_message, const Message &message) {
-    json_message = nlohmann::json{{MessageTable::Id, message.id},
-                                  {MessageTable::ChatId, message.chat_id},
-                                  {MessageTable::SenderId, message.sender_id},
-                                  {MessageTable::Text, message.text},
-                                  {MessageTable::Timestamp, message.timestamp},
-                                  {MessageTable::LocalId, message.local_id}};
+    static void to_json(nlohmann::json &json_message, const Message &message) {
+        json_message = nlohmann::json{
+            {MessageTable::Id, message.id},
+            {MessageTable::ChatId, message.chat_id},
+            {MessageTable::SenderId, message.sender_id},
+            {MessageTable::Text, message.text},
+            {MessageTable::Timestamp, message.timestamp},
+            {MessageTable::LocalId, message.local_id}
+        };
 
-    if (message.answer_on.has_value()) {
-      json_message[MessageTable::AnswerOn] = *message.answer_on;
+        if (message.answer_on.has_value()) {
+            json_message[MessageTable::AnswerOn] = *message.answer_on;
+        }
     }
-  }
 
-  static void from_json(const nlohmann::json &json_message, Message &message) {
-    json_message.at(MessageTable::Id).get_to(message.id);
-    json_message.at(MessageTable::ChatId).get_to(message.chat_id);
-    json_message.at(MessageTable::SenderId).get_to(message.sender_id);
-    json_message.at(MessageTable::Text).get_to(message.text);
-    json_message.at(MessageTable::Timestamp).get_to(message.timestamp);
-    json_message.at(MessageTable::LocalId).get_to(message.local_id);
+    static void from_json(const nlohmann::json &json_message, Message &message) {
+        json_message.at(MessageTable::Id).get_to(message.id);
+        json_message.at(MessageTable::ChatId).get_to(message.chat_id);
+        json_message.at(MessageTable::SenderId).get_to(message.sender_id);
+        json_message.at(MessageTable::Text).get_to(message.text);
+        json_message.at(MessageTable::Timestamp).get_to(message.timestamp);
+        json_message.at(MessageTable::LocalId).get_to(message.local_id);
 
-    if (json_message.contains(MessageTable::AnswerOn)) {
-      message.answer_on = json_message.at(MessageTable::AnswerOn).get<long long>();
-    } else {
-      message.answer_on.reset();
+        if (json_message.contains(MessageTable::AnswerOn)) {
+            message.answer_on = json_message.at(MessageTable::AnswerOn).get<long long>();
+        } else {
+            message.answer_on.reset();
+        }
     }
-  }
 };
 
 }  // namespace nlohmann
 
 namespace utils::entities {
 
+/// @brief Конвертація Crow JSON → Message
 inline std::optional<Message> from_crow_json(const crow::json::rvalue &json_message) {
-  Message message;
+    Message message;
 
-  message.id = json_message.count(MessageTable::Id) ? json_message[MessageTable::Id].i() : 0;
-  if (!json_message.count(MessageTable::ChatId)) return std::nullopt;
-  message.chat_id = json_message[MessageTable::ChatId].i();
+    message.id = json_message.count(MessageTable::Id) ? json_message[MessageTable::Id].i() : 0;
+    if (!json_message.count(MessageTable::ChatId)) return std::nullopt;
+    message.chat_id = json_message[MessageTable::ChatId].i();
 
-  if (!json_message.count(MessageTable::SenderId)) return std::nullopt;
-  message.sender_id = json_message[MessageTable::SenderId].i();
-  if (!json_message.count(MessageTable::Text)) return std::nullopt;
-  message.text = json_message[MessageTable::Text].s();
-  if (!json_message.count(MessageTable::LocalId)) return std::nullopt;
-  message.local_id = json_message[MessageTable::LocalId].s();
+    if (!json_message.count(MessageTable::SenderId)) return std::nullopt;
+    message.sender_id = json_message[MessageTable::SenderId].i();
 
-  LOG_INFO("[Message] For text: {}, Local_id = ", message.text, message.local_id);
+    if (!json_message.count(MessageTable::Text)) return std::nullopt;
+    message.text = json_message[MessageTable::Text].s();
 
-  if (!json_message.count(MessageTable::Timestamp)) return std::nullopt;
+    if (!json_message.count(MessageTable::LocalId)) return std::nullopt;
+    message.local_id = json_message[MessageTable::LocalId].s();
 
-  const auto &ts_val = json_message[MessageTable::Timestamp];
-  if (ts_val.t() == crow::json::type::String) {
-    message.timestamp = TimestampService::parseTimestampISO8601(ts_val.s());
-  } else if (ts_val.t() == crow::json::type::Number) {
-    message.timestamp = static_cast<long long>(ts_val.i());
-  } else {
-    LOG_ERROR("Unexpected timestamp type");
-    return std::nullopt;
-  }
+    LOG_INFO("[Message] For text: {}, Local_id = ", message.text, message.local_id);
 
-  if (json_message.has(MessageTable::AnswerOn)) {
-    const auto &ans = json_message[MessageTable::AnswerOn];
-    if (ans.t() == crow::json::type::Number) {
-      message.answer_on = static_cast<long long>(ans.i());
-    } else if (ans.t() == crow::json::type::Null) {
-      message.answer_on.reset();
+    if (!json_message.count(MessageTable::Timestamp)) return std::nullopt;
+
+    const auto &ts_val = json_message[MessageTable::Timestamp];
+    if (ts_val.t() == crow::json::type::String) {
+        message.timestamp = TimestampService::parseTimestampISO8601(ts_val.s());
+    } else if (ts_val.t() == crow::json::type::Number) {
+        message.timestamp = static_cast<long long>(ts_val.i());
     } else {
-      LOG_ERROR("Unexpected AnswerOn type");
-      message.answer_on.reset();
+        LOG_ERROR("Unexpected timestamp type");
+        return std::nullopt;
     }
-  } else {
-    message.answer_on.reset();
-  }
 
-  LOG_INFO("From crow get message: {}", nlohmann::json(message).dump());
+    if (json_message.has(MessageTable::AnswerOn)) {
+        const auto &ans = json_message[MessageTable::AnswerOn];
+        if (ans.t() == crow::json::type::Number) {
+            message.answer_on = static_cast<long long>(ans.i());
+        } else if (ans.t() == crow::json::type::Null) {
+            message.answer_on.reset();
+        } else {
+            LOG_ERROR("Unexpected AnswerOn type");
+            message.answer_on.reset();
+        }
+    } else {
+        message.answer_on.reset();
+    }
 
-  return message;
+    LOG_INFO("From crow get message: {}", nlohmann::json(message).dump());
+
+    return message;
 }
 
+/// @brief Конвертація Message → Crow JSON
 inline crow::json::wvalue to_crow_json(const Message &message) {
-  LOG_INFO("To crow set message: {}", nlohmann::json(message).dump());
+    LOG_INFO("To crow set message: {}", nlohmann::json(message).dump());
 
-  crow::json::wvalue json_message;
-  json_message[MessageTable::Id] = message.id;
-  json_message[MessageTable::ChatId] = message.chat_id;
-  json_message[MessageTable::SenderId] = message.sender_id;
-  json_message[MessageTable::Text] = message.text;
-  json_message[MessageTable::Timestamp] = message.timestamp;
-  json_message[MessageTable::LocalId] = message.local_id;
+    crow::json::wvalue json_message;
+    json_message[MessageTable::Id] = message.id;
+    json_message[MessageTable::ChatId] = message.chat_id;
+    json_message[MessageTable::SenderId] = message.sender_id;
+    json_message[MessageTable::Text] = message.text;
+    json_message[MessageTable::Timestamp] = message.timestamp;
+    json_message[MessageTable::LocalId] = message.local_id;
 
-  if (message.answer_on.has_value()) {
-    json_message[MessageTable::AnswerOn] = message.answer_on.value();
-  }
+    if (message.answer_on.has_value()) {
+        json_message[MessageTable::AnswerOn] = message.answer_on.value();
+    }
 
-  LOG_INFO("Local_id for text {} is {}", message.text, message.local_id);
+    LOG_INFO("Local_id for text {} is {}", message.text, message.local_id);
 
-  return json_message;
+    return json_message;
 }
 
 }  // namespace utils::entities

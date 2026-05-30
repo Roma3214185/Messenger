@@ -1,0 +1,5 @@
+if(EXISTS "/Users/roma/QtProjects/Chat/common/Persistence/tests/PersistenceTests-b12d07c_tests.cmake")
+  include("/Users/roma/QtProjects/Chat/common/Persistence/tests/PersistenceTests-b12d07c_tests.cmake")
+else()
+  add_test(PersistenceTests_NOT_BUILT-b12d07c PersistenceTests_NOT_BUILT-b12d07c)
+endif()

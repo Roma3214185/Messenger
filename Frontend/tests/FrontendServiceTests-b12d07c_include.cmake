@@ -1,0 +1,5 @@
+if(EXISTS "/Users/roma/QtProjects/Chat/Frontend/tests/FrontendServiceTests-b12d07c_tests.cmake")
+  include("/Users/roma/QtProjects/Chat/Frontend/tests/FrontendServiceTests-b12d07c_tests.cmake")
+else()
+  add_test(FrontendServiceTests_NOT_BUILT-b12d07c FrontendServiceTests_NOT_BUILT-b12d07c)
+endif()

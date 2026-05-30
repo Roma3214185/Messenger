@@ -3,16 +3,18 @@
 
 #include <string>
 
+/// @brief Запит на реєстрацію користувача
 struct RegisterRequest {
-  std::string email;
-  std::string password;
-  std::string name;
-  std::string tag;
+    std::string email;     ///< Email користувача
+    std::string password;  ///< Пароль
+    std::string name;      ///< Ім'я користувача
+    std::string tag;       ///< Унікальний тег (username)
 };
 
+/// @brief Запит на логін користувача
 struct LoginRequest {
-  std::string email;
-  std::string password;
+    std::string email;     ///< Email користувача
+    std::string password;  ///< Пароль
 };
 
 #endif  // BACKEND_AUTHSERVICE_SRC_HEADERS_REGISTERREQUEST_H_

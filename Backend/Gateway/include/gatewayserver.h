@@ -8,23 +8,36 @@
 
 class GatewayController;
 
+/// @brief Типізований Crow застосунок з middleware стеком
 using GatewayApp =
     crow::App<LoggingMiddleware, RateLimitMiddleware, MetricsMiddleware, AuthMiddleware, CacheMiddleware>;
 
+/// @brief HTTP сервер API Gateway
 class GatewayServer {
- public:
-  GatewayServer(GatewayApp &app, GatewayController *controller);
-  void run();
-  void registerRoutes();
+public:
+    GatewayServer(GatewayApp &app, GatewayController *controller);
 
- private:
-  GatewayApp &app_;
-  GatewayController *controller_;
+    /// @brief Запуск сервера
+    void run();
 
-  void registerRequestRoute();
-  void registerRoute(const std::string &basePath, int proxy);
-  void registerHealthCheck();
-  void registerWebSocketRoutes();
+    /// @brief Реєстрація всіх маршрутів
+    void registerRoutes();
+
+private:
+    GatewayApp &app_;
+    GatewayController *controller_;
+
+    /// @brief Реєстрація маршруту обробки запитів
+    void registerRequestRoute();
+
+    /// @brief Реєстрація проксі-маршруту
+    void registerRoute(const std::string &basePath, int proxy);
+
+    /// @brief Реєстрація health-check endpoint
+    void registerHealthCheck();
+
+    /// @brief Реєстрація WebSocket маршрутів
+    void registerWebSocketRoutes();
 };
 
 #endif  // BACKEND_APIGATEWAY_SRC_GATEWAYSERVER_GATEWAYSERVER_H_

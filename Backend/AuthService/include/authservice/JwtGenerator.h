@@ -6,13 +6,18 @@
 #include "JwtUtils.h"
 #include "interfaces/IGenerator.h"
 
+/// @brief Генератор JWT токенів та криптографічних ключів
 class JwtGenerator : public IGenerator {
- public:
-  bool generateKeys() override;
-  std::string generateToken(long long user_id) override;
+public:
+    /// @brief Генерація пари ключів (public/private)
+    bool generateKeys() override;
 
- private:
-  void saveInFile(const std::string &file_name, const std::string &key);
+    /// @brief Створення JWT токена для користувача
+    std::string generateToken(long long user_id) override;
+
+private:
+    /// @brief Збереження ключа у файл
+    void saveInFile(const std::string &file_name, const std::string &key);
 };
 
 #endif  // JWTGENERATOR_H

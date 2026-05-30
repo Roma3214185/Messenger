@@ -7,26 +7,42 @@
 
 class OutsideClickFilter;
 
+/// @brief QListView, що закривається при кліку поза межами віджета
 class ClickOutsideClosableListView final : public QListView {
- public:
-  using EventCallback = std::function<void()>;
+public:
+    using EventCallback = std::function<void()>;
 
-  ClickOutsideClosableListView(QWidget* parent);
+    /// @brief Створення списку з підтримкою закриття по кліку поза межами
+    explicit ClickOutsideClosableListView(QWidget* parent);
 
-  void addAcceptableClickableWidget(QWidget* widget);
-  void setModel(QAbstractItemModel* model) override;
-  void setUpdateCallback(EventCallback update_callback);
-  void setOnCloseCallback(EventCallback close_callback);
+    /// @brief Додати дозволений віджет (клік по ньому не закриває список)
+    void addAcceptableClickableWidget(QWidget* widget);
 
- private:
-  void showEvent(QShowEvent* event) override;
-  void closeEvent(QCloseEvent* event) override;
-  void call_close_callback();
-  inline void update();
+    /// @brief Встановлення моделі даних
+    void setModel(QAbstractItemModel* model) override;
 
-  std::optional<EventCallback> update_callback_;
-  std::optional<EventCallback> close_callback_;
-  OutsideClickFilter* filter_;
+    /// @brief Колбек оновлення
+    void setUpdateCallback(EventCallback update_callback);
+
+    /// @brief Колбек закриття
+    void setOnCloseCallback(EventCallback close_callback);
+
+private:
+    /// @brief Обробка події показу
+    void showEvent(QShowEvent* event) override;
+
+    /// @brief Обробка події закриття
+    void closeEvent(QCloseEvent* event) override;
+
+    /// @brief Виклик callback закриття
+    void call_close_callback();
+
+    /// @brief Оновлення стану (callback)
+    inline void update();
+
+    std::optional<EventCallback> update_callback_;  ///< Колбек оновлення
+    std::optional<EventCallback> close_callback_;   ///< Колбек закриття
+    OutsideClickFilter* filter_;                    ///< Фільтр зовнішніх кліків
 };
 
 #endif  // CLICKOUTSIDECLOSABLELISTVIEW_H

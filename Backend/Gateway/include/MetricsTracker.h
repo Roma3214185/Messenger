@@ -5,20 +5,24 @@
 
 #include "interfaces/IMetrics.h"
 
+/// @brief RAII трекер метрик часу виконання
 struct MetricsTracker {
-  IMetrics* metrics_ = nullptr;
-  std::chrono::steady_clock::time_point start;
-  MetricsTracker() = default;
+    IMetrics* metrics_ = nullptr;  ///< Інтерфейс метрик
+    std::chrono::steady_clock::time_point start; ///< Час старту
 
-  void startTimer(IMetrics* metrics);
+    MetricsTracker() = default;
 
-  MetricsTracker(const MetricsTracker&) = delete;
-  MetricsTracker& operator=(const MetricsTracker&) = delete;
+    /// @brief Запуск таймера та прив’язка метрик
+    void startTimer(IMetrics* metrics);
 
-  MetricsTracker(MetricsTracker&& other) noexcept;
-  MetricsTracker& operator=(MetricsTracker&& other) noexcept;
+    MetricsTracker(const MetricsTracker&) = delete;
+    MetricsTracker& operator=(const MetricsTracker&) = delete;
 
-  ~MetricsTracker();
+    MetricsTracker(MetricsTracker&& other) noexcept;
+    MetricsTracker& operator=(MetricsTracker&& other) noexcept;
+
+    /// @brief Фіксація часу та відправка метрики
+    ~MetricsTracker();
 };
 
 #endif  // METRICSTRACKER_H

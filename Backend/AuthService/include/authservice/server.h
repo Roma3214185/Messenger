@@ -5,23 +5,40 @@
 
 class AuthController;
 
+/// @brief HTTP сервер для Auth Service (Crow framework)
 class Server {
- public:
-  Server(crow::SimpleApp &app, int port, AuthController *controller);
-  void initRoutes();
-  void run();
-  [[nodiscard]] bool generateKeys();
+public:
+    /// @brief Створює сервер
+    Server(crow::SimpleApp &app, int port, AuthController *controller);
 
- private:
-  void handleFindById();
-  void handleFindByTag();
-  void handleRegister();
-  void handleMe();
-  void handleLogin();
+    /// @brief Ініціалізація HTTP маршрутів
+    void initRoutes();
 
-  crow::SimpleApp &app_;
-  int port_;
-  AuthController *controller_;
+    /// @brief Запуск сервера
+    void run();
+
+    /// @brief Генерація криптографічних ключів
+    [[nodiscard]] bool generateKeys();
+
+private:
+    /// @brief Обробник GET /findById
+    void handleFindById();
+
+    /// @brief Обробник GET /findByTag
+    void handleFindByTag();
+
+    /// @brief Обробник POST /register
+    void handleRegister();
+
+    /// @brief Обробник GET /me
+    void handleMe();
+
+    /// @brief Обробник POST /login
+    void handleLogin();
+
+    crow::SimpleApp &app_;
+    int port_;
+    AuthController *controller_;
 };
 
 #endif  // AUTH_SERVICE_SERVER_H
