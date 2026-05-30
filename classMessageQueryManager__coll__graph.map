@@ -1,9 +1,0 @@
-<map id="MessageQueryManager" name="MessageQueryManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="164,93,340,119"/>
-<area shape="rect" id="Node000002" href="$classIMessageQueryService.html" title=" " alt="" coords="5,5,176,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,35,231,91,229,95,123,40"/>
-<area shape="rect" id="Node000003" href="$classISqlExecutor.html" title=" " alt="" coords="201,5,303,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,45,255,93,249,93,249,45"/>
-<area shape="rect" id="Node000004" href="$classICacheService.html" title=" " alt="" coords="328,5,443,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,42,327,72,281,96,278,91,324,67,361,38"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="MessageUseCase" name="MessageUseCase">
-<area shape="rect" id="Node000001" title="Use case для роботи з повідомленнями (логіка рівня застосунку)" alt="" coords="122,93,259,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,35,172,91,169,95,73,40"/>
-<area shape="rect" id="Node000003" href="$classIMessageDataManager.html" title=" " alt="" coords="105,5,277,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,45,193,93,188,93,188,45"/>
-<area shape="rect" id="Node000004" href="$classTokenManager.html" title=" " alt="" coords="301,5,417,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,43,303,72,272,86,242,96,240,91,271,81,300,67,337,39"/>
-</map>

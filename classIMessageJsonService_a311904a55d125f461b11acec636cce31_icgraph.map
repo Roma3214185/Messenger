@@ -1,7 +1,0 @@
-<map id="IMessageJsonService::getMessageFromJson" name="IMessageJsonService::getMessageFromJson">
-<area shape="rect" id="Node000001" title="Парсинг повідомлення та реакцій з JSON." alt="" coords="228,37,397,77"/>
-<area shape="rect" id="Node000002" href="$classDeleteMessageHandler.html#aa098928a89f31b28a67bc7f50143605f" title=" " alt="" coords="5,5,180,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,46,180,41,180,35,215,40"/>
-<area shape="rect" id="Node000003" href="$classNewMessageHandler.html#adf13028bc0c1645b1616eb097c71a41a" title=" " alt="" coords="9,69,177,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,74,177,80,176,75,214,69"/>
-</map>

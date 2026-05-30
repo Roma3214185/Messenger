@@ -1,9 +1,0 @@
-<map id="MockSocket" name="MockSocket">
-<area shape="rect" id="Node000001" title=" " alt="" coords="58,168,158,193"/>
-<area shape="rect" id="Node000002" href="$classISocket.html" title=" " alt="" coords="8,80,77,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,115,101,166,97,169,58,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,80,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,45,45,80,40,80,40,45"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="101,80,160,105"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,119,114,168,109,167,122,118"/>
-</map>

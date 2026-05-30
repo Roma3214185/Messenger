@@ -1,7 +1,0 @@
-<map id="SessionUseCase::SessionUseCase" name="SessionUseCase::SessionUseCase">
-<area shape="rect" id="Node000001" title="Ініціалізація SessionUseCase." alt="" coords="5,31,249,56"/>
-<area shape="rect" id="Node000002" href="$classSessionUseCase.html#aeabcf995647136e3845cfee13d559f9e" title="Сигнал створення користувача та видачі токена" alt="" coords="297,5,513,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,30,284,26,284,32,250,35"/>
-<area shape="rect" id="Node000003" href="$classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e" title=" " alt="" coords="297,55,513,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,51,284,54,284,60,249,57"/>
-</map>

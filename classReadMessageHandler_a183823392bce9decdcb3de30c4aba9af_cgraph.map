@@ -1,7 +1,0 @@
-<map id="ReadMessageHandler::handle" name="ReadMessageHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,169,77"/>
-<area shape="rect" id="Node000002" href="$classIMessageStatusJsonService.html#a0809e983d1ad4f734ae012481e2df026" title="Отримання MessageStatus з JSON." alt="" coords="224,5,424,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,44,210,38,211,43,170,49"/>
-<area shape="rect" id="Node000003" href="$classIMessageStatusDataManager.html#a92c1f1b49126a3825cf4d7e1d591025d" title=" " alt="" coords="217,69,431,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,66,204,70,203,76,169,71"/>
-</map>

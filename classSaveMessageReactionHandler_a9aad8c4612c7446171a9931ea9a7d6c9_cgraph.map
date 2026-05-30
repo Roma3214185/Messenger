@@ -1,9 +1,0 @@
-<map id="SaveMessageReactionHandler::handle" name="SaveMessageReactionHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,225,63"/>
-<area shape="rect" id="Node000002" href="$namespaceutils_1_1entities.html#aec17087cf752e97e7976847b95707e78" title="Парсинг Reaction з Crow JSON." alt="" coords="273,5,481,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,30,260,27,260,32,226,35"/>
-<area shape="rect" id="Node000004" href="$classIPublisher.html#ac2be8f58b2de43d99768de7bb63953b5" title=" " alt="" coords="286,55,469,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,51,273,55,272,60,225,56"/>
-<area shape="rect" id="Node000003" href="$structReaction.html#afe5f41f06f70e7dc1c0805dedc8d77b5" title="Перевірка коректності об’єкта" alt="" coords="529,5,720,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,15,515,15,515,21,481,21"/>
-</map>

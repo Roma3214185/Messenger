@@ -1,7 +1,0 @@
-<map id="ChatServer::handleCreatingPrivateChat" name="ChatServer::handleCreatingPrivateChat">
-<area shape="rect" id="Node000001" title="Обробка створення приватного чату" alt="" coords="444,5,645,45"/>
-<area shape="rect" id="Node000002" href="$classChatServer.html#a7ec69ee93477cb1bd31136ed98564665" title="Ініціалізація HTTP маршрутів" alt="" coords="228,13,396,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,28,396,28,396,23,430,23"/>
-<area shape="rect" id="Node000003" href="$classChatServer.html#a0581ce9832b7dd4e8741fba56bdf9fcc" title=" " alt="" coords="5,13,180,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,28,180,28,180,23,214,23"/>
-</map>

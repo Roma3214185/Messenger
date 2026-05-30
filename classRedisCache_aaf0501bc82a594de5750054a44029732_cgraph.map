@@ -1,5 +1,0 @@
-<map id="RedisCache::remove" name="RedisCache::remove">
-<area shape="rect" id="Node000001" title="Видалення ключа" alt="" coords="5,5,161,31"/>
-<area shape="rect" id="Node000002" href="$classRedisCache.html#afca0f224b22350aa5596a55b2ec642fa" title="Отримання Redis&#45;інстансу" alt="" coords="209,5,372,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,15,196,15,196,21,161,21"/>
-</map>

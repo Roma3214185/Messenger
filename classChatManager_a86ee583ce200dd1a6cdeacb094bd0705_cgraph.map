@@ -1,7 +1,0 @@
-<map id="ChatManager::onChatLoaded" name="ChatManager::onChatLoaded">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,216,60"/>
-<area shape="rect" id="Node000002" href="$classBaseManager.html#afa7ea773e4bb2f500914aa9785eacd2e" title=" " alt="" coords="264,5,472,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,33,250,29,251,34,217,38"/>
-<area shape="rect" id="Node000003" href="$classIChatJsonService.html#ac1c827ffdeafcff7aaf26c30eee4007d" title="Парсинг Chat з JSON." alt="" coords="273,55,463,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,56,259,61,259,66,216,61"/>
-</map>

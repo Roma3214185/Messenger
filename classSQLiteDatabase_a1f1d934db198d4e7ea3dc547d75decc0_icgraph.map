@@ -1,9 +1,0 @@
-<map id="SQLiteDatabase::executeSql" name="SQLiteDatabase::executeSql">
-<area shape="rect" id="Node000001" title="Виконання SQL у конкретному підключенні" alt="" coords="365,35,571,60"/>
-<area shape="rect" id="Node000002" href="$classSQLiteDatabase.html#ac06329bc6ad2888a033792ca00d30613" title="Видалення таблиці" alt="" coords="108,5,317,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,37,317,33,318,27,352,31"/>
-<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html#a9dfe3128b7cc5922c0654f83c2faa983" title="Ініціалізація схеми БД" alt="" coords="117,55,308,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,63,308,68,308,62,351,57"/>
-<area shape="rect" id="Node000004" href="$Backend_2AuthService_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,63,60,88"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,78,60,78,60,73,103,73"/>
-</map>

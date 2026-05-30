@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classIPublisher.html" title=" " alt="" coords="5,31,92,56"/>
-<area shape="rect" id="Node000001" href="$classMockPublisher.html" title=" " alt="" coords="181,5,298,31"/>
-<area shape="poly" id="edge109_Node000000_Node000001" title=" " alt="" coords="105,33,180,23,181,28,106,38"/>
-<area shape="rect" id="Node000002" href="$classRabbitNotificationPublisher.html" title=" " alt="" coords="140,55,339,80"/>
-<area shape="poly" id="edge110_Node000000_Node000002" title=" " alt="" coords="106,48,140,52,140,57,105,53"/>
-</map>

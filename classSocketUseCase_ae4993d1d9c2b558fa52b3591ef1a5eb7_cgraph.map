@@ -1,5 +1,0 @@
-<map id="SocketUseCase::sendReadMessageEvent" name="SocketUseCase::sendReadMessageEvent">
-<area shape="rect" id="Node000001" title="Подія прочитання повідомлення" alt="" coords="5,5,257,45"/>
-<area shape="rect" id="Node000002" href="$classSocketUseCase.html#a47f62bbb2bfddaac2c9cc2341f1ea4c5" title="Надсилання сирого тексту в сокет" alt="" coords="305,13,521,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,23,291,23,291,28,258,28"/>
-</map>

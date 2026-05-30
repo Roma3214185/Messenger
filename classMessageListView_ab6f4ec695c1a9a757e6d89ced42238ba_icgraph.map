@@ -1,7 +1,0 @@
-<map id="MessageListView::getMaximumMessageScrollBar" name="MessageListView::getMaximumMessageScrollBar">
-<area shape="rect" id="Node000001" title="Максимальне значення скролбара" alt="" coords="280,37,509,77"/>
-<area shape="rect" id="Node000002" href="$classPresenter.html#a4db71c60a11d070734a6f310464eb8ab" title=" " alt="" coords="5,5,232,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,45,232,41,233,36,267,40"/>
-<area shape="rect" id="Node000003" href="$classMessageListView.html#a6b93252982e63de9a9aa48ee59866aa1" title="Прокрутка до останнього повідомлення" alt="" coords="19,69,219,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,75,219,80,219,75,266,70"/>
-</map>

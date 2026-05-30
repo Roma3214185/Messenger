@@ -1,7 +1,0 @@
-<map id="MockTokenGenerator" name="MockTokenGenerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="21,93,179,119"/>
-<area shape="rect" id="Node000002" href="$classIGenerator.html" title=" " alt="" coords="5,5,96,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,41,95,91,91,94,62,44"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="120,5,179,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,44,109,94,105,91,134,41"/>
-</map>

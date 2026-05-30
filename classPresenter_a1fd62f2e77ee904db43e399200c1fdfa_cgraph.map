@@ -1,7 +1,0 @@
-<map id="Presenter::getReactionInfo" name="Presenter::getReactionInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,200,56"/>
-<area shape="rect" id="Node000002" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="281,5,437,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,267,24,268,30,200,36"/>
-<area shape="rect" id="Node000003" href="$classDataManager.html#adf9da0792516bfb5b57efd2693d9db98" title=" " alt="" coords="248,55,469,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,50,235,53,234,58,200,55"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ClickOutsideClosableListView::addAcceptableClickableWidget" name="ClickOutsideClosableListView::addAcceptableClickableWidget">
-<area shape="rect" id="Node000001" title="Додати дозволений віджет (клік по ньому не закриває список)" alt="" coords="5,5,221,60"/>
-<area shape="rect" id="Node000002" href="$classOutsideClickFilter.html#aa222cddf8e3abb110e87a28b749c2070" title="Додавання дозволеного віджета (клік по ньому не закриває popup)" alt="" coords="269,13,500,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,30,256,30,256,35,222,35"/>
-</map>

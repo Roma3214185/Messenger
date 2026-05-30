@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,92,56"/>
-<area shape="rect" id="Node000001" href="$classClickOutsideClosableListView.html" title="QListView, що закривається при кліку поза межами віджета" alt="" coords="140,5,355,31"/>
-<area shape="poly" id="edge130_Node000000_Node000001" title=" " alt="" coords="105,34,147,28,148,33,106,39"/>
-<area shape="rect" id="Node000002" href="$classMessageListView.html" title="Список повідомлень з додатковим керуванням скролом та навігацією" alt="" coords="180,55,315,80"/>
-<area shape="poly" id="edge131_Node000000_Node000002" title=" " alt="" coords="106,48,180,57,179,62,106,53"/>
-</map>

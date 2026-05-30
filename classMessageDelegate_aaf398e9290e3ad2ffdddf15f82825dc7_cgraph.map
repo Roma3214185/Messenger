@@ -1,9 +1,0 @@
-<map id="MessageDelegate::drawReactions" name="MessageDelegate::drawReactions">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,248,88"/>
-<area shape="rect" id="Node000002" href="$classMessageDelegate.html#a1f46e61201f6b83997c1d9d34654d2ee" title=" " alt="" coords="323,5,535,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,60,348,31,349,36,195,65"/>
-<area shape="rect" id="Node000003" href="$classIReactionDataManager.html#ae746f2dfcbd3b4e5c875ae5a1ea14089" title=" " alt="" coords="344,55,515,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,73,330,73,330,78,248,78"/>
-<area shape="rect" id="Node000004" href="$classMessageDelegate.html#a2063646afccb909781d7a81b54d67344" title=" " alt="" coords="296,120,563,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,85,349,115,348,120,194,91"/>
-</map>

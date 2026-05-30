@@ -1,5 +1,0 @@
-<map id="RedisCache::set" name="RedisCache::set">
-<area shape="rect" id="Node000001" title="Встановлення значення з TTL." alt="" coords="5,5,132,31"/>
-<area shape="rect" id="Node000002" href="$classRedisCache.html#afca0f224b22350aa5596a55b2ec642fa" title="Отримання Redis&#45;інстансу" alt="" coords="180,5,343,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
-</map>

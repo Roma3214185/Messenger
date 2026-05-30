@@ -1,7 +1,0 @@
-<map id="Presenter::getListOfMessagesBySearch" name="Presenter::getListOfMessagesBySearch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,221,63"/>
-<area shape="rect" id="Node000002" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="310,5,466,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,31,296,24,296,29,222,36"/>
-<area shape="rect" id="Node000003" href="$classDataManager.html#a4e5b36a59c50c6a5d6b75249096a0fce" title=" " alt="" coords="269,55,507,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,50,256,53,255,58,221,55"/>
-</map>

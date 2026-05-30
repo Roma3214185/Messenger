@@ -1,7 +1,0 @@
-<map id="anonymous_namespace{chatusecase::cpp}::waitForFuture" name="anonymous_namespace{chatusecase::cpp}::waitForFuture">
-<area shape="rect" id="Node000001" title=" " alt="" coords="288,16,468,71"/>
-<area shape="rect" id="Node000002" href="$classChatUseCase.html#adda9fd52a3581dd47de34828209d9e6a" title="Створення приватного чату з користувачем" alt="" coords="5,5,240,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,36,240,32,240,27,275,30"/>
-<area shape="rect" id="Node000003" href="$classChatUseCase.html#a9e754811fe259de50901155ca1c59e2e" title="Завантаження всіх чатів" alt="" coords="31,55,214,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,56,214,61,214,56,274,50"/>
-</map>

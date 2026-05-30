@@ -1,9 +1,0 @@
-<map id="TEST_CASE" name="TEST_CASE">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,100,60"/>
-<area shape="rect" id="Node000002" href="$classSocketNotifier.html#aeb5f37b30c6f7831e02fb51992d3b471" title=" " alt="" coords="148,35,360,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,134,45,134,50,100,50"/>
-<area shape="rect" id="Node000003" href="$namespaceutils.html#a8d171b69b5c8c1029b99fddd33730816" title=" " alt="" coords="415,5,570,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,32,401,27,402,32,358,37"/>
-<area shape="rect" id="Node000004" href="$classIUserSocketRepository.html#a0529030a9de9f338f2882a28b14fe499" title="Отримання сокета користувача" alt="" coords="408,55,577,95"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,57,394,61,394,66,360,62"/>
-</map>

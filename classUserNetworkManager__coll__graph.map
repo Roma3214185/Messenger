@@ -1,9 +1,0 @@
-<map id="UserNetworkManager" name="UserNetworkManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="29,181,193,207"/>
-<area shape="rect" id="Node000002" href="$classIUserNetworkManager.html" title=" " alt="" coords="5,93,173,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,131,110,180,105,181,93,133"/>
-<area shape="rect" id="Node000003" href="$classProxyClient.html" title="Проксі&#45;клієнт для маршрутизації запитів між сервісами" alt="" coords="198,93,295,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,128,131,183,128,179,216,124"/>
-<area shape="rect" id="Node000004" href="$classIClient.html" title=" " alt="" coords="215,5,279,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,45,249,93,244,93,244,45"/>
-</map>

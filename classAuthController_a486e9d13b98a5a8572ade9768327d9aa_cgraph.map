@@ -1,7 +1,0 @@
-<map id="AuthController::loginUser" name="AuthController::loginUser">
-<area shape="rect" id="Node000001" title="Логін користувача" alt="" coords="5,31,192,56"/>
-<area shape="rect" id="Node000002" href="$classIGenerator.html#a39d89f8d72106c095464ac4412ceaf76" title=" " alt="" coords="240,5,435,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,226,27,227,32,193,36"/>
-<area shape="rect" id="Node000003" href="$classIAuthManager.html#a92420b94316830c4d4d81ba8795653a2" title=" " alt="" coords="246,55,429,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,50,233,54,232,59,192,55"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="SendMessageHandler::handle" name="SendMessageHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,168,75"/>
-<area shape="rect" id="Node000002" href="$namespaceutils_1_1entities.html#a494c5952a3b4378ec818821bba201b15" title="Конвертація Crow JSON → Message." alt="" coords="234,5,381,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,41,220,34,221,40,169,46"/>
-<area shape="rect" id="Node000004" href="$classIPublisher.html#ab2bab6b1f64771539a5516e0a43746b0" title=" " alt="" coords="216,70,399,95"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,62,203,67,202,72,168,68"/>
-<area shape="rect" id="Node000003" href="$namespaceTimestampService.html#a3ace97a4a50b0d1433ecaa19d240bc4c" title=" " alt="" coords="447,5,709,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,23,433,23,433,28,381,28"/>
-</map>

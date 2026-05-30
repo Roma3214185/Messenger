@@ -1,9 +1,0 @@
-<map id="OutboxWorker" name="OutboxWorker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="129,93,243,119"/>
-<area shape="rect" id="Node000002" href="$classIOutboxWorker.html" title=" " alt="" coords="5,5,124,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,37,171,91,168,95,91,41"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,225,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,45,189,93,183,93,183,45"/>
-<area shape="rect" id="Node000004" href="$classIDataBase.html" title=" " alt="" coords="249,5,339,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,41,202,95,199,91,267,37"/>
-</map>

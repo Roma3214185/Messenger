@@ -1,8 +1,0 @@
-<map id="MessageQueryManager::getReactions" name="MessageQueryManager::getReactions">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,75"/>
-<area shape="rect" id="Node000002" href="$classMessageQueryManager.html#a82f647942660a40089f9e52784e04569" title=" " alt="" coords="229,5,405,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,41,215,36,216,41,182,46"/>
-<area shape="rect" id="Node000003" href="$classQueryFactory.html#a187e0b9a6e90d01383863d6629525519" title=" " alt="" coords="453,42,671,67"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="182,54,229,55,405,55,440,54,440,60,405,60,229,60,182,59"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,33,443,38,442,43,405,38"/>
-</map>

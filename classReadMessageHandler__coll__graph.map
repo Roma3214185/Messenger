@@ -1,9 +1,0 @@
-<map id="ReadMessageHandler" name="ReadMessageHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="231,93,395,119"/>
-<area shape="rect" id="Node000002" href="$classISocketResponceHandler.html" title=" " alt="" coords="5,5,188,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,33,285,91,283,96,137,38"/>
-<area shape="rect" id="Node000003" href="$classIMessageStatusJsonService.html" title="JSON&#45;сервіс статусу повідомлення" alt="" coords="213,5,413,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,45,315,93,310,93,310,45"/>
-<area shape="rect" id="Node000004" href="$classIMessageStatusDataManager.html" title=" " alt="" coords="437,5,650,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,38,412,72,346,96,344,91,410,67,500,33"/>
-</map>

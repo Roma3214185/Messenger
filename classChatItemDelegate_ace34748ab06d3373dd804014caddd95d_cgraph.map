@@ -1,7 +1,0 @@
-<map id="ChatItemDelegate::drawLastMessage" name="ChatItemDelegate::drawLastMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,213,75"/>
-<area shape="rect" id="Node000002" href="$classIReactionDataManager.html#ae746f2dfcbd3b4e5c875ae5a1ea14089" title=" " alt="" coords="261,5,432,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,39,247,35,248,40,214,44"/>
-<area shape="rect" id="Node000003" href="$namespaceutils_1_1ui.html#a7b1c5181f683b1484506f29154274e6e" title=" " alt="" coords="267,70,426,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,64,254,69,253,74,213,70"/>
-</map>

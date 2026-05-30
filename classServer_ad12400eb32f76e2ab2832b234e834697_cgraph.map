@@ -1,5 +1,0 @@
-<map id="Server::handleSocketOnMessage" name="Server::handleSocketOnMessage">
-<area shape="rect" id="Node000001" title="Обробка повідомлення від WebSocket." alt="" coords="5,13,240,38"/>
-<area shape="rect" id="Node000002" href="$classSocketHandlersRepository.html#a8ebe5cc79a828765916754da091c6487" title=" " alt="" coords="288,5,481,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classIActiveSocketRepository.html" title="Репозиторій активних WebSocket&#45;з’єднань" alt="" coords="5,5,185,31"/>
-<area shape="rect" id="Node000001" href="$classSocketRepository.html" title="Реалізація зберігання WebSocket&#45;з’єднань" alt="" coords="266,5,401,31"/>
-<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="199,15,266,15,266,21,199,21"/>
-<area shape="rect" id="Node000002" href="$classIUserSocketRepository.html" title="Репозиторій сокетів користувачів" alt="" coords="11,55,180,80"/>
-<area shape="poly" id="edge7_Node000002_Node000001" title=" " alt="" coords="170,49,271,28,272,33,171,54"/>
-<area shape="rect" id="Node000003" href="$classMockUserSocketRepository.html" title=" " alt="" coords="233,55,433,80"/>
-<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="194,65,233,65,233,70,194,70"/>
-</map>

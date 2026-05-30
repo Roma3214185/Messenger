@@ -1,9 +1,0 @@
-<map id="DeleteMessageHandler" name="DeleteMessageHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="204,93,379,119"/>
-<area shape="rect" id="Node000002" href="$classISocketResponceHandler.html" title=" " alt="" coords="5,5,188,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,34,266,91,264,96,135,39"/>
-<area shape="rect" id="Node000003" href="$classIMessageJsonService.html" title="JSON&#45;сервіс повідомлень" alt="" coords="212,5,371,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,45,294,93,289,93,289,45"/>
-<area shape="rect" id="Node000004" href="$classIMessageDataManager.html" title=" " alt="" coords="395,5,567,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,41,400,72,335,96,333,91,398,67,452,36"/>
-</map>

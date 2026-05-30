@@ -1,7 +1,0 @@
-<map id="Backend/NotificationService/tests/mocks/notificationservice/MockNotifier.h" name="Backend/NotificationService/tests/mocks/notificationservice/MockNotifier.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,360,60"/>
-<area shape="rect" id="Node000002" href="$MockNotifier_8cpp.html" title=" " alt="" coords="5,108,235,163"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,71,154,110,151,106,200,67"/>
-<area shape="rect" id="Node000003" href="$test__rabbitsubscriber_8cpp.html" title=" " alt="" coords="259,115,485,155"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,67,350,113,346,117,288,71"/>
-</map>

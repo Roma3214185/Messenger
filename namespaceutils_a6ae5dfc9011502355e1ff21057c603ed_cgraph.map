@@ -1,7 +1,0 @@
-<map id="utils::getDTO" name="utils::getDTO">
-<area shape="rect" id="Node000001" title="Конвертація Crow request → RequestDTO." alt="" coords="5,31,112,56"/>
-<area shape="rect" id="Node000002" href="$namespaceutils_1_1details.html#a32cd79fcc9dce587c9893e85f6a93215" title="Витяг токена авторизації" alt="" coords="169,5,363,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,34,156,29,156,34,113,40"/>
-<area shape="rect" id="Node000003" href="$namespaceutils_1_1details.html#a3bfdceddbd058f1fbe3f230fdee0ec09" title="Отримання Content&#45;Type." alt="" coords="160,55,372,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,47,147,51,146,56,112,52"/>
-</map>

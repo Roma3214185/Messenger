@@ -1,5 +1,0 @@
-<map id="ChatManager::getChatById" name="ChatManager::getChatById">
-<area shape="rect" id="Node000001" title="Отримання чату за ID." alt="" coords="148,5,345,31"/>
-<area shape="rect" id="Node000002" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html#ab896528a733917f4cc750b8faef95bc8" title=" " alt="" coords="5,5,100,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
-</map>

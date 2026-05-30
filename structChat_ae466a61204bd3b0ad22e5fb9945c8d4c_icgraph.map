@@ -1,5 +1,0 @@
-<map id="Chat::checkInvariants" name="Chat::checkInvariants">
-<area shape="rect" id="Node000001" title="Перевірка коректності стану об’єкта" alt="" coords="144,5,307,31"/>
-<area shape="rect" id="Node000002" href="$structChat.html#a1d375c6ba3e0611bca8ca3fc93d8ecd3" title=" " alt="" coords="5,5,96,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,21,96,21,96,15,130,15"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="TEST_CASE" name="TEST_CASE">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,100,70"/>
-<area shape="rect" id="Node000002" href="$classMockRabitMQClient.html#ada740763461f0b5a91407951fb2f6655" title=" " alt="" coords="192,5,351,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,178,36,179,42,101,53"/>
-<area shape="rect" id="Node000003" href="$classRabitMQSubscriberTester.html#a7066cef0b11d6502a70e8001a40c5845" title=" " alt="" coords="148,69,395,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,62,135,67,134,72,100,67"/>
-</map>

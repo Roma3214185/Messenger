@@ -1,5 +1,0 @@
-<map id="RabbitMQClient::publish" name="RabbitMQClient::publish">
-<area shape="rect" id="Node000001" title="Публікація повідомлення" alt="" coords="5,5,184,31"/>
-<area shape="rect" id="Node000002" href="$classRabbitMQClient.html#a5a7b4b64bdd41a0f0766c49c3e058b68" title="Оголошення exchange." alt="" coords="232,5,475,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,15,218,15,218,21,184,21"/>
-</map>

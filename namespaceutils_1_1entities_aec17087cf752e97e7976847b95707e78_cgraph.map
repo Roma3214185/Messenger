@@ -1,5 +1,0 @@
-<map id="utils::entities::parseReaction" name="utils::entities::parseReaction">
-<area shape="rect" id="Node000001" title="Парсинг Reaction з Crow JSON." alt="" coords="5,5,213,31"/>
-<area shape="rect" id="Node000002" href="$structReaction.html#afe5f41f06f70e7dc1c0805dedc8d77b5" title="Перевірка коректності об’єкта" alt="" coords="261,5,452,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,15,247,15,247,21,213,21"/>
-</map>

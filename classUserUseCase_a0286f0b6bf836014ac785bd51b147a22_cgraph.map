@@ -1,9 +1,0 @@
-<map id="UserUseCase::getUserAsync" name="UserUseCase::getUserAsync">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,212,80"/>
-<area shape="rect" id="Node000002" href="$classTokenManager.html#ad8f8f74ed12d0bc7e6f2838e61a8998d" title=" " alt="" coords="270,5,453,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,52,281,31,282,36,175,57"/>
-<area shape="rect" id="Node000003" href="$classIUserDataManager.html#a95c4e96494432cd8a69fcd2f74434f15" title=" " alt="" coords="260,55,463,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,65,246,65,246,70,212,70"/>
-<area shape="rect" id="Node000004" href="$classIUserDataManager.html#aa7580cea062d7489a4d1c53a4e2985d2" title=" " alt="" coords="270,104,453,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,77,282,99,281,104,174,83"/>
-</map>

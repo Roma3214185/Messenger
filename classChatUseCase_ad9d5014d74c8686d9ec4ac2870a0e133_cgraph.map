@@ -1,5 +1,0 @@
-<map id="ChatUseCase::clearAllChats" name="ChatUseCase::clearAllChats">
-<area shape="rect" id="Node000001" title="Очищення всіх чатів" alt="" coords="5,13,208,38"/>
-<area shape="rect" id="Node000002" href="$classIChatDataManager.html#af5696cf8ae79aa7f983ee47bbdb3c248" title=" " alt="" coords="256,5,457,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,23,242,23,242,28,208,28"/>
-</map>

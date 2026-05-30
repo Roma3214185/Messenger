@@ -1,7 +1,0 @@
-<map id="ChatController::getAllChatMembers" name="ChatController::getAllChatMembers">
-<area shape="rect" id="Node000001" title="Отримання учасників чату" alt="" coords="5,27,197,67"/>
-<area shape="rect" id="Node000002" href="$namespaceutils_1_1details.html#a75ceb9c7d6a281d7c2a982a06816f8d4" title="Формування JSON помилки" alt="" coords="261,5,433,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,33,247,27,247,33,198,39"/>
-<area shape="rect" id="Node000003" href="$classIChatManager.html#adf2f87f68c219e9ecea9b1ef5dffe0f1" title=" " alt="" coords="245,55,448,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,56,232,60,232,65,197,61"/>
-</map>

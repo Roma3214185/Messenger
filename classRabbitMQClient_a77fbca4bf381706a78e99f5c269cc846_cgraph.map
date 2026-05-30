@@ -1,9 +1,0 @@
-<map id="RabbitMQClient::subscribe" name="RabbitMQClient::subscribe">
-<area shape="rect" id="Node000001" title="Підписка на події" alt="" coords="5,31,200,56"/>
-<area shape="rect" id="Node000002" href="$classRabbitMQClient.html#a5a7b4b64bdd41a0f0766c49c3e058b68" title="Оголошення exchange." alt="" coords="248,5,491,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,234,28,234,33,200,37"/>
-<area shape="rect" id="Node000003" href="$structIThreadPool.html#a4679454ba44b78c5818460887cbef781" title=" " alt="" coords="288,55,451,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,49,274,56,274,61,200,55"/>
-<area shape="rect" id="Node000004" href="$structIThreadPool.html#a0428fdae1997410f3576a0ba46e91963" title=" " alt="" coords="539,55,731,80"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,65,525,65,525,70,451,70"/>
-</map>

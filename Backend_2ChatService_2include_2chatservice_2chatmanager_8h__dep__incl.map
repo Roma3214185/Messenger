@@ -1,9 +1,0 @@
-<map id="Backend/ChatService/include/chatservice/chatmanager.h" name="Backend/ChatService/include/chatservice/chatmanager.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="189,5,348,60"/>
-<area shape="rect" id="Node000002" href="$Backend_2ChatService_2main_8cpp.html" title=" " alt="" coords="5,108,164,148"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,68,123,110,121,105,204,64"/>
-<area shape="rect" id="Node000003" href="$Backend_2ChatService_2src_2chatmanager_8cpp.html" title=" " alt="" coords="188,108,349,148"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,74,271,108,266,108,266,74"/>
-<area shape="rect" id="Node000004" href="$Backend_2ChatService_2tests_2test__chatmanager_8cpp.html" title=" " alt="" coords="373,108,580,148"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,63,436,105,433,110,338,68"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="IUserNetworkManager" name="IUserNetworkManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,291,31"/>
-<area shape="rect" id="Node000002" href="$classMockUserNetworkManager.html" title=" " alt="" coords="5,79,204,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,41,123,81,120,76,178,36"/>
-<area shape="rect" id="Node000003" href="$classUserNetworkManager.html" title=" " alt="" coords="228,79,392,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,36,295,76,292,81,234,41"/>
-</map>

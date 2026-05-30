@@ -1,9 +1,0 @@
-<map id="IDataBase" name="IDataBase">
-<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,183,31"/>
-<area shape="rect" id="Node000002" href="$classMockDatabase.html" title=" " alt="" coords="5,79,124,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,42,78,80,75,77,114,38"/>
-<area shape="rect" id="Node000003" href="$classSQLiteDatabase.html" title="Реалізація бази даних SQLite через Qt SQL API." alt="" coords="148,79,275,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,38,201,77,198,80,158,42"/>
-<area shape="rect" id="Node000004" href="$structTestSqliteDatabase.html" title=" " alt="" coords="138,152,285,177"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,118,214,152,209,152,209,118"/>
-</map>

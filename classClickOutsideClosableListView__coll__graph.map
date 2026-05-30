@@ -1,9 +1,0 @@
-<map id="ClickOutsideClosableListView" name="ClickOutsideClosableListView">
-<area shape="rect" id="Node000001" title="QListView, що закривається при кліку поза межами віджета" alt="" coords="5,168,220,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="25,80,112,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,117,109,166,104,169,79,119"/>
-<area shape="rect" id="Node000003" href="$classOutsideClickFilter.html" title="Фільтр подій для визначення кліків поза межами popup&#45;віджета" alt="" coords="136,80,273,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,117,127,169,124,166,180,113"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="167,5,242,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,45,207,80,202,80,202,45"/>
-</map>

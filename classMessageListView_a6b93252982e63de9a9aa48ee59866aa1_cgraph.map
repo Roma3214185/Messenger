@@ -1,7 +1,0 @@
-<map id="MessageListView::scrollListToBottom" name="MessageListView::scrollListToBottom">
-<area shape="rect" id="Node000001" title="Прокрутка до останнього повідомлення" alt="" coords="5,37,205,77"/>
-<area shape="rect" id="Node000002" href="$classMessageListView.html#ab6f4ec695c1a9a757e6d89ced42238ba" title="Максимальне значення скролбара" alt="" coords="253,5,483,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,42,239,38,240,44,206,48"/>
-<area shape="rect" id="Node000003" href="$classMessageListView.html#a6edecb0509b929305f9b4406f03b7fbc" title="Встановлення значення скролбара" alt="" coords="258,69,478,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,67,245,72,244,77,205,72"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AuthController::registerUser" name="AuthController::registerUser">
-<area shape="rect" id="Node000001" title="Реєстрація нового користувача" alt="" coords="5,31,209,56"/>
-<area shape="rect" id="Node000002" href="$classIGenerator.html#a39d89f8d72106c095464ac4412ceaf76" title=" " alt="" coords="261,5,455,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,30,247,27,247,32,210,36"/>
-<area shape="rect" id="Node000003" href="$classIAuthManager.html#aad2737f49277213a7422b3ed54a08a8f" title=" " alt="" coords="257,55,459,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,50,244,54,244,59,209,56"/>
-</map>

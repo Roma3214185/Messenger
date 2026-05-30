@@ -1,9 +1,0 @@
-<map id="Controller::getMessageById" name="Controller::getMessageById">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,208,80"/>
-<area shape="rect" id="Node000002" href="$namespaceutils_1_1details.html#a75ceb9c7d6a281d7c2a982a06816f8d4" title="Формування JSON помилки" alt="" coords="256,5,428,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,52,267,31,268,36,168,57"/>
-<area shape="rect" id="Node000003" href="$namespaceutils.html#a7151612183874831ab4f971ffb028552" title=" " alt="" coords="271,55,413,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,65,257,65,257,70,208,70"/>
-<area shape="rect" id="Node000004" href="$classIMessageQueryService.html#abb2895cbe5b096e4a4855e5eaa2f3017" title=" " alt="" coords="257,105,427,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,77,247,99,246,104,159,83"/>
-</map>

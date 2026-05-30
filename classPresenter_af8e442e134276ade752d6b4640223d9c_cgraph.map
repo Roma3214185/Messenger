@@ -1,7 +1,0 @@
-<map id="Presenter::getReactionsForMenu" name="Presenter::getReactionsForMenu">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,239,56"/>
-<area shape="rect" id="Node000002" href="$classModel.html#a22fc726769d8faa50139b4ef8b34e452" title=" " alt="" coords="332,5,488,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,30,318,23,319,29,239,36"/>
-<area shape="rect" id="Node000003" href="$classDataManager.html#ae99172aa8edeeaf27ee1bcba4d708524" title=" " alt="" coords="287,55,533,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,50,273,53,273,59,239,56"/>
-</map>

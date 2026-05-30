@@ -1,9 +1,0 @@
-<map id="IPublisher::deleteMessageStatus" name="IPublisher::deleteMessageStatus">
-<area shape="rect" id="Node000001" title=" " alt="" coords="741,5,935,45"/>
-<area shape="rect" id="Node000002" href="$classNotificationOrchestrator.html#a0ffd557112c3dd6e3dfca8ccd8fe96ea" title=" " alt="" coords="515,5,693,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,28,693,28,693,23,728,23"/>
-<area shape="rect" id="Node000003" href="$classRabbitNotificationSubscriber.html#ac11c8dfb337fd4ef7cf542ce9e4e9f1b" title=" " alt="" coords="260,5,467,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,28,467,28,467,23,501,23"/>
-<area shape="rect" id="Node000004" href="$classRabbitNotificationSubscriber.html#afad7831d3da5490d37d949f50eb3296b" title=" " alt="" coords="5,5,212,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,28,212,28,212,23,247,23"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="IRateLimiter::allow" name="IRateLimiter::allow">
-<area shape="rect" id="Node000001" title=" " alt="" coords="357,13,503,38"/>
-<area shape="rect" id="Node000002" href="$structRateLimitMiddleware.html#ab56d3f664a8aafbc3997bfee009ca0aa" title=" " alt="" coords="148,5,309,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,28,309,28,309,23,343,23"/>
-<area shape="rect" id="Node000003" href="$test__middlewares_8cpp.html#a693dbdde2b2abe4b3df605da76bfedef" title=" " alt="" coords="5,13,100,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,28,100,28,100,23,134,23"/>
-</map>

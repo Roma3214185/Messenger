@@ -1,7 +1,0 @@
-<map id="SocketRepository" name="SocketRepository">
-<area shape="rect" id="Node000001" title="Реалізація зберігання WebSocket&#45;з’єднань" alt="" coords="127,79,261,104"/>
-<area shape="rect" id="Node000002" href="$classIActiveSocketRepository.html" title="Репозиторій активних WebSocket&#45;з’єднань" alt="" coords="5,5,185,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,36,179,76,176,81,120,41"/>
-<area shape="rect" id="Node000003" href="$classIUserSocketRepository.html" title="Репозиторій сокетів користувачів" alt="" coords="209,5,379,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,41,212,81,209,76,265,36"/>
-</map>

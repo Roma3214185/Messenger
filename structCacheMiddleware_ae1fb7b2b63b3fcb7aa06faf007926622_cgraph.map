@@ -1,9 +1,0 @@
-<map id="CacheMiddleware::before_handle" name="CacheMiddleware::before_handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,193,87"/>
-<area shape="rect" id="Node000002" href="$classICacheService.html#a7f4b45211803f0b047375efe42a014dd" title=" " alt="" coords="293,5,436,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,47,282,31,283,36,194,52"/>
-<area shape="rect" id="Node000003" href="$structCacheMiddleware.html#aa27e95d233cb82c1a22dd5f0012cbc14" title=" " alt="" coords="241,55,488,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,65,228,65,228,70,194,70"/>
-<area shape="rect" id="Node000004" href="$structCacheMiddleware.html#a4ef67b25a4e83e2e8d4ca0ec1955a56d" title=" " alt="" coords="264,105,465,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,85,259,99,258,104,192,90"/>
-</map>

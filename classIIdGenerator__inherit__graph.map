@@ -1,7 +1,0 @@
-<map id="IIdGenerator" name="IIdGenerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="74,5,177,31"/>
-<area shape="rect" id="Node000002" href="$classGeneratorId.html" title=" " alt="" coords="5,79,104,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,43,68,80,64,77,102,39"/>
-<area shape="rect" id="Node000003" href="$structMockIdGenerator.html" title=" " alt="" coords="129,79,263,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,39,186,77,183,80,145,43"/>
-</map>

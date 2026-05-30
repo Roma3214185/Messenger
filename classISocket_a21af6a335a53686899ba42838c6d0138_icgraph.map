@@ -1,7 +1,0 @@
-<map id="ISocket::disconnectSocket" name="ISocket::disconnectSocket">
-<area shape="rect" id="Node000001" title=" " alt="" coords="360,5,551,31"/>
-<area shape="rect" id="Node000002" href="$classSocketManager.html#a9329a0e1b8986b65c1e02a5395fc07b7" title=" " alt="" coords="148,5,312,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,21,312,21,312,15,346,15"/>
-<area shape="rect" id="Node000003" href="$test__socketmanager_8cpp.html#ae0461f4f444061bce695e6f78997fc3e" title=" " alt="" coords="5,5,100,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
-</map>

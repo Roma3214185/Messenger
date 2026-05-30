@@ -1,9 +1,0 @@
-<map id="MessageDelegate::addInRect" name="MessageDelegate::addInRect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="768,5,980,31"/>
-<area shape="rect" id="Node000002" href="$classMessageDelegate.html#aaf398e9290e3ad2ffdddf15f82825dc7" title=" " alt="" coords="477,5,720,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,21,720,21,720,15,754,15"/>
-<area shape="rect" id="Node000003" href="$classMessageDelegate.html#af4422860c9b5d3e77de51de2a96ac5ca" title=" " alt="" coords="233,5,429,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,21,430,21,430,15,464,15"/>
-<area shape="rect" id="Node000004" href="$classMessageDelegate.html#a8cc69113c3affde70820da1b78f50f01" title=" " alt="" coords="5,5,185,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,21,185,21,185,15,220,15"/>
-</map>

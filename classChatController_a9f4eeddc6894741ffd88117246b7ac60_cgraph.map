@@ -1,7 +1,0 @@
-<map id="ChatController::getReactionOfChat" name="ChatController::getReactionOfChat">
-<area shape="rect" id="Node000001" title="Отримання реакцій чату" alt="" coords="5,35,208,75"/>
-<area shape="rect" id="Node000002" href="$classIMessageNetworkManager.html#aca8012b3fdb801b847ea6acb996bf044" title=" " alt="" coords="258,5,454,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,40,244,36,245,41,209,45"/>
-<area shape="rect" id="Node000003" href="$classINetworkFacade.html#a9c7afcb35b99977c6d733a9229d9c633" title="Доступ до API повідомлень" alt="" coords="256,70,456,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,63,242,67,242,73,208,69"/>
-</map>

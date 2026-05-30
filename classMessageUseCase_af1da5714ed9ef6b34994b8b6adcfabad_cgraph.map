@@ -1,5 +1,0 @@
-<map id="MessageUseCase::getMessageModel" name="MessageUseCase::getMessageModel">
-<area shape="rect" id="Node000001" title="Отримання моделі повідомлень для чату" alt="" coords="5,5,229,45"/>
-<area shape="rect" id="Node000002" href="$classIMessageDataManager.html#a07cd6c6f92ea072016b1fcbab8344dea" title=" " alt="" coords="277,5,449,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,23,264,23,264,28,230,28"/>
-</map>

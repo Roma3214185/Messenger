@@ -1,5 +1,0 @@
-<map id="SocketUseCase::deleteReaction" name="SocketUseCase::deleteReaction">
-<area shape="rect" id="Node000001" title="Видалення реакції" alt="" coords="5,5,233,31"/>
-<area shape="rect" id="Node000002" href="$classSocketUseCase.html#a47f62bbb2bfddaac2c9cc2341f1ea4c5" title="Надсилання сирого тексту в сокет" alt="" coords="281,5,497,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,15,267,15,267,21,234,21"/>
-</map>

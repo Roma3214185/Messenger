@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classIMainWindow.html" title=" " alt="" coords="8,55,119,80"/>
-<area shape="rect" id="Node000001" href="$classMainWindow.html" title="Головне вікно застосунку (UI рівень)" alt="" coords="187,5,293,31"/>
-<area shape="poly" id="edge79_Node000000_Node000001" title=" " alt="" coords="122,48,193,28,194,33,123,53"/>
-<area shape="rect" id="Node000003" href="$classMockMainWindow.html" title=" " alt="" coords="169,55,311,80"/>
-<area shape="poly" id="edge80_Node000000_Node000003" title=" " alt="" coords="132,65,169,65,169,70,132,70"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,121,31"/>
-<area shape="poly" id="edge81_Node000002_Node000001" title=" " alt="" coords="135,15,186,15,186,21,135,21"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="JsonService::getChatFromJson" name="JsonService::getChatFromJson">
-<area shape="rect" id="Node000001" title="Парсинг Chat з JSON." alt="" coords="5,5,221,31"/>
-<area shape="rect" id="Node000002" href="$classJsonService.html#a5be4d847edaff4e715744d85bb7622d8" title="Парсинг ReactionInfo з JSON значення" alt="" coords="269,5,477,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,15,255,15,255,21,222,21"/>
-<area shape="rect" id="Node000003" href="$structReactionInfo.html#a6fca8039e0ca5657c9b914d92cd7b153" title="Перевірка коректності об’єкта" alt="" coords="525,5,740,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,15,511,15,511,21,478,21"/>
-</map>

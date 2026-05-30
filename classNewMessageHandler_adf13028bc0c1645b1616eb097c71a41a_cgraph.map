@@ -1,9 +1,0 @@
-<map id="NewMessageHandler::handle" name="NewMessageHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,173,109"/>
-<area shape="rect" id="Node000002" href="$classIMessageJsonService.html#a311904a55d125f461b11acec636cce31" title="Парсинг повідомлення та реакцій з JSON." alt="" coords="223,5,392,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,67,225,47,227,52,159,72"/>
-<area shape="rect" id="Node000003" href="$classIMessageDataManager.html#a4490aed750f4943a305429b7fd07442a" title=" " alt="" coords="221,69,393,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,87,208,87,208,92,174,92"/>
-<area shape="rect" id="Node000004" href="$classIReactionDataManager.html#ad23ba69bee146ad6a87aece573cc9372" title=" " alt="" coords="222,133,393,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,107,227,127,225,132,157,112"/>
-</map>

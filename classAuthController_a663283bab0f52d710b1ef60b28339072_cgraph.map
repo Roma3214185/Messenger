@@ -1,9 +1,0 @@
-<map id="AuthController::handleMe" name="AuthController::handleMe">
-<area shape="rect" id="Node000001" title="Отримання даних поточного користувача" alt="" coords="5,31,193,56"/>
-<area shape="rect" id="Node000002" href="$classIAuthManager.html#ad9f02ca18bb523447b178b776a4e4758" title=" " alt="" coords="255,5,427,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,31,241,26,241,31,194,36"/>
-<area shape="rect" id="Node000003" href="$classAuthController.html#ae3853349b9c18bb9a6bbffe2358d5404" title="Перевірка токена та отримання user id." alt="" coords="241,55,440,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,50,228,53,227,59,193,55"/>
-<area shape="rect" id="Node000004" href="$classIAuthoritizer.html#af840ed08a0a48fe13b1d7e8504763694" title=" " alt="" coords="488,47,672,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="440,65,474,65,474,70,440,70"/>
-</map>

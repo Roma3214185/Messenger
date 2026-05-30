@@ -1,9 +1,0 @@
-<map id="INetworkAccessManager::post" name="INetworkAccessManager::post">
-<area shape="rect" id="Node000001" title=" " alt="" coords="431,23,613,63"/>
-<area shape="rect" id="Node000002" href="$classChatManager.html#abc3441cfe8830c7d22dd986d8de9097e" title=" " alt="" coords="148,5,383,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,36,383,32,383,27,417,30"/>
-<area shape="rect" id="Node000003" href="$classSessionManager.html#a3bd13fedda85f7015fb3d60d1970298a" title=" " alt="" coords="174,55,357,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,56,357,61,357,56,417,50"/>
-<area shape="rect" id="Node000004" href="$test__sessionmanager_8cpp.html#a46749a9a85445c4e133a8417e735ae0f" title=" " alt="" coords="5,55,100,80"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,70,100,70,100,65,160,65"/>
-</map>

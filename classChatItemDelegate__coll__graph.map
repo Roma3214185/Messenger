@@ -1,9 +1,0 @@
-<map id="ChatItemDelegate" name="ChatItemDelegate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="207,93,348,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,168,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,34,253,91,250,96,124,39"/>
-<area shape="rect" id="Node000003" href="$classIReactionDataManager.html" title=" " alt="" coords="192,5,363,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,45,280,93,275,93,275,45"/>
-<area shape="rect" id="Node000004" href="$structChatItemStyle.html" title=" " alt="" coords="387,5,501,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="426,43,389,72,360,86,329,96,327,91,358,81,387,67,423,39"/>
-</map>

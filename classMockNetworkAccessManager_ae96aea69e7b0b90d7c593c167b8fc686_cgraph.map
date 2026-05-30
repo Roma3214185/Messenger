@@ -1,7 +1,0 @@
-<map id="MockNetworkAccessManager::get" name="MockNetworkAccessManager::get">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,248,56"/>
-<area shape="rect" id="Node000002" href="$classMockReply.html#ad9eebac95fcb391352fb0912b6731509" title=" " alt="" coords="299,5,484,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,29,285,26,285,31,249,34"/>
-<area shape="rect" id="Node000003" href="$classMockReply.html#ae34cb6b3b495207e0a3448f9cb74755e" title=" " alt="" coords="296,55,487,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,52,283,55,282,60,248,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="NotificationOrchestrator::fetchChatMembers" name="NotificationOrchestrator::fetchChatMembers">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,184,67"/>
-<area shape="rect" id="Node000002" href="$classINetworkFacade.html#ae08ce77bd4636943f3482bc54f4c43fc" title="Доступ до API чатів" alt="" coords="232,5,401,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,33,218,28,219,34,185,38"/>
-<area shape="rect" id="Node000003" href="$classIChatNetworkManager.html#a784c783359011e734fb838b78f6a9c4d" title=" " alt="" coords="233,55,401,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,56,219,60,219,66,184,61"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="JsonService::getReactionInfo" name="JsonService::getReactionInfo">
-<area shape="rect" id="Node000001" title="Парсинг ReactionInfo з JSON значення" alt="" coords="5,5,213,31"/>
-<area shape="rect" id="Node000002" href="$structReactionInfo.html#a6fca8039e0ca5657c9b914d92cd7b153" title="Перевірка коректності об’єкта" alt="" coords="261,5,476,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,15,247,15,247,21,214,21"/>
-</map>

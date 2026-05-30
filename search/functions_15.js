@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['waitall_0',['waitAll',['../classThreadPool.html#a2f25f5182d33e3052b4025323240f5aa',1,'ThreadPool']]],
-  ['waitforfuture_1',['waitforfuture',['../namespaceanonymous__namespace_02chatusecase_8cpp_03.html#ab17d53cdc5cacef4e311b9af61042560',1,'anonymous_namespace{chatusecase.cpp}::waitForFuture()'],['../namespaceanonymous__namespace_02messageusecase_8cpp_03.html#a3498d598234ffdbfc39a9c75f6af15af',1,'anonymous_namespace{messageusecase.cpp}::waitForFuture()'],['../namespaceanonymous__namespace_02userusecase_8cpp_03.html#acac28b699d5376c7e62db8c56ca11c48',1,'anonymous_namespace{userusecase.cpp}::waitForFuture()']]],
-  ['websocketbridge_2',['WebSocketBridge',['../classWebSocketBridge.html#a742ee9cb43e90decf19307417bf4e770',1,'WebSocketBridge']]],
-  ['where_3',['where',['../classIBaseQuery.html#a70c1e85fcc6e0075d2cbca88f60d34ba',1,'IBaseQuery::where(const std::string &amp;field, const std::string &amp;value) &amp;'],['../classIBaseQuery.html#ac8c73209fa031d4949be65ba9a4ba3aa',1,'IBaseQuery::where(const std::string &amp;field, const QVariant &amp;value) &amp;'],['../classIBaseQuery.html#a02e607ed8ed32122d0487cee9767bdaf',1,'IBaseQuery::where(const std::string &amp;field, Operator op, const std::string &amp;value) &amp;'],['../classIBaseQuery.html#a607ab99e771a8edd930918bd0c4e37d9',1,'IBaseQuery::where(const std::string &amp;field, Operator op, const QVariant &amp;value) &amp;']]]
-];

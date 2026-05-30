@@ -1,7 +1,0 @@
-<map id="DeleteMessageReactionHandler::handle" name="DeleteMessageReactionHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,236,77"/>
-<area shape="rect" id="Node000002" href="$classIReactionDataManager.html#a5847ecabd163f82fa58b162293e55553" title=" " alt="" coords="284,5,455,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,40,270,35,271,41,237,45"/>
-<area shape="rect" id="Node000003" href="$classIReactionJsonService.html#ab96e64bf196d7242e434f6618c90011d" title="Парсинг Reaction з JSON." alt="" coords="290,69,449,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,70,277,75,276,80,236,75"/>
-</map>

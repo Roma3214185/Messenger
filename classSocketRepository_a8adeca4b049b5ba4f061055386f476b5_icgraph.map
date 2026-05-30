@@ -1,7 +1,0 @@
-<map id="SocketRepository::getUserSocket" name="SocketRepository::getUserSocket">
-<area shape="rect" id="Node000001" title="Отримання сокета користувача" alt="" coords="148,23,341,63"/>
-<area shape="rect" id="Node000002" href="$test__socket__repository_8cpp.html#ae6ff65965ec38d664320aed64edb78f9" title=" " alt="" coords="5,5,100,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,31,100,27,101,22,134,26"/>
-<area shape="rect" id="Node000003" href="$test__socket__repository_8cpp.html#ac3d5b00c8b245fbcd71d3f34ac1a94da" title=" " alt="" coords="5,55,100,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,60,101,64,100,59,134,55"/>
-</map>

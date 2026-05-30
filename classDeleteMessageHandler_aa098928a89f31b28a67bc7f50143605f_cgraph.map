@@ -1,7 +1,0 @@
-<map id="DeleteMessageHandler::handle" name="DeleteMessageHandler::handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,180,77"/>
-<area shape="rect" id="Node000002" href="$classIMessageDataManager.html#a7352c2dbe4f3b2996ac2dfaa6fc71f40" title=" " alt="" coords="228,5,400,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,42,214,37,215,42,181,47"/>
-<area shape="rect" id="Node000003" href="$classIMessageJsonService.html#a311904a55d125f461b11acec636cce31" title="Парсинг повідомлення та реакцій з JSON." alt="" coords="229,69,399,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,67,216,73,215,78,180,73"/>
-</map>

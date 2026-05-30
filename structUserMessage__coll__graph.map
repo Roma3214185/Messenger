@@ -1,7 +1,0 @@
-<map id="UserMessage" name="UserMessage">
-<area shape="rect" id="Node000001" title="Розширене повідомлення користувача (з реакціями та статусом прочитання)" alt="" coords="5,196,116,221"/>
-<area shape="rect" id="Node000002" href="$structMessage.html" title="Модель повідомлення" alt="" coords="21,108,101,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,147,63,195,58,195,58,147"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="31,5,90,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,45,63,108,58,108,58,45"/>
-</map>

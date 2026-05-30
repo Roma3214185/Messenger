@@ -1,9 +1,0 @@
-<map id="MessageManager::deleteMessage" name="MessageManager::deleteMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,249,80"/>
-<area shape="rect" id="Node000002" href="$structMessage.html#a4bc45a7fbc4e33452d8f0476a0741c4c" title="Перевірка коректності стану об’єкта" alt="" coords="313,5,504,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,52,321,31,322,36,201,57"/>
-<area shape="rect" id="Node000003" href="$classINetworkAccessManager.html#a025babdc5dcfab2b4d52c0637c03d9b3" title=" " alt="" coords="303,55,514,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,65,289,65,289,70,250,70"/>
-<area shape="rect" id="Node000004" href="$classBaseManager.html#a3d311360de82a88e272c4054f8ef01ef" title=" " alt="" coords="297,105,520,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,77,297,99,296,105,190,83"/>
-</map>

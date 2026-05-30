@@ -1,9 +1,0 @@
-<map id="Backend/Gateway/include/websocketbridge.h" name="Backend/Gateway/include/websocketbridge.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="99,5,290,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,69,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,48,74,89,72,85,156,43"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="93,93,296,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,46,197,79,192,79,192,46"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="321,93,445,119"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,43,343,85,341,90,239,48"/>
-</map>

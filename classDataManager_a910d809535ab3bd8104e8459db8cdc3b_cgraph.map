@@ -1,9 +1,0 @@
-<map id="DataManager::save" name="DataManager::save">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,155,80"/>
-<area shape="rect" id="Node000002" href="$structMessageStatus.html#abbb60827fc7058309189d9fda272fbc5" title="Перевірка коректності стану об’єкта" alt="" coords="211,5,443,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,52,202,39,246,31,247,36,203,45,142,57"/>
-<area shape="rect" id="Node000003" href="$classDataManager.html#a4857ab47dbb858ee383f4deaec28720b" title=" " alt="" coords="203,55,451,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,65,189,65,189,70,155,70"/>
-<area shape="rect" id="Node000004" href="$classDataManager.html#a6c9708dce4d50623f857a5a60bdc126f" title=" " alt="" coords="217,104,436,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,77,250,99,249,104,144,83"/>
-</map>

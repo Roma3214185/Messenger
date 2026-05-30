@@ -1,7 +1,0 @@
-<map id="MockApiCache" name="MockApiCache">
-<area shape="rect" id="Node000001" title=" " alt="" coords="58,123,177,148"/>
-<area shape="rect" id="Node000002" href="$classICacheService.html" title=" " alt="" coords="5,5,120,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,42,114,121,110,124,72,44"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="144,5,203,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,44,125,124,120,121,159,42"/>
-</map>

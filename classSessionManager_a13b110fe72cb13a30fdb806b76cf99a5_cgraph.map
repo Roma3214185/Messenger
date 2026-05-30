@@ -1,9 +1,0 @@
-<map id="SessionManager::onReplyFinished" name="SessionManager::onReplyFinished">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,249,95"/>
-<area shape="rect" id="Node000002" href="$classIUserJsonService.html#aa17ea165c0053a138b73349eb9ee6841" title="Десеріалізація User з JSON відповіді" alt="" coords="310,5,501,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,67,296,45,297,50,190,73"/>
-<area shape="rect" id="Node000003" href="$structUser.html#ae04eca84074fe851fbdbe28d0045ecb3" title=" " alt="" coords="350,70,461,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,80,336,80,336,85,249,85"/>
-<area shape="rect" id="Node000004" href="$classSessionManager.html#ae1894a652ba7fab6f10ebebe9ad5972e" title=" " alt="" coords="297,119,513,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,93,320,114,319,119,199,98"/>
-</map>

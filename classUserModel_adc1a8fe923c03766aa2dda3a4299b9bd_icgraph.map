@@ -1,9 +1,0 @@
-<map id="UserModel::addUser" name="UserModel::addUser">
-<area shape="rect" id="Node000001" title="Додавання користувача" alt="" coords="516,38,671,63"/>
-<area shape="rect" id="Node000002" href="$classPresenter.html#a9ce30dfe3186126e4ee390fa4190ab14" title=" " alt="" coords="269,13,468,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,43,468,39,468,34,502,38"/>
-<area shape="rect" id="Node000004" href="$test__usermodel_8cpp.html#a956a168c3f7072dacc8da0598ff9d232" title=" " alt="" coords="321,62,416,87"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,63,416,72,416,67,502,58"/>
-<area shape="rect" id="Node000003" href="$classMainWindow.html#aff7683edfd8b5a745f4b8097631b7657" title=" " alt="" coords="5,5,221,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,28,221,28,221,23,256,23"/>
-</map>

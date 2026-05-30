@@ -1,7 +1,0 @@
-<map id="IMessageNetworkManager" name="IMessageNetworkManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="119,5,315,31"/>
-<area shape="rect" id="Node000002" href="$classMessageNetworkManager.html" title=" " alt="" coords="5,79,197,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,40,122,81,119,76,186,35"/>
-<area shape="rect" id="Node000003" href="$classMockMessageNetworkManager.html" title=" " alt="" coords="221,79,448,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,35,317,76,314,81,247,40"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IMessageStatusJsonService" name="IMessageStatusJsonService">
-<area shape="rect" id="Node000001" title="JSON&#45;сервіс статусу повідомлення" alt="" coords="5,5,205,31"/>
-<area shape="rect" id="Node000002" href="$classJsonService.html" title="Реалізація JSON&#45;сервісів (уніфікований парсер/серіалізатор)" alt="" coords="57,79,154,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,44,108,79,103,79,103,44"/>
-</map>
